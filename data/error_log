@@ -1,0 +1,678 @@
+[02-Jul-2021 01:04:30 UTC] Message has been sent
+[02-Jul-2021 01:04:50 UTC] Message has been sent
+[02-Jul-2021 01:06:46 UTC] Message has been sent
+[02-Jul-2021 01:08:34 UTC] Message has been sent
+[05-Jul-2021 22:35:52 UTC] Message has been sent
+[05-Jul-2021 22:36:26 UTC] Message has been sent
+[05-Jul-2021 22:36:42 UTC] Message has been sent
+[05-Jul-2021 22:51:08 UTC] Message could not be sent.
+[05-Jul-2021 22:51:08 UTC] Mailer Error: SMTP Error: The following recipients failed: fahadbashir757@gmail.com: Please turn on SMTP Authentication in your mail client. 
+(everestwebsites.com) [66.29.132.111]:35726 is not permitted to relay
+through this server without authentication.
+
+[05-Jul-2021 22:52:38 UTC] Message could not be sent.
+[05-Jul-2021 22:52:38 UTC] Mailer Error: Invalid address:  (From): root@localhost
+[05-Jul-2021 22:53:08 UTC] Message could not be sent.
+[05-Jul-2021 22:53:08 UTC] Mailer Error: Could not instantiate mail function.
+[05-Jul-2021 22:53:41 UTC] Message could not be sent.
+[05-Jul-2021 22:53:41 UTC] Mailer Error: Could not instantiate mail function.
+[05-Jul-2021 22:54:49 UTC] Message could not be sent.
+[05-Jul-2021 22:54:49 UTC] Mailer Error: Could not instantiate mail function.
+[05-Jul-2021 23:01:11 UTC] Message could not be sent.
+[05-Jul-2021 23:01:11 UTC] Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[05-Jul-2021 23:04:07 UTC] Message has been sent
+[05-Jul-2021 23:04:48 UTC] Message could not be sent.
+[05-Jul-2021 23:04:48 UTC] Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[05-Jul-2021 23:05:53 UTC] Message has been sent
+[05-Jul-2021 23:05:58 UTC] Message could not be sent.
+[05-Jul-2021 23:05:58 UTC] Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[05-Jul-2021 23:06:23 UTC] Message has been sent
+[05-Jul-2021 23:18:00 UTC] Message has been sent
+[05-Jul-2021 23:18:50 UTC] Message has been sent
+[05-Jul-2021 23:19:01 UTC] Message has been sent
+[05-Jul-2021 23:21:19 UTC] Message has been sent
+[05-Jul-2021 23:23:36 UTC] Message has been sent
+[05-Jul-2021 23:28:17 UTC] Message has been sent
+[05-Jul-2021 23:28:24 UTC] Message has been sent
+[05-Jul-2021 23:28:32 UTC] Message has been sent
+[05-Jul-2021 23:30:24 UTC] Message has been sent
+[05-Jul-2021 23:30:36 UTC] Message has been sent
+[05-Jul-2021 23:30:42 UTC] Message has been sent
+[05-Jul-2021 23:53:06 UTC] PHP Notice:  Undefined index: header in /home/everfwyh/everestwebsites.com/data/data.php on line 118
+[05-Jul-2021 23:53:07 UTC] Message has been sent
+[05-Jul-2021 23:54:02 UTC] PHP Notice:  Undefined index: header in /home/everfwyh/everestwebsites.com/data/data.php on line 118
+[05-Jul-2021 23:54:02 UTC] Message has been sent
+[05-Jul-2021 23:54:44 UTC] PHP Notice:  Undefined index: header in /home/everfwyh/everestwebsites.com/data/data.php on line 118
+[05-Jul-2021 23:54:44 UTC] Message has been sent
+[05-Jul-2021 23:55:45 UTC] PHP Notice:  Undefined index: header in /home/everfwyh/everestwebsites.com/data/data.php on line 118
+[05-Jul-2021 23:55:45 UTC] Message has been sent
+[05-Jul-2021 23:56:13 UTC] PHP Notice:  Undefined index: header in /home/everfwyh/everestwebsites.com/data/data.php on line 118
+[05-Jul-2021 23:56:13 UTC] Message has been sent
+[05-Jul-2021 23:56:36 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[05-Jul-2021 23:56:36 UTC] Message has been sent
+[05-Jul-2021 23:57:24 UTC] Message has been sent
+[05-Jul-2021 23:57:48 UTC] Message has been sent
+[05-Jul-2021 23:57:57 UTC] Message has been sent
+[06-Jul-2021 00:06:03 UTC] Message has been sent
+[06-Jul-2021 00:11:28 UTC] Message has been sent
+[06-Jul-2021 00:14:41 UTC] Message has been sent
+[06-Jul-2021 00:14:46 UTC] Message has been sent
+[06-Jul-2021 00:14:53 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[06-Jul-2021 00:14:53 UTC] Message has been sent
+[06-Jul-2021 00:15:16 UTC] Message has been sent
+[06-Jul-2021 00:15:16 UTC] Message has been sent
+[06-Jul-2021 18:25:42 UTC] Message has been sent
+[06-Jul-2021 18:25:43 UTC] Message has been sent
+[07-Jul-2021 16:05:11 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[07-Jul-2021 16:05:14 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[07-Jul-2021 16:05:16 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[07-Jul-2021 16:05:17 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[07-Jul-2021 16:05:17 UTC] Message has been sent
+[07-Jul-2021 16:05:18 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[07-Jul-2021 16:05:20 UTC] Message has been sent
+[07-Jul-2021 16:05:22 UTC] Message has been sent
+[07-Jul-2021 16:05:23 UTC] Message has been sent
+[07-Jul-2021 16:05:23 UTC] Message has been sent
+[09-Jul-2021 19:26:02 UTC] Message has been sent
+[17-Jul-2021 17:54:33 UTC] Message has been sent
+[21-Jul-2021 22:18:46 UTC] Message has been sent
+[22-Jul-2021 21:21:21 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[22-Jul-2021 21:21:22 UTC] Message has been sent
+[23-Jul-2021 17:07:34 UTC] Message has been sent
+[23-Jul-2021 17:16:15 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[23-Jul-2021 17:16:16 UTC] Message has been sent
+[23-Jul-2021 17:16:17 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[23-Jul-2021 17:16:17 UTC] Message has been sent
+[28-Jul-2021 15:57:48 UTC] Message has been sent
+[28-Jul-2021 15:57:48 UTC] Message has been sent
+[28-Jul-2021 16:24:43 UTC] Message has been sent
+[28-Jul-2021 16:24:44 UTC] Message has been sent
+[28-Jul-2021 16:24:47 UTC] Message has been sent
+[28-Jul-2021 16:24:54 UTC] Message has been sent
+[28-Jul-2021 20:47:30 UTC] Message has been sent
+[28-Jul-2021 20:47:30 UTC] Message has been sent
+[09-Aug-2021 16:32:54 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[09-Aug-2021 16:32:55 UTC] Message has been sent
+[09-Aug-2021 17:12:18 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[09-Aug-2021 17:12:23 UTC] Message has been sent
+[09-Aug-2021 17:14:25 UTC] Message has been sent
+[09-Aug-2021 17:14:53 UTC] Message has been sent
+[09-Aug-2021 17:22:28 UTC] Message has been sent
+[09-Aug-2021 17:23:50 UTC] Message has been sent
+[09-Aug-2021 17:24:13 UTC] Message has been sent
+[09-Aug-2021 17:29:29 UTC] Message has been sent
+[09-Aug-2021 18:31:17 UTC] Message has been sent
+[09-Aug-2021 18:32:25 UTC] Message has been sent
+[09-Aug-2021 22:50:12 UTC] Message has been sent
+[10-Aug-2021 18:08:25 UTC] Message has been sent
+[10-Aug-2021 18:08:39 UTC] Message has been sent
+[10-Aug-2021 18:10:49 UTC] Message has been sent
+[10-Aug-2021 20:41:04 UTC] Message has been sent
+[10-Aug-2021 21:26:14 UTC] Message has been sent
+[10-Aug-2021 22:10:05 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[10-Aug-2021 22:10:05 UTC] Message has been sent
+[10-Aug-2021 22:11:53 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[10-Aug-2021 22:11:53 UTC] Message has been sent
+[10-Aug-2021 22:14:51 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[10-Aug-2021 22:14:51 UTC] Message has been sent
+[10-Aug-2021 22:19:43 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[10-Aug-2021 22:19:44 UTC] Message has been sent
+[11-Aug-2021 14:55:04 UTC] Message has been sent
+[11-Aug-2021 14:55:05 UTC] Message has been sent
+[11-Aug-2021 15:39:43 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[11-Aug-2021 15:39:43 UTC] Message has been sent
+[11-Aug-2021 20:43:22 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[11-Aug-2021 20:43:22 UTC] Message has been sent
+[11-Aug-2021 21:01:47 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[11-Aug-2021 21:01:47 UTC] Message has been sent
+[11-Aug-2021 21:01:52 UTC] Message has been sent
+[11-Aug-2021 21:02:01 UTC] Message has been sent
+[11-Aug-2021 21:02:08 UTC] Message has been sent
+[11-Aug-2021 23:23:26 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[11-Aug-2021 23:23:27 UTC] Message has been sent
+[11-Aug-2021 23:23:29 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[11-Aug-2021 23:23:30 UTC] Message has been sent
+[11-Aug-2021 23:24:24 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[11-Aug-2021 23:24:24 UTC] Message has been sent
+[12-Aug-2021 19:56:52 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[12-Aug-2021 19:56:53 UTC] Message has been sent
+[12-Aug-2021 19:56:53 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[12-Aug-2021 19:56:53 UTC] Message has been sent
+[12-Aug-2021 19:56:56 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[12-Aug-2021 19:56:57 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[12-Aug-2021 19:56:57 UTC] Message has been sent
+[12-Aug-2021 19:56:57 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[12-Aug-2021 19:56:57 UTC] Message has been sent
+[12-Aug-2021 19:56:57 UTC] Message has been sent
+[12-Aug-2021 19:56:58 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[12-Aug-2021 19:56:58 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[12-Aug-2021 19:56:58 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[12-Aug-2021 19:56:58 UTC] Message has been sent
+[12-Aug-2021 19:56:58 UTC] Message has been sent
+[12-Aug-2021 19:56:59 UTC] Message has been sent
+[12-Aug-2021 19:57:05 UTC] PHP Notice:  Undefined index: header_hpackage in /home/everfwyh/everestwebsites.com/data/data.php on line 117
+[12-Aug-2021 19:57:06 UTC] Message has been sent
+[12-Aug-2021 21:38:57 UTC] Message has been sent
+[12-Aug-2021 21:39:35 UTC] Message has been sent
+[17-Aug-2021 17:29:43 UTC] Message has been sent
+[17-Aug-2021 17:33:00 UTC] Message has been sent
+[17-Aug-2021 17:33:02 UTC] Message has been sent
+[18-Aug-2021 17:26:32 UTC] Message has been sent
+[18-Aug-2021 18:04:53 UTC] Message has been sent
+[18-Aug-2021 18:04:54 UTC] Message has been sent
+[18-Aug-2021 20:37:45 UTC] Message has been sent
+[19-Aug-2021 18:04:38 UTC] Message has been sent
+[23-Aug-2021 16:33:08 UTC] Message has been sent
+[25-Aug-2021 16:29:43 UTC] Message has been sent
+[25-Aug-2021 16:48:50 UTC] Message has been sent
+[27-Aug-2021 16:07:46 UTC] Message has been sent
+[27-Aug-2021 17:26:06 UTC] Message has been sent
+[30-Aug-2021 15:02:31 UTC] Message has been sent
+[30-Aug-2021 15:02:44 UTC] Message has been sent
+[30-Aug-2021 16:04:11 UTC] Message has been sent
+[30-Aug-2021 16:14:50 UTC] Message has been sent
+[30-Aug-2021 16:32:30 UTC] Message has been sent
+[30-Aug-2021 16:32:32 UTC] Message has been sent
+[30-Aug-2021 16:32:37 UTC] Message has been sent
+[31-Aug-2021 16:12:01 UTC] Message has been sent
+[31-Aug-2021 17:52:48 UTC] Message has been sent
+[31-Aug-2021 19:47:49 UTC] Message has been sent
+[01-Sep-2021 16:33:57 UTC] Message has been sent
+[01-Sep-2021 20:05:20 UTC] Message has been sent
+[01-Sep-2021 22:45:56 UTC] Message has been sent
+[07-Sep-2021 15:07:27 UTC] Message has been sent
+[07-Sep-2021 15:08:21 UTC] Message has been sent
+[07-Sep-2021 18:29:51 UTC] Message has been sent
+[08-Sep-2021 16:36:45 UTC] Message has been sent
+[08-Sep-2021 16:56:31 UTC] Message has been sent
+[08-Sep-2021 19:57:21 UTC] Message has been sent
+[10-Sep-2021 14:04:06 UTC] Message has been sent
+[15-Sep-2021 18:26:23 UTC] Message has been sent
+[15-Sep-2021 18:26:24 UTC] Message has been sent
+[15-Sep-2021 18:26:28 UTC] Message has been sent
+[16-Sep-2021 14:44:18 UTC] Message has been sent
+[17-Sep-2021 22:10:12 UTC] Message has been sent
+[17-Sep-2021 22:12:17 UTC] Message has been sent
+[22-Sep-2021 14:27:55 UTC] Message has been sent
+[22-Sep-2021 15:11:46 UTC] Message has been sent
+[22-Sep-2021 15:48:46 UTC] Message has been sent
+[24-Sep-2021 23:37:14 UTC] Message has been sent
+[24-Sep-2021 23:37:16 UTC] Message has been sent
+[27-Sep-2021 16:46:14 UTC] Message has been sent
+[29-Sep-2021 14:31:24 UTC] Message has been sent
+[20-Oct-2021 21:09:39 UTC] Message has been sent
+[25-Oct-2021 20:16:22 UTC] Message has been sent
+[27-Oct-2021 18:57:23 UTC] PHP Notice:  Undefined index: mode in /home/theanimationconc/public_html/data/data.php on line 15
+[27-Oct-2021 18:57:23 UTC] PHP Notice:  Undefined variable: message in /home/theanimationconc/public_html/data/data.php on line 290
+[27-Oct-2021 18:57:23 UTC] Message could not be sent.
+[27-Oct-2021 18:57:23 UTC] Mailer Error: Message body empty
+[27-Oct-2021 18:59:24 UTC] PHP Notice:  Undefined index: mode in /home/theanimationconc/public_html/data/data.php on line 15
+[27-Oct-2021 18:59:24 UTC] PHP Notice:  Undefined variable: message in /home/theanimationconc/public_html/data/data.php on line 290
+[27-Oct-2021 18:59:24 UTC] Message could not be sent.
+[27-Oct-2021 18:59:24 UTC] Mailer Error: Message body empty
+[27-Oct-2021 18:59:53 UTC] PHP Notice:  Undefined index: mode in /home/theanimationconc/public_html/data/data.php on line 15
+[27-Oct-2021 18:59:53 UTC] PHP Notice:  Undefined variable: message in /home/theanimationconc/public_html/data/data.php on line 290
+[27-Oct-2021 18:59:53 UTC] Message could not be sent.
+[27-Oct-2021 18:59:53 UTC] Mailer Error: Message body empty
+[27-Oct-2021 19:01:02 UTC] PHP Notice:  Undefined index: mode in /home/theanimationconc/public_html/data/data.php on line 15
+[27-Oct-2021 19:01:02 UTC] PHP Notice:  Undefined variable: message in /home/theanimationconc/public_html/data/data.php on line 290
+[27-Oct-2021 19:01:02 UTC] Message could not be sent.
+[27-Oct-2021 19:01:02 UTC] Mailer Error: Message body empty
+[27-Oct-2021 19:27:45 UTC] Message could not be sent.
+[27-Oct-2021 19:27:45 UTC] Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[27-Oct-2021 23:03:58 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/Testmail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/Testmail.php on line 8
+[27-Oct-2021 23:04:00 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/Testmail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/Testmail.php on line 8
+[27-Oct-2021 23:04:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/Testmail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/Testmail.php on line 8
+[27-Oct-2021 23:04:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/Testmail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/Testmail.php on line 8
+[27-Oct-2021 23:05:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/Testmail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/Testmail.php on line 8
+[27-Oct-2021 23:05:59 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/Testmail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/Testmail.php on line 8
+[28-Oct-2021 16:20:50 UTC] PHP Notice:  Undefined index: mode in /home/theanimationconc/public_html/data/data.php on line 31
+[28-Oct-2021 16:20:50 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:20:50 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:20:50 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:21:01 UTC] PHP Notice:  Undefined index: mode in /home/theanimationconc/public_html/data/data.php on line 31
+[28-Oct-2021 16:21:01 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:21:01 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:21:01 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:21:12 UTC] PHP Notice:  Undefined index: mode in /home/theanimationconc/public_html/data/data.php on line 31
+[28-Oct-2021 16:21:12 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:21:12 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:21:12 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:22:01 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:22:01 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:22:01 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:22:01 UTC] PHP Notice:  Undefined index: mode in /home/theanimationconc/public_html/data/data.php on line 31
+[28-Oct-2021 16:22:01 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:22:01 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:22:01 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 293
+[28-Oct-2021 16:22:51 UTC] PHP Notice:  Undefined index: mode in /home/theanimationconc/public_html/data/data.php on line 29
+[28-Oct-2021 16:22:51 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 291
+[28-Oct-2021 16:22:51 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 291
+[28-Oct-2021 16:22:51 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 291
+[28-Oct-2021 16:23:38 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 30
+[28-Oct-2021 16:23:38 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 30
+[28-Oct-2021 16:23:38 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 30
+[28-Oct-2021 16:23:41 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 30
+[28-Oct-2021 16:23:41 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 30
+[28-Oct-2021 16:23:41 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 30
+[28-Oct-2021 16:23:43 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 30
+[28-Oct-2021 16:23:43 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 30
+[28-Oct-2021 16:23:43 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 30
+[28-Oct-2021 16:25:38 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:25:38 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:25:38 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:27:08 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:27:08 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:27:08 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:29:11 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 7
+[28-Oct-2021 16:29:11 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 7
+[28-Oct-2021 16:29:11 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 7
+[28-Oct-2021 16:29:33 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 7
+[28-Oct-2021 16:29:33 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 7
+[28-Oct-2021 16:29:33 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 7
+[28-Oct-2021 16:29:33 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 7
+[28-Oct-2021 16:29:33 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 7
+[28-Oct-2021 16:29:33 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 7
+[28-Oct-2021 16:30:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/data.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:31:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/data.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:31:16 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/data.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:32:12 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/data.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:33:39 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:33:39 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:33:39 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:34:18 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:34:18 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:34:18 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:34:37 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:34:37 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:34:37 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:34:37 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:34:37 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:34:37 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 2
+[28-Oct-2021 16:35:52 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 7
+[28-Oct-2021 16:35:52 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 7
+[28-Oct-2021 16:35:52 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 7
+[28-Oct-2021 16:36:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/data.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:36:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/data.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:36:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/data.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:38:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/data.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:38:16 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer\PHPMailer\PHPMailer' not found in /home/theanimationconc/public_html/data/data.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:40:34 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:40:34 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:40:34 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:40:35 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:40:35 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:40:35 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:44:10 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:44:10 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:44:10 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 9
+[28-Oct-2021 16:51:48 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 269
+[28-Oct-2021 16:51:48 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 269
+[28-Oct-2021 16:51:48 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 269
+[28-Oct-2021 16:56:31 UTC] PHP Notice:  Undefined variable: mail in /home/theanimationconc/public_html/data/data.php on line 280
+[28-Oct-2021 16:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function IsSMTP() on null in /home/theanimationconc/public_html/data/data.php:280
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 280
+[28-Oct-2021 16:57:53 UTC] PHP Warning:  Creating default object from empty value in /home/theanimationconc/public_html/data/data.php on line 285
+[28-Oct-2021 16:57:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::IsHTML() in /home/theanimationconc/public_html/data/data.php:289
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 289
+[28-Oct-2021 16:58:57 UTC] PHP Warning:  Creating default object from empty value in /home/theanimationconc/public_html/data/data.php on line 285
+[28-Oct-2021 16:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::SetFrom() in /home/theanimationconc/public_html/data/data.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 292
+[28-Oct-2021 17:00:29 UTC] PHP Warning:  Creating default object from empty value in /home/theanimationconc/public_html/data/data.php on line 285
+[28-Oct-2021 17:00:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home/theanimationconc/public_html/data/data.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 292
+[28-Oct-2021 17:02:41 UTC] PHP Warning:  Creating default object from empty value in /home/theanimationconc/public_html/data/data.php on line 285
+[28-Oct-2021 17:02:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::From() in /home/theanimationconc/public_html/data/data.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 292
+[28-Oct-2021 17:04:31 UTC] PHP Warning:  Creating default object from empty value in /home/theanimationconc/public_html/data/data.php on line 285
+[28-Oct-2021 17:04:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::FromName() in /home/theanimationconc/public_html/data/data.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 292
+[28-Oct-2021 17:05:17 UTC] PHP Warning:  Creating default object from empty value in /home/theanimationconc/public_html/data/data.php on line 285
+[28-Oct-2021 17:05:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::From() in /home/theanimationconc/public_html/data/data.php:292
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 292
+[28-Oct-2021 17:09:05 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:09:05 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:09:05 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:11:32 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:11:32 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:11:32 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:12:41 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:12:41 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:12:41 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:14:07 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/Testmail.php on line 9
+[28-Oct-2021 17:14:07 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/Testmail.php on line 9
+[28-Oct-2021 17:14:07 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/Testmail.php on line 9
+[28-Oct-2021 17:16:42 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:16:42 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:16:42 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:22:32 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/Testmail.php on line 9
+[28-Oct-2021 17:22:32 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/Testmail.php on line 9
+[28-Oct-2021 17:22:32 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/Testmail.php on line 9
+[28-Oct-2021 17:25:46 UTC] PHP Warning:  require(/home/theanimationconc/public_html/data/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:25:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/theanimationconc/public_html/data/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:28:25 UTC] PHP Warning:  require(/home/theanimationconc/public_html/data/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:28:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/theanimationconc/public_html/data/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:33:59 UTC] PHP Warning:  require(/home/theanimationconc/public_html/data/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:33:59 UTC] PHP Fatal error:  require(): Failed opening required '/home/theanimationconc/public_html/data/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:35:47 UTC] PHP Warning:  include(/home/theanimationconc/public_html/data/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:35:47 UTC] PHP Warning:  include(): Failed opening '/home/theanimationconc/public_html/data/PHPMailer/src/Exception.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 17:35:47 UTC] PHP Warning:  include(/home/theanimationconc/public_html/data/PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 272
+[28-Oct-2021 17:35:47 UTC] PHP Warning:  include(): Failed opening '/home/theanimationconc/public_html/data/PHPMailer/src/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 272
+[28-Oct-2021 17:35:47 UTC] PHP Warning:  include(/home/theanimationconc/public_html/data/PHPMailer/src/SMTP.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 273
+[28-Oct-2021 17:35:47 UTC] PHP Warning:  include(): Failed opening '/home/theanimationconc/public_html/data/PHPMailer/src/SMTP.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 273
+[28-Oct-2021 17:35:47 UTC] PHP Notice:  Undefined variable: mail in /home/theanimationconc/public_html/data/data.php on line 285
+[28-Oct-2021 17:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function IsSMTP() on null in /home/theanimationconc/public_html/data/data.php:285
+Stack trace:
+#0 {main}
+  thrown in /home/theanimationconc/public_html/data/data.php on line 285
+[28-Oct-2021 17:37:39 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:37:39 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:37:39 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:39:39 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:39:39 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:39:39 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:41:30 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:41:30 UTC] PHP Warning:  require(vendor/phpmailer/phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:41:30 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/phpmailer/phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:43:59 UTC] PHP Warning:  require(data/PHPMailer-master/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:43:59 UTC] PHP Warning:  require(data/PHPMailer-master/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:43:59 UTC] PHP Fatal error:  require(): Failed opening required 'data/PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:46:42 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 272
+[28-Oct-2021 17:46:42 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 272
+[28-Oct-2021 17:46:42 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 272
+[28-Oct-2021 17:48:01 UTC] PHP Warning:  Use of undefined constant ‘error_reporting’ - assumed '‘error_reporting’' (this will throw an Error in a future version of PHP) in /home/theanimationconc/public_html/data/data.php on line 4
+[28-Oct-2021 17:48:01 UTC] PHP Warning:  Use of undefined constant ‘display_errors’ - assumed '‘display_errors’' (this will throw an Error in a future version of PHP) in /home/theanimationconc/public_html/data/data.php on line 5
+[28-Oct-2021 17:48:01 UTC] PHP Warning:  Use of undefined constant ‘On’ - assumed '‘On’' (this will throw an Error in a future version of PHP) in /home/theanimationconc/public_html/data/data.php on line 5
+[28-Oct-2021 17:48:01 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 277
+[28-Oct-2021 17:48:01 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 277
+[28-Oct-2021 17:48:01 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 277
+[28-Oct-2021 17:51:52 UTC] PHP Warning:  require(../PHPMailer-master/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:51:52 UTC] PHP Warning:  require(../PHPMailer-master/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:51:52 UTC] PHP Fatal error:  require(): Failed opening required '../PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:53:34 UTC] PHP Warning:  require(../PHPMailer-master/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:53:34 UTC] PHP Warning:  require(../PHPMailer-master/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:53:34 UTC] PHP Fatal error:  require(): Failed opening required '../PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:57:31 UTC] PHP Warning:  require_once(..\PHPMailer-master/src/PHPMailer.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 17:57:31 UTC] PHP Fatal error:  require_once(): Failed opening required '..\PHPMailer-master/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 270
+[28-Oct-2021 22:15:15 UTC] PHP Warning:  require(/home/theanimationconc/public_html/datavendor/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 22:15:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/theanimationconc/public_html/datavendor/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/theanimationconc/public_html/data/data.php on line 271
+[28-Oct-2021 22:20:30 UTC] Message has been sent
+[28-Oct-2021 22:23:29 UTC] Message has been sent
+[29-Oct-2021 22:46:57 UTC] Message has been sent
+[29-Oct-2021 22:50:05 UTC] Message has been sent
+[29-Oct-2021 22:51:28 UTC] Message has been sent
+[29-Oct-2021 23:29:00 UTC] Message has been sent
+[29-Oct-2021 23:29:32 UTC] Message has been sent
+[29-Oct-2021 23:29:37 UTC] Message has been sent
+[29-Oct-2021 23:29:37 UTC] Message has been sent
+[29-Oct-2021 23:29:37 UTC] Message has been sent
+[29-Oct-2021 23:29:37 UTC] Message has been sent
+[29-Oct-2021 23:29:37 UTC] Message has been sent
+[29-Oct-2021 23:29:41 UTC] Message has been sent
+[29-Oct-2021 23:29:44 UTC] Message has been sent
+[29-Oct-2021 23:29:44 UTC] Message has been sent
+[29-Oct-2021 23:29:44 UTC] Message has been sent
+[29-Oct-2021 23:29:44 UTC] Message has been sent
+[29-Oct-2021 23:29:44 UTC] Message has been sent
+[29-Oct-2021 23:29:47 UTC] Message has been sent
+[29-Oct-2021 23:29:50 UTC] Message has been sent
+[29-Oct-2021 23:29:50 UTC] Message has been sent
+[29-Oct-2021 23:29:50 UTC] Message has been sent
+[29-Oct-2021 23:29:50 UTC] Message has been sent
+[29-Oct-2021 23:29:50 UTC] Message has been sent
+[29-Oct-2021 23:29:53 UTC] Message has been sent
+[29-Oct-2021 23:29:56 UTC] Message has been sent
+[29-Oct-2021 23:29:57 UTC] Message has been sent
+[29-Oct-2021 23:29:57 UTC] Message has been sent
+[29-Oct-2021 23:29:57 UTC] Message has been sent
+[29-Oct-2021 23:30:25 UTC] Message has been sent
+[29-Oct-2021 23:30:55 UTC] Message has been sent
+[29-Oct-2021 23:31:01 UTC] Message has been sent
+[29-Oct-2021 23:31:02 UTC] Message has been sent
+[29-Oct-2021 23:31:02 UTC] Message has been sent
+[29-Oct-2021 23:31:02 UTC] Message has been sent
+[29-Oct-2021 23:31:03 UTC] Message has been sent
+[29-Oct-2021 23:31:03 UTC] Message has been sent
+[29-Oct-2021 23:33:49 UTC] Message has been sent
+[29-Oct-2021 23:39:13 UTC] Message has been sent
+[29-Oct-2021 23:41:38 UTC] Message has been sent
+[29-Oct-2021 23:43:23 UTC] Message has been sent
+[29-Oct-2021 23:44:34 UTC] Message has been sent
+[29-Oct-2021 23:47:13 UTC] Message has been sent
+[29-Oct-2021 23:51:33 UTC] PHP Notice:  Array to string conversion in /home/theanimationconc/public_html/data/data.php on line 324
+[29-Oct-2021 23:51:33 UTC] Message has been sent
+[29-Oct-2021 23:53:34 UTC] Message has been sent
+[29-Oct-2021 23:54:18 UTC] Message has been sent
+[29-Oct-2021 23:56:15 UTC] Message has been sent
+[29-Oct-2021 23:57:44 UTC] Message has been sent
+[30-Oct-2021 00:12:50 UTC] Message has been sent
+[30-Oct-2021 00:43:53 UTC] Message has been sent
+[30-Oct-2021 00:50:30 UTC] Message has been sent
+[30-Oct-2021 00:51:47 UTC] Message has been sent
+[30-Oct-2021 00:53:00 UTC] Message has been sent
+[31-Oct-2021 16:31:24 UTC] Message has been sent
+[31-Oct-2021 16:36:57 UTC] Message has been sent
+[31-Oct-2021 16:39:02 UTC] Message has been sent
+[31-Oct-2021 16:39:09 UTC] Message has been sent
+[31-Oct-2021 16:39:09 UTC] Message has been sent
+[31-Oct-2021 16:39:09 UTC] Message has been sent
+[31-Oct-2021 16:39:09 UTC] Message has been sent
+[31-Oct-2021 16:39:09 UTC] Message has been sent
+[31-Oct-2021 16:39:12 UTC] Message has been sent
+[31-Oct-2021 16:39:15 UTC] Message has been sent
+[31-Oct-2021 16:39:15 UTC] Message has been sent
+[31-Oct-2021 16:39:15 UTC] Message has been sent
+[31-Oct-2021 16:39:15 UTC] Message has been sent
+[31-Oct-2021 16:42:46 UTC] Message has been sent
+[31-Oct-2021 16:46:41 UTC] Message has been sent
+[31-Oct-2021 16:47:33 UTC] Message has been sent
+[31-Oct-2021 17:11:49 UTC] Message has been sent
+[31-Oct-2021 17:46:13 UTC] Message has been sent
+[01-Nov-2021 17:00:26 UTC] Message has been sent
+[01-Nov-2021 17:01:13 UTC] Message has been sent
+[01-Nov-2021 17:01:15 UTC] Message has been sent
+[01-Nov-2021 17:03:59 UTC] Message has been sent
+[01-Nov-2021 17:03:59 UTC] Message has been sent
+[01-Nov-2021 21:02:40 UTC] Message has been sent
+[01-Nov-2021 21:02:44 UTC] Message has been sent
+[01-Nov-2021 21:06:22 UTC] Message has been sent
+[01-Nov-2021 21:06:27 UTC] Message has been sent
+[01-Nov-2021 21:07:38 UTC] Message has been sent
+[01-Nov-2021 21:15:15 UTC] Message has been sent
+[01-Nov-2021 21:15:22 UTC] Message has been sent
+[01-Nov-2021 21:17:45 UTC] Message has been sent
+[01-Nov-2021 21:24:20 UTC] Message has been sent
+[01-Nov-2021 21:37:43 UTC] Message has been sent
+[01-Nov-2021 21:41:55 UTC] Message has been sent
+[01-Nov-2021 21:42:09 UTC] Message has been sent
+[02-Nov-2021 15:45:28 UTC] Message has been sent
+[02-Nov-2021 15:59:04 UTC] Message has been sent
+[02-Nov-2021 17:45:46 UTC] Message has been sent
+[02-Nov-2021 17:46:19 UTC] Message has been sent
+[02-Nov-2021 17:47:44 UTC] Message has been sent
+[11-Nov-2021 13:43:38 UTC] Message has been sent
+[11-Nov-2021 13:43:41 UTC] Message has been sent
+[11-Nov-2021 16:09:45 UTC] Message has been sent
+[12-Nov-2021 13:22:33 UTC] Message has been sent
+[12-Nov-2021 13:25:21 UTC] Message has been sent
+[12-Nov-2021 13:26:32 UTC] Message has been sent
+[12-Nov-2021 14:22:26 UTC] Message has been sent
+[12-Nov-2021 14:22:31 UTC] Message has been sent
+[12-Nov-2021 14:28:20 UTC] Message has been sent
+[12-Nov-2021 14:28:26 UTC] Message has been sent
+[15-Nov-2021 17:59:32 UTC] Message has been sent
+[15-Nov-2021 18:01:40 UTC] Message has been sent
+[15-Nov-2021 18:04:33 UTC] Message has been sent
+[15-Nov-2021 18:08:16 UTC] Message has been sent
+[15-Nov-2021 18:08:43 UTC] Message has been sent
+[15-Nov-2021 18:08:47 UTC] Message has been sent
+[15-Nov-2021 18:09:04 UTC] Message has been sent
+[15-Nov-2021 18:10:41 UTC] Message has been sent
+[15-Nov-2021 18:10:57 UTC] Message has been sent
+[15-Nov-2021 18:13:19 UTC] Message has been sent
+[15-Nov-2021 18:13:54 UTC] Message has been sent
+[15-Nov-2021 23:03:31 UTC] Message has been sent
+[16-Nov-2021 19:10:29 UTC] Message has been sent
+[18-Nov-2021 14:43:56 UTC] Message has been sent
+[18-Nov-2021 14:55:02 UTC] Message has been sent
+[18-Nov-2021 14:55:08 UTC] Message has been sent
+[18-Nov-2021 18:07:18 UTC] Message has been sent
+[18-Nov-2021 18:08:12 UTC] Message has been sent
+[18-Nov-2021 21:55:11 UTC] Message has been sent
+[18-Nov-2021 21:57:51 UTC] Message has been sent
+[18-Nov-2021 21:59:04 UTC] Message has been sent
+[18-Nov-2021 22:00:02 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php:2152
+Stack trace:
+#0 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1976): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 18 N...', '<html><body><h1...')
+#2 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/thewebsiteconcep/public_html/data/data.php(351): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php on line 2152
+[18-Nov-2021 22:00:30 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php:2152
+Stack trace:
+#0 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1976): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 18 N...', '<html><body><h1...')
+#2 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/thewebsiteconcep/public_html/data/data.php(351): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php on line 2152
+[18-Nov-2021 22:00:52 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php:2152
+Stack trace:
+#0 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1976): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 18 N...', '<html><body><h1...')
+#2 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/thewebsiteconcep/public_html/data/data.php(351): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php on line 2152
+[18-Nov-2021 22:02:26 UTC] Message has been sent
+[18-Nov-2021 22:02:35 UTC] Message has been sent
+[18-Nov-2021 22:03:22 UTC] Message has been sent
+[18-Nov-2021 22:03:39 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php:2152
+Stack trace:
+#0 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1976): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 18 N...', '<html><body><h1...')
+#2 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/thewebsiteconcep/public_html/data/data.php(351): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php on line 2152
+[18-Nov-2021 22:04:55 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php:1977
+Stack trace:
+#0 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 18 N...', '<html><body><h1...')
+#1 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/thewebsiteconcep/public_html/data/data.php(351): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php on line 1977
+[18-Nov-2021 22:05:22 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php:1977
+Stack trace:
+#0 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 18 N...', '<html><body><h1...')
+#1 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/thewebsiteconcep/public_html/data/data.php(351): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php on line 1977
+[18-Nov-2021 22:06:14 UTC] Message has been sent
+[18-Nov-2021 22:06:27 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php:1977
+Stack trace:
+#0 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 18 N...', '<html><body><h1...')
+#1 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/thewebsiteconcep/public_html/data/data.php(351): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php on line 1977
+[18-Nov-2021 22:06:37 UTC] Message has been sent
+[18-Nov-2021 22:06:47 UTC] Message has been sent
+[18-Nov-2021 22:07:11 UTC] Message has been sent
+[18-Nov-2021 22:07:38 UTC] Message has been sent
+[18-Nov-2021 22:08:06 UTC] Message has been sent
+[18-Nov-2021 22:08:19 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php:1977
+Stack trace:
+#0 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 18 N...', '<html><body><h1...')
+#1 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/thewebsiteconcep/public_html/data/data.php(351): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php on line 1977
+[18-Nov-2021 22:11:27 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php:1977
+Stack trace:
+#0 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 18 N...', '<html><body><h1...')
+#1 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/thewebsiteconcep/public_html/data/data.php(350): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php on line 1977
+[18-Nov-2021 22:11:51 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php:1977
+Stack trace:
+#0 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1648): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 18 N...', '<html><body><h1...')
+#1 /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php(1486): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/thewebsiteconcep/public_html/data/data.php(350): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/thewebsiteconcep/public_html/data/PHPMailer/src/PHPMailer.php on line 1977
+[18-Nov-2021 22:12:50 UTC] Message has been sent
+[18-Nov-2021 22:15:07 UTC] Message has been sent
+[18-Nov-2021 22:17:22 UTC] Message has been sent
+[18-Nov-2021 22:18:39 UTC] Message has been sent
+[18-Nov-2021 22:19:29 UTC] Message has been sent
+[18-Nov-2021 22:19:58 UTC] Message has been sent
+[18-Nov-2021 22:20:29 UTC] Message has been sent
+[18-Nov-2021 22:21:52 UTC] Message has been sent
+[18-Nov-2021 22:22:32 UTC] Message has been sent
+[18-Nov-2021 22:23:23 UTC] Message has been sent
+[18-Nov-2021 22:25:35 UTC] Message has been sent
+[19-Nov-2021 16:46:00 UTC] Message has been sent
+[19-Nov-2021 16:46:01 UTC] Message has been sent
