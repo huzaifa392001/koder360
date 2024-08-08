@@ -14,39 +14,39 @@
                 <a class="defult-btn  popup-open" href="javascript:;"> Get Started
                     <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b></a>
             </div>
-<!--            <div class="sliderbann">-->
-<!--                <div class="items">-->
-<!--                    <img class="lazyload animated" data-animation-in="zoomInImage"-->
-<!--                         src="/assets/images/home-page/banner-slider-01.jpg" alt="">-->
-<!--                </div>-->
-<!--                <div class="items">-->
-<!--                    <img class="lazyload animated" data-animation-in="zoomInImage"-->
-<!--                         src="/assets/images/home-page/banner-slider-02.jpg" alt="">-->
-<!--                </div>-->
-<!--                <div class="items">-->
-<!--                    <img class="lazyload animated" data-animation-in="zoomInImage"-->
-<!--                         src="/assets/images/home-page/banner-slider-03.jpg" alt="">-->
-<!--                </div>-->
-<!--                <div class="items">-->
-<!--                    <img class="lazyload animated" data-animation-in="zoomInImage"-->
-<!--                         src="/assets/images/home-page/banner-slider-04.jpg" alt="">-->
-<!--                </div>-->
-<!--            </div>-->
+            <!--            <div class="sliderbann">-->
+            <!--                <div class="items">-->
+            <!--                    <img class="lazyload animated" data-animation-in="zoomInImage"-->
+            <!--                         src="/assets/images/home-page/banner-slider-01.jpg" alt="">-->
+            <!--                </div>-->
+            <!--                <div class="items">-->
+            <!--                    <img class="lazyload animated" data-animation-in="zoomInImage"-->
+            <!--                         src="/assets/images/home-page/banner-slider-02.jpg" alt="">-->
+            <!--                </div>-->
+            <!--                <div class="items">-->
+            <!--                    <img class="lazyload animated" data-animation-in="zoomInImage"-->
+            <!--                         src="/assets/images/home-page/banner-slider-03.jpg" alt="">-->
+            <!--                </div>-->
+            <!--                <div class="items">-->
+            <!--                    <img class="lazyload animated" data-animation-in="zoomInImage"-->
+            <!--                         src="/assets/images/home-page/banner-slider-04.jpg" alt="">-->
+            <!--                </div>-->
+            <!--            </div>-->
         </div>
-<!--        <div class="slides_carousel">-->
-<!--            <div class="items">-->
-<!--                <img class="lazyload" src="/assets/images/home-page/banner-slider-01.jpg" alt="">-->
-<!--            </div>-->
-<!--            <div class="items">-->
-<!--                <img class="lazyload" src="/assets/images/home-page/banner-slider-02.jpg" alt="">-->
-<!--            </div>-->
-<!--            <div class="items">-->
-<!--                <img class="lazyload" src="/assets/images/home-page/banner-slider-03.jpg" alt="">-->
-<!--            </div>-->
-<!--            <div class="items">-->
-<!--                <img class="lazyload" src="/assets/images/home-page/banner-slider-04.jpg" alt="">-->
-<!--            </div>-->
-<!--        </div>-->
+        <!--        <div class="slides_carousel">-->
+        <!--            <div class="items">-->
+        <!--                <img class="lazyload" src="/assets/images/home-page/banner-slider-01.jpg" alt="">-->
+        <!--            </div>-->
+        <!--            <div class="items">-->
+        <!--                <img class="lazyload" src="/assets/images/home-page/banner-slider-02.jpg" alt="">-->
+        <!--            </div>-->
+        <!--            <div class="items">-->
+        <!--                <img class="lazyload" src="/assets/images/home-page/banner-slider-03.jpg" alt="">-->
+        <!--            </div>-->
+        <!--            <div class="items">-->
+        <!--                <img class="lazyload" src="/assets/images/home-page/banner-slider-04.jpg" alt="">-->
+        <!--            </div>-->
+        <!--        </div>-->
     </section>
 
     <div class="section home-about wf-section">
@@ -232,7 +232,7 @@
                                             <div class="project-image-wrapper">
                                                 <img alt="" loading="eager"
                                                      data-w-id="557a5ce9-e630-d52c-3a3c-2b08852e9eca"
-                                                     data-src="/assets/images/home-page/services-02.jpg"
+                                                     src="/assets/images/home-page/services-02.webp"
                                                      class="project-image lazyload">
                                             </div>
                                         </div>
@@ -241,7 +241,8 @@
                                             <!-- <div class="project-type">Real Estate Team</div> -->
                                             <div class="big-text">Website Design & Development</div>
                                             <div class="secondary-button-wrapper">
-                                                <a data-w-id="9ed5b0ed-ebc1-8c5f-4668-d73c6dbcb917" href="/website-design/"
+                                                <a data-w-id="9ed5b0ed-ebc1-8c5f-4668-d73c6dbcb917"
+                                                   href="/website-design/"
                                                    class="secondary-button w-inline-block">
                                                     <div class="secondary-btn-text-wrapper">
                                                         <div data-w-id="9ed5b0ed-ebc1-8c5f-4668-d73c6dbcb919"
@@ -273,7 +274,7 @@
                                             <div class="project-image-wrapper">
                                                 <img alt="" loading="eager"
                                                      data-w-id="557a5ce9-e630-d52c-3a3c-2b08852e9eca"
-                                                     data-src="/assets/images/home-page/services-04.jpg"
+                                                     src="/assets/images/home-page/services-04.webp"
                                                      class="project-image lazyload">
                                             </div>
                                         </div>
@@ -314,7 +315,7 @@
                                             <div class="project-image-wrapper">
                                                 <img alt="" loading="eager"
                                                      data-w-id="557a5ce9-e630-d52c-3a3c-2b08852e9eca"
-                                                     data-src="/assets/images/home-page/services-03.jpg"
+                                                     src="/assets/images/home-page/services-03.webp"
                                                      class="project-image lazyload">
                                             </div>
                                         </div>
@@ -355,7 +356,7 @@
                                             <div class="project-image-wrapper">
                                                 <img alt="" loading="eager"
                                                      data-w-id="557a5ce9-e630-d52c-3a3c-2b08852e9eca"
-                                                     data-src="/assets/images/home-page/services-01.jpg"
+                                                     src="/assets/images/home-page/services-01.webp"
                                                      class="project-image lazyload">
                                             </div>
                                         </div>
@@ -364,7 +365,8 @@
                                             <!-- <div class="project-type">Property Management</div> -->
                                             <div class="big-text">Social Media Marketing</div>
                                             <div class="secondary-button-wrapper">
-                                                <a data-w-id="9ed5b0ed-ebc1-8c5f-4668-d73c6dbcb917" href="/social-media/"
+                                                <a data-w-id="9ed5b0ed-ebc1-8c5f-4668-d73c6dbcb917"
+                                                   href="/social-media/"
                                                    class="secondary-button w-inline-block">
                                                     <div class="secondary-btn-text-wrapper">
                                                         <div data-w-id="9ed5b0ed-ebc1-8c5f-4668-d73c6dbcb919"
@@ -398,7 +400,7 @@
                                 <div class="project-type"></div>
                                 <div class="big-text wider no-pointer-events">See All <br> Projects</div>
                                 <div class="secondary-button-wrapper no-margin">
-                                    <a data-w-id="2b832c4a-cc2b-e9d6-9bac-4ae6983d6296" href="portfolio.htm"
+                                    <a data-w-id="2b832c4a-cc2b-e9d6-9bac-4ae6983d6296" href="/portfolio/"
                                        class="secondary-button w-inline-block">
                                         <div class="secondary-btn-text-wrapper">
                                             <div class="secondary-button-text for-footer white-on-mobile">More
@@ -425,25 +427,25 @@
                                             <div role="list" class="slider-list w-dyn-items">
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-01.jpg"
+                                                        <img src="/assets/images/home-page/services-01.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-02.webp"
+                                                        <img src="/assets/images/home-page/services-02.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-03.webp"
+                                                        <img src="/assets/images/home-page/services-03.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-04.webp"
+                                                        <img src="/assets/images/home-page/services-04.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
@@ -453,25 +455,25 @@
                                             <div role="list" class="slider-list w-dyn-items">
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-01.jpg"
+                                                        <img src="/assets/images/home-page/services-01.jpg"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-02.webp"
+                                                        <img src="/assets/images/home-page/services-02.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-03.webp"
+                                                        <img src="/assets/images/home-page/services-03.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-04.webp"
+                                                        <img src="/assets/images/home-page/services-04.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
@@ -485,25 +487,25 @@
                                             <div role="list" class="w-dyn-items">
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-01.jpg"
+                                                        <img src="/assets/images/home-page/services-01.jpg"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-02.webp"
+                                                        <img src="/assets/images/home-page/services-02.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-03.webp"
+                                                        <img src="/assets/images/home-page/services-03.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-04.webp"
+                                                        <img src="/assets/images/home-page/services-04.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
@@ -513,25 +515,25 @@
                                             <div role="list" class="w-dyn-items">
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-01.jpg"
+                                                        <img src="/assets/images/home-page/services-01.jpg"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-02.webp"
+                                                        <img src="/assets/images/home-page/services-02.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-03.webp"
+                                                        <img src="/assets/images/home-page/services-03.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
                                                 <div role="listitem" class="w-dyn-item">
                                                     <div class="project-image-wrapper no-rotate">
-                                                        <img data-src="/assets/images/home-page/services-04.webp"
+                                                        <img src="/assets/images/home-page/services-04.webp"
                                                              class="project-image lazyload" loading="lazy" alt="">
                                                     </div>
                                                 </div>
@@ -554,32 +556,32 @@
         </div>
     </section>
 
-<!--    <section class="cta-sec">-->
-<!--        <div class="container">-->
-<!--            <div class="">-->
-<!--                <div class="item">-->
-<!--                    <div class="row justify-content-between align-items-center">-->
-<!--                        <div class="col-md-6">-->
-<!--                            <div class="cta-hding">-->
-<!--                                <h3>An App To <br>-->
-<!--                                    Improve Finance</h3>-->
-<!--                                <p>Design + Development</p>-->
-<!--                                <a class="defult-btn  popup-open" href="javascript:;"> View Work-->
-<!--                                    <span></span><span></span><span></span><span></span> <b-->
-<!--                                            class="blinking-dot"></b></a>-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                        <div class="col-md-6">-->
-<!--                            <div class="cta-img">-->
-<!--                                <img src="/assets/images/cta-img.png">-->
-<!--                            </div>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!---->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </section>-->
+    <!--    <section class="cta-sec">-->
+    <!--        <div class="container">-->
+    <!--            <div class="">-->
+    <!--                <div class="item">-->
+    <!--                    <div class="row justify-content-between align-items-center">-->
+    <!--                        <div class="col-md-6">-->
+    <!--                            <div class="cta-hding">-->
+    <!--                                <h3>An App To <br>-->
+    <!--                                    Improve Finance</h3>-->
+    <!--                                <p>Design + Development</p>-->
+    <!--                                <a class="defult-btn  popup-open" href="javascript:;"> View Work-->
+    <!--                                    <span></span><span></span><span></span><span></span> <b-->
+    <!--                                            class="blinking-dot"></b></a>-->
+    <!--                            </div>-->
+    <!--                        </div>-->
+    <!--                        <div class="col-md-6">-->
+    <!--                            <div class="cta-img">-->
+    <!--                                <img src="/assets/images/cta-img.png">-->
+    <!--                            </div>-->
+    <!--                        </div>-->
+    <!--                    </div>-->
+    <!--                </div>-->
+    <!---->
+    <!--            </div>-->
+    <!--        </div>-->
+    <!--    </section>-->
 
     <section class="awards-sec">
         <h1 class="section-outlined-heading outlined">Awards & Recognitions</h1>
