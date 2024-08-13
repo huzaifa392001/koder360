@@ -6,29 +6,24 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
 }
 ?>
 <!doctype html>
-<html lang="en" data-wf-page="62c3858f6cfae3f54733f101" data-wf-site="625f0a142cf4b77b35521fd7">
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <link rel="icon" href="/assets/images/favicon.png" type="image/png">
-    <link rel="stylesheet" type="text/css" href="/assets/css/plugin.css">
-
-    <link rel="stylesheet" type="text/css"
-          href="https://cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css"/>
-    <link rel="stylesheet" type="text/css" href="/assets/css/custom.css">
-    <link rel="stylesheet" type="text/css" href="/assets/css/animations-custom.css">
-    <link rel="stylesheet" type="text/css" href="/assets/css/responsive.css">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/assets/css/plugins.css" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css" as="style"
+          onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet" href="/assets/css/styles.css" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet" href="/assets/css/responsive.css" onload="this.onload=null;this.rel='stylesheet'">
 
     <?php
     // Define the titles for different pages
     $pageTitles = [
         '' => $SITE_NAME_TEXT . ' One stop digital agency offering a variety of services all around the globe',
         'about' => 'About - ' . $SITE_NAME_TEXT,
-        'branding' => 'Branding - ' . $SITE_NAME_TEXT,
-        'contact-us' => 'Contact - ' . $SITE_NAME_TEXT,
-        'ecommerce' => 'Ecommerce - ' . $SITE_NAME_TEXT,
-        'logo-design' => 'Logo Design - ' . $SITE_NAME_TEXT,
+        'contact' => 'Contact - ' . $SITE_NAME_TEXT,
         'mobile-apps' => 'Mobile Applications - ' . $SITE_NAME_TEXT,
         'portfolio' => 'Portfolio - ' . $SITE_NAME_TEXT,
         'seo' => 'Search Engine Optimization - ' . $SITE_NAME_TEXT,
@@ -53,10 +48,7 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
     // Define the canonical URLs for different pages
     $canonicalUrls = [
         'about' => 'About',
-        'branding' => 'Branding',
-        'contact-us' => 'Contact',
-        'ecommerce' => 'Ecommerce',
-        'logo-design' => 'Logo Design',
+        'contact' => 'Contact',
         'mobile-apps' => 'Mobile Applications',
         'portfolio' => 'Portfolio',
         'seo' => 'Search Engine Optimization',
@@ -87,3 +79,63 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
 
     ?>
     <title><?php echo htmlspecialchars($title, ENT_QUOTES, 'UTF-8'); ?></title>
+</head>
+
+<body>
+<div class="fullMenu">
+    <div class="bgImg about"></div>
+    <div class="bgImg portfolio"></div>
+    <div class="bgImg contact"></div>
+    <ul>
+        <li>
+            <a href="/web-development/">
+                Web Development
+            </a>
+        </li>
+        <li>
+            <a href="/web-portal/">
+                Web Portal
+            </a>
+        </li>
+        <li>
+            <a href="/mobile-apps/">
+                Mobile Apps
+            </a>
+        </li>
+        <li>
+            <a href="/social-media">
+                Social Media
+            </a>
+        </li>
+        <li>
+            <a href="/video-animation/">
+                Video Animation
+            </a>
+        </li>
+        <li>
+            <a href="/seo/">
+                SEO
+            </a>
+        </li>
+    </ul>
+    <div class="secondList">
+        <div class="icon">
+            <a href="/about/" data-img="about">
+                <span>01</span>
+                About
+            </a>
+        </div>
+        <div class="icon">
+            <a href="/portfolio/" data-img="portfolio">
+                <span>02</span>
+                Portfolio
+            </a>
+        </div>
+        <div class="icon">
+            <a href="/contact/" data-img="contact">
+                <span>03</span>
+                Contact
+            </a>
+        </div>
+    </div>
+</div>

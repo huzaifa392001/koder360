@@ -3,1047 +3,573 @@
         font-size: 14px;
     }
 
-    .imagestestim-slider {
-        max-width: 400px;
+    .aboutSec > .panel .content figure {
+        width: 50vw;
+        height: 60vh;
     }
 
-    .testimonials-box {
-        height: 350px;
+    .testimonialCard .name-details img {
+        width: 70px;
+        height: 70px;
     }
 
-    .after-before-sec .container {
-        padding: 0 7rem;
+    .testimonialCard p {
+        line-height: 1.2;
     }
 
-    .after-before-sec .owl-dots button::before {
-        right: -1rem;
-    }
-
-    .inner-banenrhdg h2 {
-        font-size: 2.7rem;
-    }
-
-    .cnt-box img {
-        height: 100%;
-        object-fit: cover;
-    }
-
-    .images-box-ul li {
-        width: 100%;
-        height: 450px;
-    }
-
-    .webbanenrimg {
-        width: 23%;
-        right: 22rem;
-    }
-
-    .moblebanenrimg {
-        right: 13rem;
-        width: 32%;
-    }
-
-    .videobanenrimg {
-        right: 22rem;
-        width: 18%;
-    }
-
-    .innerbanner {
-        height: 100vh;
-    }
-
-    .brandingbanenrimg {
-        width: 50%;
-    }
-
-    .contct-text h3 {
-        font-size: 3rem;
-    }
-
-    .banenrimg {
-        right: 1rem;
+    .aboutSec .secHeading {
         width: 40%;
     }
 
-    .smmpageimg {
-        width: 45%;
-    }
-
-    .ecombanenrimg {
-        right: 1rem;
-        width: 60%;
-    }
-
-    .inner-banenrhdg {
-        margin-top: 6rem;
+    .portfoliowrapper {
+        width: 135%;
     }
 }
 
-@media (max-width: 1368px) {
-    .headbann h1 strong {
-        font-size: 4rem;
-        line-height: 4rem;
+@media (max-width: 1366px) {
+    .infiniteSlider .slide figure {
+        width: 500px;
+        height: 500px;
     }
 
-    .headbann h1 {
-        font-size: 50px;
+    .awardsSlider figure {
+        height: 200px;
     }
 
-    .sizessetport img,
-    .sizessetport video {
-        position: absolute;
-        left: 50%;
-        top: 0;
-        bottom: 0;
-        margin: auto;
-        object-fit: cover;
-        width: initial;
-        max-width: initial;
-        transform: translateX(-50%);
-    }
-
-    .tabsmain_portfolio ul li {
-        padding: 0 5px;
-    }
-
-    .tabsmain_portfolio ul li a {
-        padding: 10px 10px;
-        font-size: 14px;
-    }
-
-    .tabsmain_portfolio {
-        padding: 10px 5px;
-    }
-
-    .sidenav {
-        width: 90px;
-    }
-
-    .mmbody {
-        margin-left: 90px;
-    }
-
-    .imagestestim-slider {
-        max-width: 350px;
-    }
-
-    .process_theme h3 {
-        font-size: 50px;
-        line-height: 50px;
-    }
-
-    .bx-pro h4 {
-        font-size: 1.7vw;
-    }
-
-    .testim-slider-mm {
-        padding-left: 10px;
-        padding-top: 30px;
-    }
-
-    .testim-slider-mm .items p {
-        font-size: 14px;
-    }
-
-    .testim_footer .det h5 {
-        font-size: 14px;
-    }
-
-    .footerform {
-        padding: 0rem 0 4rem;
-    }
-
-    .footer-links-box p br {
-        display: none;
-    }
-
-    .heading-2.absolute {
-        font-size: 3.5vw;
-    }
-
-    .entry-box {
-        height: 535px;
-    }
-
-    .boxes_form_bann {
-        width: 100%;
-        bottom: 0;
-    }
-
-    .track {
-        height: 500vw;
-    }
-
-}
-
-@media (max-width: 1280px) {
-    .bannermain .slides_carousel {
-        width: 350px;
-    }
-
-    .cta-sec .owl-nav {
-        position: relative;
-        left: auto;
-        right: auto;
-        justify-content: center;
-        top: -6rem;
-        padding-top: 0;
-        width: 0;
-    }
-
-    .headbann h2 {
-        font-size: 3rem;
-    }
-
-    .project {
-        justify-content: center;
-    }
-
-    .testimonials-sec .container-fluid {
-        padding: 0 2rem;
-    }
-
-    .after-before-sec .container {
-        padding: 0 4rem;
-    }
-
-    .after-before-sec .owl-dots button::before {
-        right: -7px;
-    }
-
-    .moblebanenrimg {
-        right: 7rem;
-        width: 35%;
-    }
-
-    .videobanenrimg {
-        right: 15rem;
-        width: 18%;
-    }
-
-    .webbanenrimg {
-        width: 26%;
-        right: 8rem;
-    }
-
-    .contcatus {
-        padding: 4rem 2rem 0;
-    }
-
-    .smmpageimg {
-        width: 55%;
+    .awardsSlider figure img {
+        width: 75%;
+        height: 75%;
     }
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 1199.98px) {
     html {
         font-size: 13px;
     }
 
-    .bannermain {
-        padding-top: 10rem;
+    .fullMenu ul li a {
+        display: inline-block;
     }
 
-    .main_header {
-        padding: 20px 0;
+    .fullMenu ul li {
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
-    .bannermain .slides_carousel .slick-dots {
-        top: -20rem;
+    .aboutSec > .panel:last-of-type .content .title {
+        left: 0;
+        text-align: center;
     }
 
-    .slides_carousel {
-        padding: 25px 0 0px 25px;
+    .aboutSec > .panel:last-of-type .content .title .detailBtn {
+        margin: 0;
+        justify-content: center;
     }
 
-    .home-about-container {
-        padding-left: 6vw;
+    .aboutSec > .panel:last-of-type .content {
+    . aboutSec > . panel: last-of-type . content . title . detailBtn;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
     }
 
-    .full-height-text-container {
-        width: 45%;
+    .testimonialCard {
+        height: 360px;
     }
 
-    .sliderbann {
-        max-height: calc(100vh);
-        margin-left: 130px;
+    .contentSec h2 {
+        font-size: 3.5rem;
     }
 
-    .after-before-sec .owl-dots {
-        flex-wrap: wrap;
-        gap: 45px 0;
-    }
-
-    .aft-befr-wraper .owl-stage-outer::before {
-        margin-top: 10rem;
-    }
-
-    .aft-befr-wraper .owl-stage-outer {
-        padding-top: 15rem;
-    }
-
-    .owl-dot.active::after {
-        width: 150px;
-    }
-
-    .testimonials-box {
-        height: 300px;
-    }
-
-    .after-before-sec .owl-dots button:nth-child(1),
-    .after-before-sec .owl-dots button:nth-child(2),
-    .after-before-sec .owl-dots button:nth-child(3),
-    .after-before-sec .owl-dots button:nth-child(4),
-    .after-before-sec .owl-dots button:nth-child(5) {
-        background-size: 75%;
-    }
-
-    .moblebanenrimg {
-        right: 3rem;
-        width: 38%;
-    }
-
-    .videobanenrimg {
-        right: 5rem;
-        width: 23%;
-    }
-
-    .webbanenrimg {
-        width: 31%;
-        right: 2rem;
-    }
-
-    .brandingbanenrimg {
-        width: 60%;
-    }
-
-    .banenrimg {
-        width: 37%;
+    .portfoliowrapper {
+        width: 180%;
+        gap: 1.5rem;
     }
 }
 
-@media (max-width: 991px) {
-    .guranteed-slider .col-md-4, .testimonials-sec .col-md-5 {
-        flex: 100%;
-        max-width: 100%;
-        width: 100%;
-    }
+@media (max-width: 1024px) {
+}
 
-    .intr-sec2-area {
-        display: block;
-    }
-
-    .intr-sec2-area img {
-        width: 100%;
-        margin-left: 0;
-    }
-
-    .guranteed-slider.owl-carousel {
-        margin: auto;
-    }
-
-    .factSlider.owl-carousel {
-        margin: 2rem auto;
-    }
-
-    .factSec .factSlider li {
-        width: 95%;
-    }
-
+@media (max-width: 991.98px) {
     html {
         font-size: 12px;
     }
 
-    .bannermain {
-        padding-top: 11rem;
+    .aboutSec > .panel .content figure {
+        width: 50vw;
+        height: 40vh;
     }
 
-    .sliderbann .slick-slide {
-        position: relative;
+    .aboutSec > .panel:not(.first) .content {
+        flex-direction: column;
     }
 
-    .sliderbann .slick-slide::after {
-        position: absolute;
-        content: "";
-        background-color: #0000009e;
+    .aboutSec > .panel .content .title {
         left: 0;
-        right: 0;
-        z-index: 1;
-        top: 0;
-        bottom: 0;
         width: 100%;
-        height: 100%;
+        text-align: center;
     }
 
-    .sliderbann {
-        padding: 0;
+    .aboutSec > .panel .content h4 {
+        max-width: 80vw;
+        margin: auto;
+    }
+
+    .aboutSec > .panel .content .detailBtn {
         margin: 0;
+        justify-content: center;
     }
 
-    .bannermain .slides_carousel {
-        background-color: #fff;
+    .infiniteSlider .slide figure {
+        width: 40vw;
+        height: 40vh;
     }
 
-    .template-index .headbann {
-        margin-left: 20px;
+    .awardsSlider figure {
+        height: 150px;
     }
 
-    .full-height-text-container {
+    .featuredSec .secHeading, .featuredSec .subHeading, .featuredSec h5 {
+        text-align: center;
+    }
+
+    .beforeAfterSlider .swiper-slide img {
+        height: 450px;
+    }
+
+    .processSlider .processBox img {
         width: 100%;
     }
 
-    .heading-2.absolute {
-        font-size: 3.5rem;
-        top: 19%;
+    .secHeading {
+        font-size: 3.25rem;
     }
 
-    .cta-hding h3 {
+    .fullMenu ul li a {
         font-size: 4rem;
     }
 
-    :is(.webstrategy-sec :is(p, b)) {
-        font-size: 15px;
-    }
-
-    .socialfix li {
-        padding: 7px 10px;
-    }
-
-    .awards-ul li {
-        text-align: center;
-    }
-
-    [data-aos^="fade"][data-aos^="fade"] {
-        opacity: 1;
-        transform: initial;
-    }
-
-    [data-aos="fade-up"] {
-        transform: initial;
-    }
-
-    .track {
-        height: 100%;
-    }
-
-    .after-before-sec .owl-dots {
-        justify-content: center;
-    }
-
-    .after-before-sec .owl-dots button::before {
-        right: 0px;
-    }
-
-    .our-proces-sec {
-        height: 360px;
-    }
-
-    .our-procesul .owl-dots button::before,
-    .our-procesul .owl-dot.active::after,
-    .our-procesul .owl-dots {
-        display: none;
-    }
-
-    .home-about-container {
-        padding-left: 0;
-    }
-
-    .contct-text h3 {
-        font-size: 3rem;
-    }
-
-    .brand-details p,
-    ul.pages-link i .pages-link,
-    .pages-link li,
-    .pages-link a {
-        padding-right: 0;
-    }
-
-    .images-box-ul li {
-        width: 100%;
-        height: 100%;
-    }
-
-    section.portfolio-sec h3 {
-        padding-left: 0;
-    }
-
-    .images-box-ul {
-        display: block;
-    }
-
-    .cnt-box {
-        position: relative;
-    }
-
-    .cnt-box img {
-        height: auto;
-        z-index: auto;
-    }
-
-    :is(.services-ctn,.images-box-ul,.number-name) {
-        border: 0;
-    }
-
-    .service-sec {
-        background-color: #000;
-    }
-
-    .webbanenrimg {
-        width: 40%;
-        right: 0rem;
-    }
-
-    .moblebanenrimg {
-        width: 45%;
-    }
-
-    .videobanenrimg {
-        right: 6rem;
-        width: 26%;
-    }
-
-    .banenrimg {
-        width: 53%;
-    }
-}
-
-@media (max-width: 767px) {
-    .headbann,
-    .bannermain .slides_carousel {
-        position: relative;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        display: block;
-    }
-
-    .bannermain {
-        display: block;
-    }
-
-    .bannermain .slides_carousel {
-        width: 100%;
-    }
-
-    .sliderbann .slick-slide::after {
-        display: none;
-    }
-
-    .template-index .headbann {
-        padding-top: 30rem;
-        text-align: center;
-    }
-
-    .sliderbann {
-        margin-top: -17rem;
-    }
-
-    .line-animations-container-mobile {
-        left: -110px;
-    }
-
-    .head-rightside a {
-        justify-content: center;
-    }
-
-    .navbar-brand {
-        justify-content: center;
-        display: flex;
-        margin-bottom: 2rem;
-    }
-
-    .project {
-        left: 0;
-    }
-
-    .secondary-button-wrapper {
-        margin-left: 0;
-    }
-
-    .project-context {
-        left: -15rem;
-        width: 300px;
-    }
-
-    .cta-hding,
-    .awards-hdg p {
-        text-align: center;
-        margin-bottom: 4rem;
-    }
-
-    .defult-btn {
-        padding: 0 50px;
-    }
-
-    .awards-sec .container {
-        margin-top: 0;
-    }
-
-    :is(.awards-hdg) h3,
-    .awards-sec {
-        text-align: center;
-    }
-
-    .cta2-sec h2 {
-        font-size: 3rem;
-        margin: 3rem 0;
-    }
-
-    .cta-sec .owl-nav {
-        margin-top: 8rem;
-    }
-
-    .after-before-sec .container {
-        padding: 0 1rem;
-    }
-
-    .after-before-sec .owl-dots button:nth-child(1),
-    .after-before-sec .owl-dots button:nth-child(2),
-    .after-before-sec .owl-dots button:nth-child(3),
-    .after-before-sec .owl-dots button:nth-child(4),
-    .after-before-sec .owl-dots button:nth-child(5) {
-        background-size: 60%;
-        width: 150px;
-    }
-
-    .after-before-sec .owl-dots {
-        gap: 0;
-    }
-
-    .aft-befr-wraper .owl-stage-outer::before {
-        margin-top: 4rem;
-    }
-
-    .owl-dots button {
-        height: 75px;
-    }
-
-    .aft-befr-wraper .owl-stage-outer {
-        padding-top: 10rem;
-    }
-
-    .after-before-sec .owl-nav {
-        position: relative;
-        left: auto;
-        right: auto;
-        justify-content: center;
-        width: 0;
-        padding-top: 2rem;
-    }
-
-    :is(.after-before-sec, .our-proces-sec, .our-proces-sec) .section-heading p,
-    .section-heading h5 {
-        font-size: 1.5rem;
-        margin: 1rem 0;
-    }
-
-    .webstrategy-sec .text-right {
-        text-align: center !important;
-        margin-top: 3rem;
-    }
-
-    .testimonials-box {
-        height: 285px;
-    }
-
-    .services-nav ul {
+    .fullMenu ul {
         columns: 1;
     }
 
-    .services-nav ul li {
-        padding: 7px 10px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+    .portfoliowrapper {
+        width: 220%;
+        gap: 1.25rem;
     }
+}
 
-    .services-nav ul li a:before {
-        height: 5px;
-        bottom: -6px;
-    }
-
-    .navparent {
-        gap: 53px;
-        justify-content: center;
-    }
-
-    .our-proces-sec {
-        height: 400px;
-    }
-
-    .contct-text br {
-        display: none;
-    }
-
-    .our-procesul li a:hover .icon-ctn h6,
-    .our-procesul .active .icon-ctn h6 {
-        text-align: center;
-    }
-
-    .contct-text {
-        text-align: center;
-        margin-bottom: 3rem;
-    }
-
-    .services-3 {
-        display: block;
-        margin-top: 3rem;
-    }
-
-    .main-footer .row {
-        padding: 20px 0 40px;
-    }
-
-    .copyright .policys {
-        display: flex;
-        justify-content: center;
-        align-items: self-start;
-        flex-direction: column;
-        gap: 20px;
-    }
-
-    .awards-ul p,
-    .paragraph {
+@media (max-width: 767.98px) {
+    html {
         font-size: 14px;
     }
 
-    .form-check-label {
-        padding-left: 10px;
+    .aboutSec .bigLine {
+        font-size: 12rem;
     }
 
-    .form-check {
+    .aboutSec .secHeading {
+        width: 60%;
+        position: unset;
+        transform: none;
+        text-align: left;
+    }
+
+    .linesCont {
+        right: 0;
+        left: auto;
+        transform: none;
+    }
+
+    .aboutSec {
+        display: block;
+    }
+
+    .preloader h2 {
+        font-size: 9rem;
+    }
+
+    .page-wrapper .sidebar {
+        width: 100%;
+        height: 70px;
+        flex-direction: row-reverse;
+        padding: 0 4rem;
+        border-bottom: 2px solid var(--theme-color);
+        border-right: none;
+    }
+
+    .socialList {
+        flex-direction: row;
+        margin-left: 0;
+        margin-right: auto;
+    }
+
+    .page-wrapper .page-inner {
+        width: 100%;
+        margin: 0;
+    }
+
+    .page-wrapper {
+        display: block;
+    }
+
+    header {
+        top: 80px;
         padding: 0;
     }
 
-    .entry-box {
-        margin-left: -67px;
+    header .address {
+        justify-content: center;
     }
 
-    .entry-box button {
-        font-size: 21px;
-        margin-left: 11px;
-        width: 95%;
-        height: 49px;
+    header .logo {
+        margin: auto;
+        height: 100px;
+        max-width: 350px;
+        width: 100%;
     }
 
-    .innerbanner img {
-        display: none;
-    }
-
-    .inner-banenrhdg {
+    .mainSec .content h1, .mainSec .content .subHeading {
         text-align: center;
     }
 
-    .innerbanner {
-        padding: 20rem 0 6rem;
-        height: 100%;
+    .mainSec .content .themeBtn {
+        margin: auto;
+        display: flex;
+        width: fit-content;
     }
 
-    .inner-banenrhdg h2 {
-        margin-bottom: 3rem;
+    .aboutSec > .panel:nth-child(1) {
+        padding: 4rem 0;
+        height: 100vh;
     }
 
-    .inner-banenrhdg h4 {
-        line-height: 2.5;
+    .aboutSec .panel {
+        min-height: auto;
     }
 
-    .cnt-box {
-        padding: 2rem 1.2rem;
-        height: 100%;
+    .aboutSec .panel:last-child {
+        display: none;
     }
 
-    .images-box-ul li, .cnt-box img {
-        height: 100%;
+    .panel + .panel {
+        border-top: 1px solid #fff;
+        border-left: none;
     }
 
-    .cnt-box p {
-        font-size: 16px;
+    .aboutSec .panel:nth-child(n+2) {
+        padding: 5rem 0;
+    }
+
+    .serviceHeading {
         position: relative;
-        z-index: 2;
-    }
-
-    li.slidehvr.active::after {
-        background: #0b2727c7;
-        position: absolute;
-        content: '';
-        left: 0;
-        right: 0;
-        top: 0;
-        bottom: 0;
-        height: 100%;
-        width: 100%;
+        transform: none;
+        text-align: center;
+        width: auto;
+        margin: auto;
+        top: auto;
+        left: auto;
         z-index: 1;
     }
 
-    :is(.services-ctn,.images-box-ul,.number-name) {
-        z-index: 2;
-        position: relative;
+    .aboutSec .panel:not(.first) .bigLine {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
     }
 
-    .contcatus .col-md-5 {
-        margin-top: 17px;
-        padding: 0 !important;
+    .aboutSec .panel:nth-child(2) {
+        flex-direction: column;
     }
 
-    .contcpage .testimonials-sec .container-fluid {
-        padding-left: 10rem;
+    .awardsSec .bigLine {
+        font-size: 9rem;
+        text-align: center;
     }
 
-    .contcpage .main-footer {
-        padding-left: 8rem;
+    section {
+        padding: 5rem 0;
     }
 
-    .plateformimg {
-        gap: 20px;
+    .secHeading {
+        text-align: center;
     }
 
-    .inner-banenrhdg {
-        margin-top: 0;
+    .awardsSec .secHeading + p {
+        text-align: center;
     }
-}
 
-@media (max-width: 575px) {
-    .heading-2.absolute {
+    .ctaBanner h2 {
         font-size: 3rem;
+        margin: 0 0 1rem;
     }
 
-    .mmbody {
-        margin-top: 70px;
-        margin-left: 0;
+    .swiper-button-next {
+        left: 98%;
+        transform: translateX(-98%);
     }
 
-    .sidenav {
+    .swiper-button-prev {
+        left: 88%;
+        transform: translateX(-88%);
+    }
+
+    .headingCont h5 {
+        font-size: 1.25rem;
+    }
+
+    .processThumbsCont figure figcaption {
+        text-align: center;
+    }
+
+    .processSlider {
+        height: 600px;
+    }
+
+    .processSlider .processBox img {
+        height: 450px;
+        object-fit: contain;
+    }
+
+    .processSlider .content {
+        text-align: center;
+    }
+
+    .processSlider .content p {
+        margin: auto;
         width: 100%;
-        flex-direction: row;
-        height: 70px;
-        align-items: center;
-        justify-content: space-between;
-        padding: 0 20px;
     }
 
-    .socialfix ul {
+    .processSlider .content ul {
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footerSec .row {
+        gap: 2rem 0;
+    }
+
+    .footerSec .footerLogo {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footerSec .footerLogo p {
+        margin: auto;
+        text-align: center;
+        padding: 0;
+        width: 90%;
+        font-size: 1.25rem;
+    }
+
+    .contentSec h2, .contentSec h4 {
+        text-align: center;
+    }
+
+    .contentSec h2 {
+        margin: 0 0 2rem;
+    }
+
+    .portfoliowrapper {
+        width: 250%;
+        gap: 1rem;
+    }
+
+    .serviceSec .serviceRow {
+        height: auto;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .serviceSec .serviceRow img {
+        display: none;
+    }
+
+    .serviceSec .serviceRow::before {
+        content: none;
+    }
+
+    .serviceSec .serviceRow .serviceBox {
+        width: 50%;
+        flex: 0 1 50%;
+        text-align: center;
+    }
+
+    .serviceSec .serviceRow .serviceBox + .serviceBox {
+        border-left: none;
+    }
+
+    .serviceSec .serviceRow .serviceBox:nth-child(even) {
+        border-left: 1px solid var(--theme-color);
+    }
+
+    .serviceSec .serviceRow .serviceBox:before {
+        content: none;
+    }
+
+    .serviceSec .serviceRow .serviceBox .content h3 {
+        transform: none;
+        color: var(--black);
         display: flex;
         align-items: center;
+        justify-content: center;
         gap: 0.5rem;
     }
 
-    .headbann p {
-        margin: 20px 0;
+    .serviceSec .serviceRow .serviceBox .content p {
+        transform: none;
+        color: var(--black);
     }
-
-    .big-text {
-        margin-bottom: 10px;
-        font-size: 3rem;
-    }
-
-    .owl-dot.active::after,
-    .owl-dots button::before {
-        display: none;
-    }
-
-    .aft-befr-slider .owl-dots button {
-        border: 1px solid #000;
-        margin: 5px;
-    }
-
-    .after-before-sec .owl-dots button:nth-child(1),
-    .after-before-sec .owl-dots button:nth-child(2),
-    .after-before-sec .owl-dots button:nth-child(3),
-    .after-before-sec .owl-dots button:nth-child(4),
-    .after-before-sec .owl-dots button:nth-child(5) {
-        background-size: 80%;
-        width: 130px;
-    }
-
-    .after-before-sec .owl-dots {
-        margin-left: 8px;
-    }
-
-    .tab-main-box {
-        margin-left: 3rem;
-    }
-
-    :is(.our-proces-sec, .after-before-sec, .webstrategy-sec, .testimonials-sec)
-    .section-heading
-    h3 {
-        font-size: 3rem;
-        padding-left: 2rem;
-    }
-
-    .main-footer {
-        padding: 2.5rem 0rem 0 2rem;
-    }
-
-    .headbann br {
-        display: none;
-    }
-
-    .section-text-container {
-        padding-right: 20px;
-        padding-left: 40px;
-    }
-
-    .project-image-wrapper {
-        width: 80vw;
-    }
-
-    .cta-hding,
-    .awards-hdg p {
-        padding-left: 2rem;
-    }
-
-    .awards-ul p,
-    .paragraph {
-        font-size: 14px;
-        padding: 1rem;
-    }
-
-    .cta2-sec h2 {
-        margin: 3rem 15px;
-    }
-
-    .aft-befr-wraper .owl-stage-outer::before {
-        margin-top: 14rem;
-    }
-
-    .aft-befr-wraper .owl-stage-outer {
-        padding-top: 23rem;
-    }
-
-    :is(.after-before-sec, .our-proces-sec, .our-proces-sec) .section-heading p,
-    .section-heading h5 {
-        font-size: 1.5rem;
-        margin: 1rem 2rem;
-    }
-
-    .testimonials-sec .container-fluid {
-        padding: 0 1rem 0 3rem;
-    }
-
-    .headbann p {
-        font-size: 14px;
-    }
-
-    .about-hdg {
-        font-size: 3rem;
-    }
-
-    .services-nav ul li a {
-        font-size: 2rem;
-    }
-
-    .menu-number-text {
-        font-size: 2.5rem;
-    }
-
-    .navparent .big-text {
-        font-size: 15px;
-    }
-
-    .navparent {
-        gap: 35px;
-        padding: 0;
-    }
-
-    .entry-box {
-        margin-left: -24px;
-        max-width: 96%;
-        height: 100%;
-    }
-
-    .form-btn {
-        left: 0;
-        transform: translateX(0);
-        width: 100%;
-    }
-
-    .entry-box .form-control {
-        height: 55px;
-    }
-
-    .col-sm-12.entry-right {
-        padding-bottom: 0;
-    }
-
 }
 
-@media (max-width: 414px) {
-    .after-before-sec .owl-dots button:nth-child(1),
-    .after-before-sec .owl-dots button:nth-child(2),
-    .after-before-sec .owl-dots button:nth-child(3),
-    .after-before-sec .owl-dots button:nth-child(4),
-    .after-before-sec .owl-dots button:nth-child(5) {
-        width: 110px;
-    }
-
-    .awards-hd {
-        margin-bottom: 2rem;
-    }
-
-    .head-rightside a,
-    .awards-hdg p,
-    .awards-ul p {
-        font-size: 15px;
-        margin: 0 15px;
-    }
-
-    .section-text-container {
-        padding-right: 12px;
-        padding-left: 35px;
-    }
-
-    .cta-hding h3 {
-        margin-left: 1rem;
-    }
-
-    .cta2-sec h2 {
-        margin: 3rem 0 3rem 13px;
-    }
-
-    .project-image-wrapper {
-        width: 80vw;
-    }
-
-    .cta-hding br {
-        display: none;
-    }
-
-    .awards-hdg p {
-        margin-bottom: 1rem;
-    }
-
-    .after-before-sec .owl-dots button:nth-child(1),
-    .after-before-sec .owl-dots button:nth-child(2),
-    .after-before-sec .owl-dots button:nth-child(3),
-    .after-before-sec .owl-dots button:nth-child(4),
-    .after-before-sec .owl-dots button:nth-child(5) {
-        width: 90px;
-    }
-
-    .testimonials-sec .container-fluid {
-        padding: 0 3rem;
-    }
-
-    :is(.webstrategy-sec :is(p, b)) {
+@media (max-width: 575.98px) {
+    html {
         font-size: 13px;
     }
 
-    .cta-hding h3 {
+    .aboutSec .secHeading {
+        width: 75%;
+    }
+
+    .aboutSec > .panel .content figure {
+        width: 100%;
+        height: 400px;
+    }
+
+    .aboutSec > .panel .content h4 {
+        font-size: 4rem;
+    }
+
+    .processThumbBox {
+        flex: 0 1 33.333%;
+    }
+
+    .processThumbsCont {
+        flex-wrap: wrap;
+        gap: 2rem 0;
+    }
+
+    .mainSec .content h1 {
+        font-size: 2.5rem;
+    }
+
+    .linesCont .lineBox {
+        flex: 0 1 30%;
+        width: 30%;
+    }
+
+    .linesCont {
+        justify-content: center;
+    }
+
+    .linesCont .lineBox .line {
+        height: 35vh;
+    }
+
+    .linesCont .lineBox .title {
+        font-size: 5rem;
+    }
+
+    .aboutSec .bigLine {
+        font-size: 8rem;
+    }
+
+    .awardsSec .bigLine {
+        font-size: 6rem;
+    }
+
+    .headingCont .imgsCont figure {
+        width: 33.33333%;
+        flex: 0 1 33.33333%;
+    }
+
+    .headingCont .imgsCont figure img {
+        width: 100%;
+        height: 100px;
+        object-fit: contain;
+    }
+
+    .testimonialCard {
+        height: auto;
+    }
+
+    .testimonialCard .name-details {
+        margin-top: 2rem;
+    }
+
+    .fullMenu ul li a {
         font-size: 3rem;
     }
 
-    .aft-befr-wraper .owl-stage-outer {
-        padding-left: 1rem;
+    .preloader h2 {
+        font-size: 6rem;
     }
 
-    .testimonials-box {
-        height: 310px;
+    .bannerSec {
+        align-items: end;
     }
 
-    .entry-box button {
-        font-size: 22px;
-        height: 50px;
+    .bannerSec p br {
+        display: none;
+    }
+
+    .bannerSec .content p {
+        font-size: 1.25rem;
+        margin: 0 0 2rem;
+        width: 100%;
+    }
+
+    .portfoliowrapper {
+        width: 280%;
+    }
+
+    .bannerSec .content {
+        text-align: center;
+    }
+
+    .serviceSec .serviceRow .serviceBox .content h3 {
+        justify-content: start;
+        font-size: 1.25rem;
+        flex-direction: row-reverse;
+        text-align: left;
+        margin: 0 0 1rem;
+    }
+
+    .serviceSec .serviceRow .serviceBox .content h3 span {
+        font-size: 2rem;
+    }
+
+    .serviceSec .serviceRow .serviceBox .content p {
+        font-size: 1rem;
+        text-align: left;
+    }
+
+    .portfolioSec .bigLine {
+        font-size: 7rem;
+    }
+
+    .portfolioSec .headingCont h2 br {
+        display: none;
+    }
+
+    .bannerSec .content h1 {
+        font-size: 3rem;
+    }
+
+    .secHeading {
+        font-size: 2.75rem;
+    }
+
+    .mainPortfolioSec .tab-content a {
+        height: 200px;
+    }
+}
+
+@media (max-width: 400px) {
+    html {
+        font-size: 11px;
     }
 }
