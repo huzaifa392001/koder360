@@ -382,7 +382,7 @@ section {
 }
 
 .fullMenu .bgImg.portfolio {
-    background: url("../images/portfolio-menu-bg.jpg");
+    background: url("../images/portfolio-menu-bg.webp");
 }
 
 .fullMenu .bgImg.contact {
@@ -831,7 +831,7 @@ canvas {
 }
 
 .ctaBanner {
-    background: url("../images/cta2-bg.png");
+    background: url("../images/cta2-bg.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;

@@ -1,7 +1,7 @@
 <?php include "./includes/header.php" ?>
     <div class="preloader">
-        <img src="/assets/images/blub-holo.png" alt="" class="holo">
-        <img src="/assets/images/blub-fill.png" alt="" class="fill">
+        <img src="/assets/images/blub-holo.webp" alt="" class="holo">
+        <img src="/assets/images/blub-fill.webp" alt="" class="fill">
         <h2><?php echo $SITE_NAME_TEXT ?></h2>
     </div>
     <div class="page-wrapper">

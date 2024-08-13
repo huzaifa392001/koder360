@@ -1,5 +1,5 @@
 <footer>
-    <img src="/assets/images/bgblub.png" alt="" class="bgImg">
+    <img src="/assets/images/bgblub.webp" alt="" class="bgImg">
     <div class="contentSec">
         <div class="container-md">
             <div class="row justify-content-between align-items-center">
@@ -53,7 +53,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="footerLogo">
-                        <img src="/assets/images/white-logo.png" alt="">
+                        <img src="/assets/images/white-logo.webp" alt="">
                         <p>
                             Koder360 is a creative digital marketing agency which will take your business to newer
                             heights with our result-oriented digital marketing and branding services.

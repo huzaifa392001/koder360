@@ -74,43 +74,43 @@
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/web/port1.png" data-fancybox="web">
-                                            <img src="/assets/images/portfolio/web/port1.png" alt="">
+                                        <a href="/assets/images/portfolio/web/port1.webp" data-fancybox="web">
+                                            <img src="/assets/images/portfolio/web/port1.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/web/port2.png" data-fancybox="web">
-                                            <img src="/assets/images/portfolio/web/port2.png" alt="">
+                                        <a href="/assets/images/portfolio/web/port2.webp" data-fancybox="web">
+                                            <img src="/assets/images/portfolio/web/port2.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/web/port3.png" data-fancybox="web">
-                                            <img src="/assets/images/portfolio/web/port3.png" alt="">
+                                        <a href="/assets/images/portfolio/web/port3.webp" data-fancybox="web">
+                                            <img src="/assets/images/portfolio/web/port3.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/web/port4.png" data-fancybox="web">
-                                            <img src="/assets/images/portfolio/web/port4.png" alt="">
+                                        <a href="/assets/images/portfolio/web/port4.webp" data-fancybox="web">
+                                            <img src="/assets/images/portfolio/web/port4.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/web/port5.png" data-fancybox="web">
-                                            <img src="/assets/images/portfolio/web/port5.png" alt="">
+                                        <a href="/assets/images/portfolio/web/port5.webp" data-fancybox="web">
+                                            <img src="/assets/images/portfolio/web/port5.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/web/port6.png" data-fancybox="web">
-                                            <img src="/assets/images/portfolio/web/port6.png" alt="">
+                                        <a href="/assets/images/portfolio/web/port6.webp" data-fancybox="web">
+                                            <img src="/assets/images/portfolio/web/port6.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/web/port7.png" data-fancybox="web">
-                                            <img src="/assets/images/portfolio/web/port7.png" alt="">
+                                        <a href="/assets/images/portfolio/web/port7.webp" data-fancybox="web">
+                                            <img src="/assets/images/portfolio/web/port7.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/web/port8.png" data-fancybox="web">
-                                            <img src="/assets/images/portfolio/web/port8.png" alt="">
+                                        <a href="/assets/images/portfolio/web/port8.webp" data-fancybox="web">
+                                            <img src="/assets/images/portfolio/web/port8.webp" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -121,43 +121,43 @@
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/mobileapps/port1.png" data-fancybox="mobile">
-                                            <img src="/assets/images/portfolio/mobileapps/port1.png" alt="">
+                                        <a href="/assets/images/portfolio/mobileapps/port1.webp" data-fancybox="mobile">
+                                            <img src="/assets/images/portfolio/mobileapps/port1.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/mobileapps/port2.png" data-fancybox="mobile">
-                                            <img src="/assets/images/portfolio/mobileapps/port2.png" alt="">
+                                        <a href="/assets/images/portfolio/mobileapps/port2.webp" data-fancybox="mobile">
+                                            <img src="/assets/images/portfolio/mobileapps/port2.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/mobileapps/port3.png" data-fancybox="mobile">
-                                            <img src="/assets/images/portfolio/mobileapps/port3.png" alt="">
+                                        <a href="/assets/images/portfolio/mobileapps/port3.webp" data-fancybox="mobile">
+                                            <img src="/assets/images/portfolio/mobileapps/port3.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/mobileapps/port4.png" data-fancybox="mobile">
-                                            <img src="/assets/images/portfolio/mobileapps/port4.png" alt="">
+                                        <a href="/assets/images/portfolio/mobileapps/port4.webp" data-fancybox="mobile">
+                                            <img src="/assets/images/portfolio/mobileapps/port4.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/mobileapps/port5.png" data-fancybox="mobile">
-                                            <img src="/assets/images/portfolio/mobileapps/port5.png" alt="">
+                                        <a href="/assets/images/portfolio/mobileapps/port5.webp" data-fancybox="mobile">
+                                            <img src="/assets/images/portfolio/mobileapps/port5.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/mobileapps/port6.png" data-fancybox="mobile">
-                                            <img src="/assets/images/portfolio/mobileapps/port6.png" alt="">
+                                        <a href="/assets/images/portfolio/mobileapps/port6.webp" data-fancybox="mobile">
+                                            <img src="/assets/images/portfolio/mobileapps/port6.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/mobileapps/port7.png" data-fancybox="mobile">
-                                            <img src="/assets/images/portfolio/mobileapps/port7.png" alt="">
+                                        <a href="/assets/images/portfolio/mobileapps/port7.webp" data-fancybox="mobile">
+                                            <img src="/assets/images/portfolio/mobileapps/port7.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/mobileapps/port8.png" data-fancybox="mobile">
-                                            <img src="/assets/images/portfolio/mobileapps/port8.png" alt="">
+                                        <a href="/assets/images/portfolio/mobileapps/port8.webp" data-fancybox="mobile">
+                                            <img src="/assets/images/portfolio/mobileapps/port8.webp" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -215,43 +215,43 @@
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/videoanimation/port1.png" data-fancybox="video">
-                                            <img src="/assets/images/portfolio/videoanimation/port1.png" alt="">
+                                        <a href="/assets/images/portfolio/videoanimation/port1.webp" data-fancybox="video">
+                                            <img src="/assets/images/portfolio/videoanimation/port1.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/videoanimation/port2.png" data-fancybox="video">
-                                            <img src="/assets/images/portfolio/videoanimation/port2.png" alt="">
+                                        <a href="/assets/images/portfolio/videoanimation/port2.webp" data-fancybox="video">
+                                            <img src="/assets/images/portfolio/videoanimation/port2.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/videoanimation/port3.png" data-fancybox="video">
-                                            <img src="/assets/images/portfolio/videoanimation/port3.png" alt="">
+                                        <a href="/assets/images/portfolio/videoanimation/port3.webp" data-fancybox="video">
+                                            <img src="/assets/images/portfolio/videoanimation/port3.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/videoanimation/port4.png" data-fancybox="video">
-                                            <img src="/assets/images/portfolio/videoanimation/port4.png" alt="">
+                                        <a href="/assets/images/portfolio/videoanimation/port4.webp" data-fancybox="video">
+                                            <img src="/assets/images/portfolio/videoanimation/port4.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/videoanimation/port5.png" data-fancybox="video">
-                                            <img src="/assets/images/portfolio/videoanimation/port5.png" alt="">
+                                        <a href="/assets/images/portfolio/videoanimation/port5.webp" data-fancybox="video">
+                                            <img src="/assets/images/portfolio/videoanimation/port5.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/videoanimation/port6.png" data-fancybox="video">
-                                            <img src="/assets/images/portfolio/videoanimation/port6.png" alt="">
+                                        <a href="/assets/images/portfolio/videoanimation/port6.webp" data-fancybox="video">
+                                            <img src="/assets/images/portfolio/videoanimation/port6.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/videoanimation/port7.png" data-fancybox="video">
-                                            <img src="/assets/images/portfolio/videoanimation/port7.png" alt="">
+                                        <a href="/assets/images/portfolio/videoanimation/port7.webp" data-fancybox="video">
+                                            <img src="/assets/images/portfolio/videoanimation/port7.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/videoanimation/port8.png" data-fancybox="video">
-                                            <img src="/assets/images/portfolio/videoanimation/port8.png" alt="">
+                                        <a href="/assets/images/portfolio/videoanimation/port8.webp" data-fancybox="video">
+                                            <img src="/assets/images/portfolio/videoanimation/port8.webp" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -262,43 +262,43 @@
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/smm/port1.png" data-fancybox="smm">
-                                            <img src="/assets/images/portfolio/smm/port1.png" alt="">
+                                        <a href="/assets/images/portfolio/smm/port1.webp" data-fancybox="smm">
+                                            <img src="/assets/images/portfolio/smm/port1.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/smm/port2.png" data-fancybox="smm">
-                                            <img src="/assets/images/portfolio/smm/port2.png" alt="">
+                                        <a href="/assets/images/portfolio/smm/port2.webp" data-fancybox="smm">
+                                            <img src="/assets/images/portfolio/smm/port2.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/smm/port3.png" data-fancybox="smm">
-                                            <img src="/assets/images/portfolio/smm/port3.png" alt="">
+                                        <a href="/assets/images/portfolio/smm/port3.webp" data-fancybox="smm">
+                                            <img src="/assets/images/portfolio/smm/port3.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/smm/port4.png" data-fancybox="smm">
-                                            <img src="/assets/images/portfolio/smm/port4.png" alt="">
+                                        <a href="/assets/images/portfolio/smm/port4.webp" data-fancybox="smm">
+                                            <img src="/assets/images/portfolio/smm/port4.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/smm/port5.png" data-fancybox="smm">
-                                            <img src="/assets/images/portfolio/smm/port5.png" alt="">
+                                        <a href="/assets/images/portfolio/smm/port5.webp" data-fancybox="smm">
+                                            <img src="/assets/images/portfolio/smm/port5.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/smm/port6.png" data-fancybox="smm">
-                                            <img src="/assets/images/portfolio/smm/port6.png" alt="">
+                                        <a href="/assets/images/portfolio/smm/port6.webp" data-fancybox="smm">
+                                            <img src="/assets/images/portfolio/smm/port6.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/smm/port7.png" data-fancybox="smm">
-                                            <img src="/assets/images/portfolio/smm/port7.png" alt="">
+                                        <a href="/assets/images/portfolio/smm/port7.webp" data-fancybox="smm">
+                                            <img src="/assets/images/portfolio/smm/port7.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
-                                        <a href="/assets/images/portfolio/smm/port8.png" data-fancybox="smm">
-                                            <img src="/assets/images/portfolio/smm/port8.png" alt="">
+                                        <a href="/assets/images/portfolio/smm/port8.webp" data-fancybox="smm">
+                                            <img src="/assets/images/portfolio/smm/port8.webp" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -309,33 +309,33 @@
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-lg-4 col-md-6">
-                                        <a href="/assets/images/portfolio/seo/port1.png" data-fancybox="seo">
-                                            <img src="/assets/images/portfolio/seo/port1.png" alt="">
+                                        <a href="/assets/images/portfolio/seo/port1.webp" data-fancybox="seo">
+                                            <img src="/assets/images/portfolio/seo/port1.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-4 col-md-6">
-                                        <a href="/assets/images/portfolio/seo/port2.png" data-fancybox="seo">
-                                            <img src="/assets/images/portfolio/seo/port2.png" alt="">
+                                        <a href="/assets/images/portfolio/seo/port2.webp" data-fancybox="seo">
+                                            <img src="/assets/images/portfolio/seo/port2.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-4 col-md-6">
-                                        <a href="/assets/images/portfolio/seo/port3.png" data-fancybox="seo">
-                                            <img src="/assets/images/portfolio/seo/port3.png" alt="">
+                                        <a href="/assets/images/portfolio/seo/port3.webp" data-fancybox="seo">
+                                            <img src="/assets/images/portfolio/seo/port3.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-4 col-md-6">
-                                        <a href="/assets/images/portfolio/seo/port4.png" data-fancybox="seo">
-                                            <img src="/assets/images/portfolio/seo/port4.png" alt="">
+                                        <a href="/assets/images/portfolio/seo/port4.webp" data-fancybox="seo">
+                                            <img src="/assets/images/portfolio/seo/port4.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-4 col-md-6">
-                                        <a href="/assets/images/portfolio/seo/port5.png" data-fancybox="seo">
-                                            <img src="/assets/images/portfolio/seo/port5.png" alt="">
+                                        <a href="/assets/images/portfolio/seo/port5.webp" data-fancybox="seo">
+                                            <img src="/assets/images/portfolio/seo/port5.webp" alt="">
                                         </a>
                                     </div>
                                     <div class="col-lg-4 col-md-6">
-                                        <a href="/assets/images/portfolio/seo/port6.png" data-fancybox="seo">
-                                            <img src="/assets/images/portfolio/seo/port6.png" alt="">
+                                        <a href="/assets/images/portfolio/seo/port6.webp" data-fancybox="seo">
+                                            <img src="/assets/images/portfolio/seo/port6.webp" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -362,44 +362,44 @@
         <ul class="portfoliowrapper">
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/web/port1.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/web/port1.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/web/port2.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/web/port2.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/web/port3.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/web/port3.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/web/port4.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/web/port4.webp" class="img-fluid" alt="">
                 </figure>
             </li>
         </ul>
         <ul class="portfoliowrapper portfoliowrapper1">
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/web/port5.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/web/port5.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/web/port6.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/web/port6.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/web/port7.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/web/port7.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/web/port8.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/web/port8.webp" class="img-fluid" alt="">
                 </figure>
             </li>
         </ul>

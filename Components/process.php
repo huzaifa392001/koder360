@@ -21,37 +21,37 @@
                     <div class="processThumbBox active">
                         <figure>
                             <figcaption>Web Strategy</figcaption>
-                            <img src="/assets/images/web.png" alt="">
+                            <img src="/assets/images/web.webp" alt="">
                         </figure>
                     </div>
                     <div class="processThumbBox">
                         <figure>
                             <figcaption>Planning & Information</figcaption>
-                            <img src="/assets/images/planning.png" alt="">
+                            <img src="/assets/images/planning.webp" alt="">
                         </figure>
                     </div>
                     <div class="processThumbBox">
                         <figure>
                             <figcaption>Creative Design</figcaption>
-                            <img src="/assets/images/creative.png" alt="">
+                            <img src="/assets/images/creative.webp" alt="">
                         </figure>
                     </div>
                     <div class="processThumbBox">
                         <figure>
                             <figcaption>Responsive Development</figcaption>
-                            <img src="/assets/images/responsive.png" alt="">
+                            <img src="/assets/images/responsive.webp" alt="">
                         </figure>
                     </div>
                     <div class="processThumbBox">
                         <figure>
                             <figcaption>Quality Assurance</figcaption>
-                            <img src="/assets/images/quality.png" alt="">
+                            <img src="/assets/images/quality.webp" alt="">
                         </figure>
                     </div>
                     <div class="processThumbBox">
                         <figure>
                             <figcaption>Launch & Optimization</figcaption>
-                            <img src="/assets/images/launch.png" alt="">
+                            <img src="/assets/images/launch.webp" alt="">
                         </figure>
                     </div>
                 </div>

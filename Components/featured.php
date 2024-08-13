@@ -19,52 +19,52 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <figure>
-                                <img src="/assets/images/client1.png" alt="">
+                                <img src="/assets/images/client1.webp" alt="">
                             </figure>
                         </div>
                         <div class="swiper-slide">
                             <figure>
-                                <img src="/assets/images/client2.png" alt="">
-                            </figure>
-                        </div>
-                        <!--                            <div class="swiper-slide">-->
-                        <!--                                <figure>-->
-                        <!--                                    <img src="/assets/images/client3.png" alt="">-->
-                        <!--                                </figure>-->
-                        <!--                            </div>-->
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client4.png" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client5.png" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client6.png" alt="">
+                                <img src="/assets/images/client2.webp" alt="">
                             </figure>
                         </div>
                         <!--                            <div class="swiper-slide">-->
                         <!--                                <figure>-->
-                        <!--                                    <img src="/assets/images/client7.png" alt="">-->
+                        <!--                                    <img src="/assets/images/client3.webp" alt="">-->
                         <!--                                </figure>-->
                         <!--                            </div>-->
                         <div class="swiper-slide">
                             <figure>
-                                <img src="/assets/images/client8.png" alt="">
+                                <img src="/assets/images/client4.webp" alt="">
                             </figure>
                         </div>
                         <div class="swiper-slide">
                             <figure>
-                                <img src="/assets/images/client9.png" alt="">
+                                <img src="/assets/images/client5.webp" alt="">
                             </figure>
                         </div>
                         <div class="swiper-slide">
                             <figure>
-                                <img src="/assets/images/client10.png" alt="">
+                                <img src="/assets/images/client6.webp" alt="">
+                            </figure>
+                        </div>
+                        <!--                            <div class="swiper-slide">-->
+                        <!--                                <figure>-->
+                        <!--                                    <img src="/assets/images/client7.webp" alt="">-->
+                        <!--                                </figure>-->
+                        <!--                            </div>-->
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="/assets/images/client8.webp" alt="">
+                            </figure>
+                        </div>
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="/assets/images/client9.webp" alt="">
+                            </figure>
+                        </div>
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="/assets/images/client10.webp" alt="">
                             </figure>
                         </div>
                     </div>
@@ -73,60 +73,60 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <figure>
-                                <img src="/assets/images/cleintfull1.png" alt="">
+                                <img src="/assets/images/cleintfull1.webp" alt="">
                             </figure>
                         </div>
                         <div class="swiper-slide">
                             <figure>
-                                <img src="/assets/images/cleintfull2.png" alt="">
-                            </figure>
-                        </div>
-                        <!--                            <div class="swiper-slide">-->
-                        <!--                                <figure>-->
-                        <!--                                    <img src="/assets/images/cleintfull3.png" alt="">-->
-                        <!--                                </figure>-->
-                        <!--                            </div>-->
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull4.png" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull5.png" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull6.png" alt="">
+                                <img src="/assets/images/cleintfull2.webp" alt="">
                             </figure>
                         </div>
                         <!--                            <div class="swiper-slide">-->
                         <!--                                <figure>-->
-                        <!--                                    <img src="/assets/images/cleintfull7.png" alt="">-->
+                        <!--                                    <img src="/assets/images/cleintfull3.webp" alt="">-->
                         <!--                                </figure>-->
                         <!--                            </div>-->
                         <div class="swiper-slide">
                             <figure>
-                                <img src="/assets/images/cleintfull8.png" alt="">
+                                <img src="/assets/images/cleintfull4.webp" alt="">
                             </figure>
                         </div>
                         <div class="swiper-slide">
                             <figure>
-                                <img src="/assets/images/cleintfull9.png" alt="">
+                                <img src="/assets/images/cleintfull5.webp" alt="">
                             </figure>
                         </div>
                         <div class="swiper-slide">
                             <figure>
-                                <img src="/assets/images/cleintfull10.png" alt="">
+                                <img src="/assets/images/cleintfull6.webp" alt="">
+                            </figure>
+                        </div>
+                        <!--                            <div class="swiper-slide">-->
+                        <!--                                <figure>-->
+                        <!--                                    <img src="/assets/images/cleintfull7.webp" alt="">-->
+                        <!--                                </figure>-->
+                        <!--                            </div>-->
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="/assets/images/cleintfull8.webp" alt="">
+                            </figure>
+                        </div>
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="/assets/images/cleintfull9.webp" alt="">
+                            </figure>
+                        </div>
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="/assets/images/cleintfull10.webp" alt="">
                             </figure>
                         </div>
                     </div>
                     <div class="swiper-button-next">
-                        <img src="/assets/images/righttarrowberf.png" alt="">
+                        <img src="/assets/images/righttarrowberf.webp" alt="">
                     </div>
                     <div class="swiper-button-prev">
-                        <img src="/assets/images/leftarrowberf.png" alt="">
+                        <img src="/assets/images/leftarrowberf.webp" alt="">
                     </div>
                 </div>
             </div>

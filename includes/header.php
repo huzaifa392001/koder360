@@ -10,7 +10,7 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <link rel="icon" href="/assets/images/favicon.png" type="image/png">
+    <link rel="icon" href="/assets/images/favicon.webp" type="image/png">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/assets/css/plugins.css" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css" as="style"

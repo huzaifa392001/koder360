@@ -109,44 +109,44 @@
         <ul class="portfoliowrapper">
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port1.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/smm/port1.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port2.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/smm/port2.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port3.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/smm/port3.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port4.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/smm/port4.webp" class="img-fluid" alt="">
                 </figure>
             </li>
         </ul>
         <ul class="portfoliowrapper portfoliowrapper1">
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port5.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/smm/port5.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port6.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/smm/port6.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port7.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/smm/port7.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port8.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/smm/port8.webp" class="img-fluid" alt="">
                 </figure>
             </li>
         </ul>

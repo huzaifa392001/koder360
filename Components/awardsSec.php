@@ -22,7 +22,7 @@
             </div>
             <div class="col-md-5">
                 <figure class="awardsImg">
-                    <img src="/assets/images/4.4star.png" alt="">
+                    <img src="/assets/images/4.4star.webp" alt="">
                 </figure>
             </div>
         </div>
@@ -33,51 +33,51 @@
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award1.png" alt="">
+                    <img src="/assets/images/award1.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award2.png" alt="">
+                    <img src="/assets/images/award2.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award3.png" alt="">
+                    <img src="/assets/images/award3.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award4.png" alt="">
+                    <img src="/assets/images/award4.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award5.png" alt="">
+                    <img src="/assets/images/award5.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award6.png" alt="">
+                    <img src="/assets/images/award6.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award7.png" alt="">
+                    <img src="/assets/images/award7.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award8.png" alt="">
+                    <img src="/assets/images/award8.webp" alt="">
                 </figure>
             </div>
         </div>
     </div>
     <div class="swiper-button-next">
-        <img src="/assets/images/righttarrowberf.png" alt="">
+        <img src="/assets/images/righttarrowberf.webp" alt="">
     </div>
     <div class="swiper-button-prev">
-        <img src="/assets/images/leftarrowberf.png" alt="">
+        <img src="/assets/images/leftarrowberf.webp" alt="">
     </div>
 </div>
 <section class="awardsSec">
@@ -99,7 +99,7 @@
             </div>
             <div class="col-md-5">
                 <figure class="awardsImg">
-                    <img src="/assets/images/crafting-img.png" alt="">
+                    <img src="/assets/images/crafting-img.webp" alt="">
                 </figure>
             </div>
         </div>

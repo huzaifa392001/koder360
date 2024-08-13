@@ -165,7 +165,7 @@ function captureScreenshot () {
 
     let captureCanvas = textureToCanvas(texture, target.width, target.height);
     let datauri = captureCanvas.toDataURL();
-    downloadURI('fluid.png', datauri);
+    downloadURI('fluid.webp', datauri);
     URL.revokeObjectURL(datauri);
 }
 
@@ -828,7 +828,7 @@ let bloomFramebuffers = [];
 let sunrays;
 let sunraysTemp;
 
-let ditheringTexture = createTextureAsync('assets/images/home-page/home-banner.png');
+let ditheringTexture = createTextureAsync('assets/images/home-page/home-banner.webp');
 
 const blurProgram            = new Program(blurVertexShader, blurShader);
 const copyProgram            = new Program(baseVertexShader, copyShader);

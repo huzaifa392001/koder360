@@ -41,10 +41,10 @@
             </h2>
         </div>
         <div class="serviceRow">
-            <img src="/assets/images/portfolio/seo/slide1.png" alt="" class="first active">
-            <img src="/assets/images/portfolio/seo/slide2.png" alt="" class="second">
-            <img src="/assets/images/portfolio/seo/slide3.png" alt="" class="third">
-            <img src="/assets/images/portfolio/seo/slide4.png" alt="" class="forth">
+            <img src="/assets/images/portfolio/seo/slide1.webp" alt="" class="first active">
+            <img src="/assets/images/portfolio/seo/slide2.webp" alt="" class="second">
+            <img src="/assets/images/portfolio/seo/slide3.webp" alt="" class="third">
+            <img src="/assets/images/portfolio/seo/slide4.webp" alt="" class="forth">
             <div class="serviceBox active" data-img="first">
                 <div class="content">
                     <h3>
@@ -110,44 +110,44 @@
         <ul class="portfoliowrapper">
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/seo/port1.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/seo/port1.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/seo/port2.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/seo/port2.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/seo/port3.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/seo/port3.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/seo/port1.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/seo/port1.webp" class="img-fluid" alt="">
                 </figure>
             </li>
         </ul>
         <ul class="portfoliowrapper portfoliowrapper1">
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/seo/port4.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/seo/port4.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/seo/port5.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/seo/port5.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/seo/port6.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/seo/port6.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/seo/port4.png" class="img-fluid" alt="">
+                    <img src="/assets/images/portfolio/seo/port4.webp" class="img-fluid" alt="">
                 </figure>
             </li>
         </ul>
