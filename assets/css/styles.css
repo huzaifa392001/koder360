@@ -1451,3 +1451,8 @@ ul.portfoliowrapper li a figure img {
     cursor: pointer;
     z-index: 1;
 }
+
+.footerSec ul li a img {
+    width: 40px;
+    filter: drop-shadow(0 0 5px #fff);
+}

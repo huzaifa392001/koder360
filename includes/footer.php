@@ -128,18 +128,45 @@
                             <a href="javascript:;">
                                 <i class="fas fa-map-pin"></i>
                                 <?php echo $ADDRESS ?>
+                                <img src="/assets/images/canada.webp" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">
+                                <i class="fas fa-map-pin"></i>
+                                <?php echo $ADDRESS_PK ?>
+                                <img src="/assets/images/pakistan.svg" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:;">
+                                <i class="fas fa-map-pin"></i>
+                                <?php echo $ADDRESS_USA ?>
+                                <img src="/assets/images/usa.webp" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="tel:<?php echo $PHONE_NUMBER_TEL ?>">
+                                <i class="fas fa-phone"></i>
+                                <?php echo $PHONE_NUMBER ?>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="tel:<?php echo $PHONE_NUMBER_PK_TEL ?>">
+                                <i class="fas fa-phone"></i>
+                                <?php echo $PHONE_NUMBER_PK ?>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="tel:<?php echo $PHONE_NUMBER_USA_TEL ?>">
+                                <i class="fas fa-phone"></i>
+                                <?php echo $PHONE_NUMBER_USA ?>
                             </a>
                         </li>
                         <li>
                             <a href="mailto:<?php echo $EMAIL ?>">
                                 <i class="fas fa-envelope"></i>
                                 <?php echo $EMAIL ?>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="tel:$PHONE_NUMBER_TEL">
-                                <i class="fas fa-phone"></i>
-                                <?php echo $PHONE_NUMBER ?>
                             </a>
                         </li>
                     </ul>
@@ -197,7 +224,7 @@
     </div>
 </div>
 </body>
-<script defer src="https://cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/alertify.min.js" ></script>
+<script defer src="https://cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/alertify.min.js"></script>
 <script src="/assets/js/plugins.js"></script>
 <script src="/assets/js/smoke.js"></script>
 <script src="/assets/js/index.js"></script>
