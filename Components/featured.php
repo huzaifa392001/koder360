@@ -67,6 +67,11 @@
                                 <img src="/assets/images/client10.webp" alt="">
                             </figure>
                         </div>
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="/assets/images/client11.webp" alt="">
+                            </figure>
+                        </div>
                     </div>
                 </div>
                 <div class="swiper beforeAfterSlider">
@@ -119,6 +124,11 @@
                         <div class="swiper-slide">
                             <figure>
                                 <img src="/assets/images/cleintfull10.webp" alt="">
+                            </figure>
+                        </div>
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="/assets/images/cleintfull11.webp" alt="">
                             </figure>
                         </div>
                     </div>
