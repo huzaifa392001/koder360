@@ -27,11 +27,11 @@
                                 <img src="/assets/images/client2.webp" alt="">
                             </figure>
                         </div>
-                        <!--                            <div class="swiper-slide">-->
-                        <!--                                <figure>-->
-                        <!--                                    <img src="/assets/images/client3.webp" alt="">-->
-                        <!--                                </figure>-->
-                        <!--                            </div>-->
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="/assets/images/client3.webp" alt="">
+                            </figure>
+                        </div>
                         <div class="swiper-slide">
                             <figure>
                                 <img src="/assets/images/client4.webp" alt="">
@@ -47,11 +47,11 @@
                                 <img src="/assets/images/client6.webp" alt="">
                             </figure>
                         </div>
-                        <!--                            <div class="swiper-slide">-->
-                        <!--                                <figure>-->
-                        <!--                                    <img src="/assets/images/client7.webp" alt="">-->
-                        <!--                                </figure>-->
-                        <!--                            </div>-->
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="/assets/images/client7.webp" alt="">
+                            </figure>
+                        </div>
                         <div class="swiper-slide">
                             <figure>
                                 <img src="/assets/images/client8.webp" alt="">
@@ -86,11 +86,11 @@
                                 <img src="/assets/images/cleintfull2.webp" alt="">
                             </figure>
                         </div>
-                        <!--                            <div class="swiper-slide">-->
-                        <!--                                <figure>-->
-                        <!--                                    <img src="/assets/images/cleintfull3.webp" alt="">-->
-                        <!--                                </figure>-->
-                        <!--                            </div>-->
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="/assets/images/cleintfull3.webp" alt="">
+                            </figure>
+                        </div>
                         <div class="swiper-slide">
                             <figure>
                                 <img src="/assets/images/cleintfull4.webp" alt="">
@@ -106,11 +106,11 @@
                                 <img src="/assets/images/cleintfull6.webp" alt="">
                             </figure>
                         </div>
-                        <!--                            <div class="swiper-slide">-->
-                        <!--                                <figure>-->
-                        <!--                                    <img src="/assets/images/cleintfull7.webp" alt="">-->
-                        <!--                                </figure>-->
-                        <!--                            </div>-->
+                        <div class="swiper-slide">
+                            <figure>
+                                <img src="/assets/images/cleintfull7.webp" alt="">
+                            </figure>
+                        </div>
                         <div class="swiper-slide">
                             <figure>
                                 <img src="/assets/images/cleintfull8.webp" alt="">

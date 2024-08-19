@@ -5,6 +5,7 @@ let isDesktop = "(min-width: 768px)";
 
 $(function () {
     const text = new SplitType('.preloader h2')
+    gsap.to('.preloader h2', {autoAlpha: 1})
     text.chars
     preloader()
     lenisSetup()
