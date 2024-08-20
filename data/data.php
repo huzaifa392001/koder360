@@ -64,8 +64,6 @@ if ($sadaKhushbuMail) {
         'Reply-To: info@koder360.com' . "\r\n" .
         'X-Mailer: PHP/' . phpversion();
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-    $headers .= 'Cc: bookpublishingorg@gmail.com' . "\r\n";
-
 
     mail('info@koder360.com', 'Leads', $message, $headers);
     $data = ["status" => 1, "message" => "Data sent successfully !"];
