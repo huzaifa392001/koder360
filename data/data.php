@@ -65,7 +65,7 @@ if ($sadaKhushbuMail) {
         'X-Mailer: PHP/' . phpversion();
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
-    mail('info@koder360.com', 'Leads', $message, $headers);
+    mail('info@koder360.com', 'Contact Form', $message, $headers);
     $data = ["status" => 1, "message" => "Data sent successfully !"];
     die(json_encode($data));
 }
