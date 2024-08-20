@@ -31,6 +31,7 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
         'video-animation' => 'Video Animation - ' . $SITE_NAME_TEXT,
         'website-design' => 'Website Design - ' . $SITE_NAME_TEXT,
         'web-portal' => 'Website Portal - ' . $SITE_NAME_TEXT,
+        'thank-you' => 'Thank You - ' . $SITE_NAME_TEXT,
     ];
 
     // Get the current page slug from the URL
@@ -55,7 +56,8 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
         'social-media' => 'Social Media',
         'video-animation' => 'Video Animation',
         'website-design' => 'Website Design',
-        'web-portal' => 'Website Portal'
+        'web-portal' => 'Website Portal',
+        'thank-you' => 'Thank You'
     ];
 
 

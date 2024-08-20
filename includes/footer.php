@@ -9,6 +9,7 @@
                 </div>
                 <div class="col-md-6">
                     <form action="" class="contactForm">
+                        <input type="hidden" name="header" value="Contact Form">
                         <div class="container-fluid">
                             <div class="row">
                                 <div class="col-md-6">
@@ -158,7 +159,8 @@
         <div class="modal-content">
             <div class="modal-body">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                <form action="">
+                <form action="" class="popupForm">
+                    <input type="hidden" name="header" value="Popup Form">
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-12">
@@ -173,12 +175,12 @@
                             </div>
                             <div class="col-12">
                                 <div class="inputCont">
-                                    <input type="text" name="tel" placeholder="Telephone">
+                                    <input type="tel" name="phone" placeholder="Telephone">
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="inputCont">
-                                    <input type="text" name="email" placeholder="Email Address">
+                                    <input type="email" name="email" placeholder="Email Address">
                                 </div>
                             </div>
                             <div class="col-12">

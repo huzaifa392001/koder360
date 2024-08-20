@@ -21,6 +21,7 @@ switch ($_POST["mode"]) {
             $message .= "<p>Name : " . $name . "</p>";
             $message .= "<p>Email : " . $email . "</p>";
             $message .= "<p>Cell Phone: " . $country_phone . "</p>";
+            $message .= "<p>Message: " . $msg . "</p>";
             $message .= "<p>Ip Address : " . $client_ip . "</p>";
             $message .= "<p>Lead Page: " . $_SERVER["HTTP_REFERER"] . "</p>";
             $message .= "</body></html>";
@@ -29,58 +30,6 @@ switch ($_POST["mode"]) {
         }
 
         break;
-
-    case "bannerForm":
-        try {
-            $header = $_POST["header"];
-            $contact_firstname = $_POST["name"];
-            $contact_email = $_POST["email"];
-            $country_phone = $_POST["country_phone"];
-            // $signup_message = $_POST["signup_message"];
-            $client_ip = get_client_ip();
-            // $ins = insert_leads($_POST,$db);
-            // print_r($ins);
-            $message = "<html><body>";
-            $message .= "<h1>" . $header . "</h1>";
-            $message .= "<p>First Name : " . $contact_firstname . "</p>";
-            $message .= "<p>Email : " . $contact_email . "</p>";
-            $message .= "<p>Cell Phone: " . $country_phone . "</p>";
-            // $message .= "<p>Message : " . $signup_message . "</p>";
-            $message .= "<p>Ip Address : " . $client_ip . "</p>";
-            $message .= "<p>Lead Page: " . $_SERVER["HTTP_REFERER"] . "</p>";
-            $message .= "</body></html>";
-        } catch (PDOException $e) {
-            echo "There is some problem in connection: " . $e->getMessage();
-        }
-
-        break;
-
-    case "contactPgForm":
-        try {
-            $name = $_POST["name"];
-            $email = $_POST["email"];
-            $country_phone = $_POST["country_phone"];
-            $msg = $_POST["msg"];
-            $left_header = $_POST["header"];
-            $subject = $_POST["subject"];
-            $client_ip = get_client_ip();
-            // $ins = insert_leads($_POST,$db);
-            // print_r($ins);
-            $message = "<html><body>";
-            $message .= "<h1>" . $left_header . "</h1>";
-            $message .= "<p>Name : " . $name . "</p>";
-            $message .= "<p>Email : " . $email . "</p>";
-            $message .= "<p>Cell Phone: " . $country_phone . "</p>";
-            $message .= "<p>Subject: " . $subject . "</p>";
-            $message .= "<p>Ip Address : " . $client_ip . "</p>";
-            $message .= "<p>Lead Page: " . $_SERVER["HTTP_REFERER"] . "</p>";
-            $message .= "</body></html>";
-        } catch (PDOException $e) {
-            echo "There is some problem in connection: " . $e->getMessage();
-        }
-
-        break;
-
     case "popupForm":
         try {
             $name = $_POST["name"];
@@ -88,7 +37,6 @@ switch ($_POST["mode"]) {
             $country_phone = $_POST["country_phone"];
             $msg = $_POST["msg"];
             $left_header = $_POST["header"];
-            $time = $_POST["time"];
             $client_ip = get_client_ip();
             // $ins = insert_leads($_POST,$db);
             // print_r($ins);
@@ -97,31 +45,7 @@ switch ($_POST["mode"]) {
             $message .= "<p>Name : " . $name . "</p>";
             $message .= "<p>Email : " . $email . "</p>";
             $message .= "<p>Cell Phone: " . $country_phone . "</p>";
-            $message .= "<p>Time: " . $time . "</p>";
-            $message .= "<p>Ip Address : " . $client_ip . "</p>";
-            $message .= "<p>Lead Page: " . $_SERVER["HTTP_REFERER"] . "</p>";
-            $message .= "</body></html>";
-        } catch (PDOException $e) {
-            echo "There is some problem in connection: " . $e->getMessage();
-        }
-
-        break;
-
-    case "lpForm":
-        try {
-            $name = $_POST["name"];
-            $email = $_POST["email"];
-            $country_phone = $_POST["country_phone"];
-            $msg = $_POST["msg"];
-            $left_header = $_POST["header"];
-            $client_ip = get_client_ip();
-            // $ins = insert_leads($_POST,$db);
-            // print_r($ins);
-            $message = "<html><body>";
-            $message .= "<h1>" . $left_header . "</h1>";
-            $message .= "<p>Name : " . $name . "</p>";
-            $message .= "<p>Email : " . $email . "</p>";
-            $message .= "<p>Cell Phone: " . $country_phone . "</p>";
+            $message .= "<p>Message: " . $msg . "</p>";
             $message .= "<p>Ip Address : " . $client_ip . "</p>";
             $message .= "<p>Lead Page: " . $_SERVER["HTTP_REFERER"] . "</p>";
             $message .= "</body></html>";
@@ -132,19 +56,18 @@ switch ($_POST["mode"]) {
         break;
 }
 
-
 $sadaKhushbuMail = false;
 
 if ($sadaKhushbuMail) {
     $headers = "MIME-Version: 1.0" . "\r\n";
-    $headers = 'From: info@bookpublishing.org' . "\r\n" .
-        'Reply-To: info@bookpublishing.org' . "\r\n" .
+    $headers = 'From: info@koder360.com' . "\r\n" .
+        'Reply-To: info@koder360.com' . "\r\n" .
         'X-Mailer: PHP/' . phpversion();
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
     $headers .= 'Cc: bookpublishingorg@gmail.com' . "\r\n";
 
 
-    mail('info@bookpublishing.org', 'Leads', $message, $headers);
+    mail('info@koder360.com', 'Leads', $message, $headers);
     $data = ["status" => 1, "message" => "Data sent successfully !"];
     die(json_encode($data));
 }
@@ -164,21 +87,21 @@ $mail->SMTPAuth = true; // authentication enabled
 // $mail->SMTPSecure = 'tls'; // secure transfer enabled REQUIRED for Gmail
 $mail->SMTPAutoTLS = false;
 $mail->SMTPSecure = false;
-$mail->Host = "thebookpublishing.org";
-$mail->Port = 587; // or 587
+$mail->Host = "koder360.com";
+$mail->Port = 465; // or 587
 $mail->IsHTML(true);
-$mail->Username = "leads@thebookpublishing.org";
-$mail->Password = "407@Leads@@!!";
-$mail->SetFrom("leads@thebookpublishing.org", "Leads");
+$mail->Username = "_mainaccount@koder360.com";
+$mail->Password = "o=Q-~m_A^r;y";
+$mail->SetFrom("info@koder360.com", "Leads");
 $mail->Subject = "Leads";
 $mail->Body = $message;
 
 
 // $mail->AddAddress("fahadbashir757@gmail.com");
-$mail->AddAddress("info@thebookpublishing.org");
+$mail->AddAddress("info@koder360.com");
 
-// $mail->AddBCC("ryan.alonso@bookpublishing.org");
-// $mail->AddBCC("aaron.chess@bookpublishing.org");
+// $mail->AddBCC("ryan.alonso@koder360.com");
+// $mail->AddBCC("aaron.chess@koder360.com");
 // $mail->AddBCC("rhrevol@gmail.com");
 if (isset($_FILES) && !empty($_FILES)) {
     $mail->AddAttachment(
