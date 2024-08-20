@@ -11,7 +11,7 @@
                 <div class="row">
                     <div class="col-md-7">
                         <h1>
-                            Mobile AppsThat Offer
+                            Mobile Apps That Offer
                             <br>
                             Incredible User Experience
                         </h1>
@@ -153,9 +153,122 @@
     <!-- Portfolio Section -->
 
 <?php include '../Components/awardsSec.php' ?>
-<?php include '../Components/cta.php' ?>
-<?php include '../Components/featured.php' ?>
-<?php include '../Components/process.php' ?>
-<?php include '../Components/cta.php' ?>
+<?php
+$subHeading = 'WORK WITH US';
+$mainHeading = 'Let’s work together to build something great';
+include '../Components/cta.php';
+?>
+<?php
+$secHeading = "Featured Website Redesigns";
+$description = "We reimagine digital experiences for brands of all sizes and across industries. Explore our redesign portfolio.";
+$thumbSliderImages = [
+    '/assets/images/client1.webp',
+    '/assets/images/client3.webp',
+    '/assets/images/client4.webp',
+    '/assets/images/client5.webp',
+    '/assets/images/client6.webp',
+    '/assets/images/client7.webp',
+    '/assets/images/client8.webp',
+    '/assets/images/client9.webp',
+    '/assets/images/client10.webp',
+    '/assets/images/client11.webp',
+];
+$beforeAfterSliderImages = [
+    '/assets/images/cleintFull1.webp',
+    '/assets/images/cleintFull3.webp',
+    '/assets/images/cleintFull4.webp',
+    '/assets/images/cleintFull5.webp',
+    '/assets/images/cleintFull6.webp',
+    '/assets/images/cleintFull7.webp',
+    '/assets/images/cleintFull8.webp',
+    '/assets/images/cleintFull9.webp',
+    '/assets/images/cleintFull10.webp',
+    '/assets/images/cleintFull11.webp',
+];
+include '../Components/featured.php';
+?>
+<?php
+$secHeading = "Custom Mobile Application Process";
+$description = "Our process for developing a mobile application tailored to your business needs and user expectations.";
+$processSteps = [
+    [
+        'title' => 'Mobile App Strategy',
+        'thumbImage' => '/assets/images/process/mobile/mobile.webp',
+        'fullImage' => '/assets/images/process/mobile/web-strategyimg.webp',
+        'description' => 'Before we start development, we conduct thorough research into your industry, competitors, and target audience to formulate a custom mobile app strategy. This ensures your app meets the demands of your users and stands out in the marketplace.',
+        'tasks' => [
+            'Analyze user behavior and preferences',
+            'Define app features and functionalities',
+            'Identify key platforms (iOS, Android)',
+            'Set performance metrics and goals'
+        ]
+    ],
+    [
+        'title' => 'Planning & Information Architecture',
+        'thumbImage' => '/assets/images/process/mobile/planning.webp',
+        'fullImage' => '/assets/images/process/mobile/planningimg.webp',
+        'description' => 'Next, we plan the structure of your mobile app, focusing on the user experience and interface design. We map out the app’s navigation, wireframe key screens, and ensure seamless user journeys.',
+        'tasks' => [
+            'Create app wireframes and user flows',
+            'Design app navigation and UI elements',
+            'Plan integration with third-party services and APIs',
+            'Establish a scalable architecture'
+        ]
+    ],
+    [
+        'title' => 'UI/UX Design',
+        'thumbImage' => '/assets/images/process/mobile/ui.webp',
+        'fullImage' => '/assets/images/process/mobile/creativeimg.webp',
+        'description' => 'In this phase, our designers bring your app to life with a user-friendly interface and engaging visual design. We ensure that the app reflects your brand’s identity and provides a smooth user experience across devices.',
+        'tasks' => [
+            'Design intuitive UI and engaging UX',
+            'Incorporate brand elements and colors',
+            'Create interactive prototypes for review'
+        ]
+    ],
+    [
+        'title' => 'Mobile App Development',
+        'thumbImage' => '/assets/images/process/mobile/responsive.webp',
+        'fullImage' => '/assets/images/process/mobile/responsiveimg.webp',
+        'description' => 'Our development team starts building your mobile app using the latest technologies, ensuring it is responsive, secure, and scalable. We develop both front-end and back-end components, integrating with necessary services.',
+        'tasks' => [
+            'Develop the app using native or cross-platform technologies',
+            'Integrate backend services and APIs',
+            'Implement security protocols and data encryption',
+            'Conduct regular code reviews and testing'
+        ]
+    ],
+    [
+        'title' => 'Quality Assurance',
+        'thumbImage' => '/assets/images/process/mobile/quality.webp',
+        'fullImage' => '/assets/images/process/mobile/qualityimg.webp',
+        'description' => 'Our QA team rigorously tests the app across different devices and operating systems. We ensure that all functionalities work seamlessly, the user experience is flawless, and the app performs optimally under various conditions.',
+        'tasks' => [
+            'Conduct functional and non-functional testing',
+            'Perform usability testing with real users',
+            'Ensure compatibility across devices and OS versions',
+            'Optimize performance for speed and responsiveness'
+        ]
+    ],
+    [
+        'title' => 'Launch & Maintenance',
+        'thumbImage' => '/assets/images/process/mobile/launch.webp',
+        'fullImage' => '/assets/images/process/mobile/launchimg.webp',
+        'description' => 'After final testing, we launch your mobile app on the App Store and/or Google Play. We handle the submission process and ensure your app meets all store requirements. Post-launch, we provide ongoing support and updates to keep your app running smoothly.',
+        'tasks' => [
+            'Submit the app to relevant app stores',
+            'Monitor app performance post-launch',
+            'Provide regular updates and enhancements',
+            'Offer ongoing support and troubleshooting'
+        ]
+    ],
+];
+include '../Components/process.php';
+?>
+<?php
+$subHeading = 'WORK WITH US';
+$mainHeading = 'Let’s work together to build something great';
+include '../Components/cta.php';
+?>
 <?php include '../Components/testimonials.php' ?>
 <?php include "../includes/footer.php" ?>

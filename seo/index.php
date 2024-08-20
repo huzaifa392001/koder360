@@ -155,9 +155,123 @@
     <!-- Portfolio Section -->
 
 <?php include '../Components/awardsSec.php' ?>
-<?php include '../Components/cta.php' ?>
-<?php include '../Components/featured.php' ?>
-<?php include '../Components/process.php' ?>
-<?php include '../Components/cta.php' ?>
+<?php
+$subHeading = 'WORK WITH US';
+$mainHeading = 'Let’s work together to build something great';
+include '../Components/cta.php';
+?>
+<?php
+$secHeading = "Featured Website Redesigns";
+$description = "We reimagine digital experiences for brands of all sizes and across industries. Explore our redesign portfolio.";
+$thumbSliderImages = [
+    '/assets/images/client1.webp',
+    '/assets/images/client3.webp',
+    '/assets/images/client4.webp',
+    '/assets/images/client5.webp',
+    '/assets/images/client6.webp',
+    '/assets/images/client7.webp',
+    '/assets/images/client8.webp',
+    '/assets/images/client9.webp',
+    '/assets/images/client10.webp',
+    '/assets/images/client11.webp',
+];
+$beforeAfterSliderImages = [
+    '/assets/images/cleintFull1.webp',
+    '/assets/images/cleintFull3.webp',
+    '/assets/images/cleintFull4.webp',
+    '/assets/images/cleintFull5.webp',
+    '/assets/images/cleintFull6.webp',
+    '/assets/images/cleintFull7.webp',
+    '/assets/images/cleintFull8.webp',
+    '/assets/images/cleintFull9.webp',
+    '/assets/images/cleintFull10.webp',
+    '/assets/images/cleintFull11.webp',
+];
+include '../Components/featured.php';
+?>
+<?php
+$secHeading = "Custom SEO Process";
+$description = "Our step-by-step approach to optimizing your website for search engines, driving organic traffic, and improving your online visibility.";
+$processSteps = [
+    [
+        'title' => 'SEO Strategy & Research',
+        'thumbImage' => '/assets/images/process/seo/seo.webp',
+        'fullImage' => '/assets/images/process/seo/web-strategyimg.webp',
+        'description' => 'We begin with an in-depth analysis of your industry, competitors, and target audience. This research forms the foundation of our SEO strategy, helping us identify the right keywords, content opportunities, and optimization techniques to boost your rankings.',
+        'tasks' => [
+            'Conduct keyword research and competitive analysis',
+            'Identify content gaps and opportunities',
+            'Analyze current website performance and rankings',
+            'Develop a comprehensive SEO strategy'
+        ]
+    ],
+    [
+        'title' => 'On-Page Optimization',
+        'thumbImage' => '/assets/images/process/seo/onpage.webp',
+        'fullImage' => '/assets/images/process/seo/planningimg.webp',
+        'description' => 'We optimize every element on your website to ensure it aligns with SEO best practices. This includes optimizing meta tags, headers, and images, as well as improving content quality and internal linking to enhance user experience and search engine visibility.',
+        'tasks' => [
+            'Optimize meta titles, descriptions, and headers',
+            'Improve site speed and mobile responsiveness',
+            'Enhance content with targeted keywords and LSI terms',
+            'Implement internal linking strategies'
+        ]
+    ],
+    [
+        'title' => 'Technical SEO',
+        'thumbImage' => '/assets/images/process/seo/technical.webp',
+        'fullImage' => '/assets/images/process/seo/creativeimg.webp',
+        'description' => 'Our team focuses on the technical aspects of SEO, ensuring your website is easy for search engines to crawl and index. We address issues like broken links, duplicate content, XML sitemaps, and site architecture to improve overall search engine performance.',
+        'tasks' => [
+            'Conduct technical SEO audits and fix issues',
+            'Optimize website architecture and URL structure',
+            'Create and submit XML sitemaps to search engines',
+            'Implement structured data and schema markup'
+        ]
+    ],
+    [
+        'title' => 'Content Optimization & Creation',
+        'thumbImage' => '/assets/images/process/seo/content.webp',
+        'fullImage' => '/assets/images/process/seo/responsiveimg.webp',
+        'description' => 'Content is king in the world of SEO. We optimize your existing content and create new, high-quality content that resonates with your audience and ranks well on search engines. Our focus is on delivering value while incorporating strategic keywords.',
+        'tasks' => [
+            'Revise existing content for SEO and readability',
+            'Create new, keyword-rich content for targeted topics',
+            'Develop content marketing strategies and editorial calendars',
+            'Ensure content is shareable and engaging'
+        ]
+    ],
+    [
+        'title' => 'Off-Page SEO & Link Building',
+        'thumbImage' => '/assets/images/process/seo/link.webp',
+        'fullImage' => '/assets/images/process/seo/qualityimg.webp',
+        'description' => 'We build high-quality backlinks and enhance your website’s authority through off-page SEO strategies. This includes outreach to relevant websites, creating shareable content, and leveraging social media to boost your site’s credibility and rankings.',
+        'tasks' => [
+            'Conduct link-building campaigns for high-authority backlinks',
+            'Engage in guest posting and content syndication',
+            'Monitor and manage online reputation',
+            'Promote content through social media and influencer outreach'
+        ]
+    ],
+    [
+        'title' => 'Monitoring & Reporting',
+        'thumbImage' => '/assets/images/process/seo/monitor.webp',
+        'fullImage' => '/assets/images/process/seo/launchimg.webp',
+        'description' => 'SEO is an ongoing process. We continuously monitor your website’s performance, track keyword rankings, and analyze traffic data. Regular reporting keeps you informed of progress and helps us refine strategies to ensure sustained growth.',
+        'tasks' => [
+            'Monitor website performance with analytics tools',
+            'Track keyword rankings and organic traffic',
+            'Provide detailed monthly SEO reports',
+            'Adjust and refine strategies based on data insights'
+        ]
+    ],
+];
+include '../Components/process.php';
+?>
+<?php
+$subHeading = 'WORK WITH US';
+$mainHeading = 'Let’s work together to build something great';
+include '../Components/cta.php';
+?>
 <?php include '../Components/testimonials.php' ?>
 <?php include "../includes/footer.php" ?>

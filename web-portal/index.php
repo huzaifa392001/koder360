@@ -156,9 +156,122 @@
     <!-- Portfolio Section -->
 
 <?php include '../Components/awardsSec.php' ?>
-<?php include '../Components/cta.php' ?>
-<?php include '../Components/featured.php' ?>
-<?php include '../Components/process.php' ?>
-<?php include '../Components/cta.php' ?>
+<?php
+$subHeading = 'WORK WITH US';
+$mainHeading = 'Let’s work together to build something great';
+include '../Components/cta.php';
+?>
+<?php
+$secHeading = "Featured Web Portal Redesigns";
+$description = "We reimagine digital experiences for brands of all sizes and across industries. Explore our redesign portfolio.";
+$thumbSliderImages = [
+    '/assets/images/client1.webp',
+    '/assets/images/client3.webp',
+    '/assets/images/client4.webp',
+    '/assets/images/client5.webp',
+    '/assets/images/client6.webp',
+    '/assets/images/client7.webp',
+    '/assets/images/client8.webp',
+    '/assets/images/client9.webp',
+    '/assets/images/client10.webp',
+    '/assets/images/client11.webp',
+];
+$beforeAfterSliderImages = [
+    '/assets/images/cleintFull1.webp',
+    '/assets/images/cleintFull3.webp',
+    '/assets/images/cleintFull4.webp',
+    '/assets/images/cleintFull5.webp',
+    '/assets/images/cleintFull6.webp',
+    '/assets/images/cleintFull7.webp',
+    '/assets/images/cleintFull8.webp',
+    '/assets/images/cleintFull9.webp',
+    '/assets/images/cleintFull10.webp',
+    '/assets/images/cleintFull11.webp',
+];
+include '../Components/featured.php';
+?>
+<?php
+$secHeading = "Custom Web Portal Process";
+$description = "Our process for creating a web portal tailored to your business operations and user engagement.";
+$processSteps = [
+    [
+        'title' => 'Web Portal Strategy',
+        'thumbImage' => '/assets/images/process/portal/portal.webp',
+        'fullImage' => '/assets/images/process/portal/web-strategyimg.webp',
+        'description' => 'We begin by understanding your business requirements, target users, and the core functionalities needed for the web portal. This helps us design a strategy that aligns with your business goals and user needs.',
+        'tasks' => [
+            'Identify user roles and access levels',
+            'Define portal features and modules',
+            'Plan integration with existing systems',
+            'Set up performance metrics and analytics'
+        ]
+    ],
+    [
+        'title' => 'Planning & Information Architecture',
+        'thumbImage' => '/assets/images/process/portal/planning.webp',
+        'fullImage' => '/assets/images/process/portal/planningimg.webp',
+        'description' => 'We map out the web portal’s structure, focusing on creating an intuitive user experience. We define the information architecture, design user flows, and prepare wireframes to visualize the portal’s layout.',
+        'tasks' => [
+            'Design the portal’s structure and navigation',
+            'Plan data organization and user access paths',
+            'Create detailed wireframes for key sections',
+            'Ensure scalability for future growth'
+        ]
+    ],
+    [
+        'title' => 'User Interface Design',
+        'thumbImage' => '/assets/images/process/portal/creative.webp',
+        'fullImage' => '/assets/images/process/portal/creativeimg.webp',
+        'description' => 'Our designers craft a user-centric interface that aligns with your brand and provides a seamless experience for users. We focus on both aesthetics and usability to ensure the portal is both functional and visually appealing.',
+        'tasks' => [
+            'Design the UI for different user roles',
+            'Incorporate branding and design consistency',
+            'Create interactive prototypes for user testing'
+        ]
+    ],
+    [
+        'title' => 'Web Portal Development',
+        'thumbImage' => '/assets/images/process/portal/responsive.webp',
+        'fullImage' => '/assets/images/process/portal/responsiveimg.webp',
+        'description' => 'Our development team builds the web portal using secure, scalable technologies. We focus on creating a robust backend, smooth front-end interactions, and seamless integration with other systems.',
+        'tasks' => [
+            'Develop the backend with secure coding practices',
+            'Create a responsive and dynamic front-end',
+            'Integrate APIs and third-party services',
+            'Conduct thorough testing during development'
+        ]
+    ],
+    [
+        'title' => 'Quality Assurance',
+        'thumbImage' => '/assets/images/process/portal/quality.webp',
+        'fullImage' => '/assets/images/process/portal/qualityimg.webp',
+        'description' => 'Before going live, our QA team performs extensive testing to ensure the web portal is bug-free, secure, and user-friendly. We test all features, validate performance, and optimize the portal for various devices.',
+        'tasks' => [
+            'Conduct end-to-end functional testing',
+            'Perform security audits and vulnerability assessments',
+            'Test for performance and scalability',
+            'Gather user feedback for final adjustments'
+        ]
+    ],
+    [
+        'title' => 'Launch & Continuous Support',
+        'thumbImage' => '/assets/images/process/portal/launch.webp',
+        'fullImage' => '/assets/images/process/portal/launchimg.webp',
+        'description' => 'Once everything is tested and approved, we launch the web portal and monitor its performance. We provide continuous support, regular updates, and enhancements to keep the portal running smoothly and efficiently.',
+        'tasks' => [
+            'Deploy the portal to the live environment',
+            'Monitor usage and gather analytics',
+            'Provide regular maintenance and updates',
+            'Offer ongoing user support and training'
+        ]
+    ],
+];
+include '../Components/process.php';
+?>
+<?php
+$subHeading = 'WORK WITH US';
+$mainHeading = 'Let’s work together to build something great';
+include '../Components/cta.php';
+?>
 <?php include '../Components/testimonials.php' ?>
 <?php include "../includes/footer.php" ?>

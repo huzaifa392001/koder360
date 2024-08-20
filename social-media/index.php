@@ -24,7 +24,8 @@
                                 Boost Brand Authority
                             </li>
                         </ul>
-                        <a class="themeBtn" href="javascript:;" data-bs-toggle="modal" data-bs-target="#exampleModal"> Request a Quote
+                        <a class="themeBtn" href="javascript:;" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            Request a Quote
                             <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b></a>
                     </div>
                 </div>
@@ -39,10 +40,10 @@
             </h2>
         </div>
         <div class="serviceRow">
-            <img src="/assets/images/portfolio/smm/slide1.jpg" alt="" class="first active">
-            <img src="/assets/images/portfolio/smm/slide2.jpg" alt="" class="second">
-            <img src="/assets/images/portfolio/smm/slide3.jpg" alt="" class="third">
-            <img src="/assets/images/portfolio/smm/slide4.jpg" alt="" class="forth">
+            <img src="/assets/images/portfolio/smm/slide1.webp" alt="" class="first active">
+            <img src="/assets/images/portfolio/smm/slide2.webp" alt="" class="second">
+            <img src="/assets/images/portfolio/smm/slide3.webp" alt="" class="third">
+            <img src="/assets/images/portfolio/smm/slide4.webp" alt="" class="forth">
             <div class="serviceBox active" data-img="first">
                 <div class="content">
                     <h3>
@@ -154,9 +155,94 @@
     <!-- Portfolio Section -->
 
 <?php include '../Components/awardsSec.php' ?>
-<?php include '../Components/cta.php' ?>
-<?php include '../Components/featured.php' ?>
-<?php include '../Components/process.php' ?>
-<?php include '../Components/cta.php' ?>
+<?php
+$subHeading = 'WORK WITH US';
+$mainHeading = 'Let’s work together to build something great';
+include '../Components/cta.php';
+?>
+<?php
+$secHeading = "Custom Social Media Marketing Process";
+$description = "Our comprehensive approach to building your brand’s presence on social media, engaging with your audience, and driving meaningful results.";
+$processSteps = [
+    [
+        'title' => 'Social Media Strategy & Planning',
+        'thumbImage' => '/assets/images/process/smm/smm.webp',
+        'fullImage' => '/assets/images/process/smm/web-strategyimg.webp',
+        'description' => 'We start by understanding your brand, audience, and goals. This allows us to create a tailored social media strategy that aligns with your business objectives and resonates with your target audience across various platforms.',
+        'tasks' => [
+            'Define social media goals and KPIs',
+            'Identify target audience and key platforms',
+            'Develop content themes and posting schedules',
+            'Establish a brand voice and visual style'
+        ]
+    ],
+    [
+        'title' => 'Content Creation & Curation',
+        'thumbImage' => '/assets/images/process/smm/content.webp',
+        'fullImage' => '/assets/images/process/smm/planningimg.webp',
+        'description' => 'Our team creates engaging and shareable content that captures your brand’s essence. We focus on a mix of original content, curated posts, and user-generated content to keep your audience engaged and your social channels active.',
+        'tasks' => [
+            'Create visually appealing graphics and videos',
+            'Write compelling captions and copy',
+            'Curate relevant content from trusted sources',
+            'Leverage user-generated content and testimonials'
+        ]
+    ],
+    [
+        'title' => 'Social Media Management',
+        'thumbImage' => '/assets/images/process/smm/manage.webp',
+        'fullImage' => '/assets/images/process/smm/creativeimg.webp',
+        'description' => 'We manage your social media accounts on a day-to-day basis, ensuring consistent posting, audience engagement, and prompt responses to messages and comments. Our goal is to build a community around your brand and foster meaningful interactions.',
+        'tasks' => [
+            'Schedule and publish content across platforms',
+            'Engage with followers and respond to comments',
+            'Monitor brand mentions and sentiment',
+            'Manage social media advertising campaigns'
+        ]
+    ],
+    [
+        'title' => 'Audience Growth & Engagement',
+        'thumbImage' => '/assets/images/process/smm/grow.webp',
+        'fullImage' => '/assets/images/process/smm/responsiveimg.webp',
+        'description' => 'Growing your social media presence requires more than just posting content. We use strategic tactics to increase your follower count, boost engagement rates, and expand your reach to new potential customers.',
+        'tasks' => [
+            'Run follower growth campaigns',
+            'Host social media contests and giveaways',
+            'Collaborate with influencers and partners',
+            'Engage with relevant hashtags and communities'
+        ]
+    ],
+    [
+        'title' => 'Analytics & Reporting',
+        'thumbImage' => '/assets/images/process/smm/reporting.webp',
+        'fullImage' => '/assets/images/process/smm/qualityimg.webp',
+        'description' => 'We track the performance of your social media efforts with in-depth analytics. Regular reports provide insights into what’s working, areas for improvement, and the overall impact of your social media marketing strategy.',
+        'tasks' => [
+            'Monitor key social media metrics',
+            'Analyze audience demographics and behavior',
+            'Provide detailed performance reports',
+            'Optimize strategies based on data insights'
+        ]
+    ],
+    [
+        'title' => 'Continuous Optimization & Growth',
+        'thumbImage' => '/assets/images/process/smm/launch.webp',
+        'fullImage' => '/assets/images/process/smm/launchimg.webp',
+        'description' => 'Social media is constantly evolving, and so are we. We continuously refine your social media strategy to keep up with trends, platform updates, and audience behavior, ensuring your brand stays relevant and continues to grow.',
+        'tasks' => [
+            'Stay updated with social media trends and algorithms',
+            'Adjust content strategies to align with platform changes',
+            'Experiment with new content formats and features',
+            'Provide ongoing strategy optimization and growth tactics'
+        ]
+    ],
+];
+include '../Components/process.php';
+?>
+<?php
+$subHeading = 'WORK WITH US';
+$mainHeading = 'Let’s work together to build something great';
+include '../Components/cta.php';
+?>
 <?php include '../Components/testimonials.php' ?>
 <?php include "../includes/footer.php" ?>

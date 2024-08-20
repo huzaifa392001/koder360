@@ -1,226 +1,155 @@
 <footer>
-    <img src="assets/images/bgblub.webp" alt="" class="bgImg" />
+    <img src="/assets/images/bgblub.webp" alt="" class="bgImg"/>
     <div class="contentSec">
-    <div class="container-md">
-      <div class="row justify-content-between align-items-center">
-        <div class="col-xl-4 col-md-6">
-          <h4>Brew a cup and grab a seat...</h4>
-          <h2>Fill Out The Form And We’ll Get In Touch</h2>
-        </div>
-        <div class="col-md-6">
-          <form action="" class="contactForm">
-            <div class="container-fluid">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="inputCont">
-                    <input type="text" placeholder="Full Name" name="name" />
-                  </div>
+        <div class="container-md">
+            <div class="row justify-content-between align-items-center">
+                <div class="col-xl-4 col-md-6">
+                    <h4>Brew a cup and grab a seat...</h4>
+                    <h2>Fill Out The Form And We’ll Get In Touch</h2>
                 </div>
                 <div class="col-md-6">
-                  <div class="inputCont">
-                    <input type="tel" placeholder="Telephone" name="phone" />
-                  </div>
+                    <form action="" class="contactForm">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="inputCont">
+                                        <input type="text" placeholder="Full Name" name="name"/>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="inputCont">
+                                        <input type="tel" placeholder="Telephone" name="phone"/>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="inputCont">
+                                        <input type="text" placeholder="Email Address" name="email"/>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="inputCont">
+                                        <textarea name="msg" id="" rows="6" placeholder="Message"></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <button class="themeBtn">Submit <span></span><span></span><span></span><span></span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
                 </div>
-                <div class="col-12">
-                  <div class="inputCont">
-                    <input type="text" placeholder="Email Address" name="email" />
-                  </div>
-                </div>
-                <div class="col-12">
-                  <div class="inputCont">
-                    <textarea name="msg" id="" rows="6" placeholder="Message"></textarea>
-                  </div>
-                </div>
-                <div class="col-12">
-                  <button class="themeBtn">Submit <span></span><span></span><span></span><span></span></button>
-                </div>
-              </div>
             </div>
-          </form>
+            <div class="divider"></div>
         </div>
-      </div>
-      <div class="divider"></div>
-    </div>
     </div>
     <div class="footerSec">
-    <div class="container-md">
-      <div class="row">
-        <div class="col-md-4">
-          <div class="footerLogo">
-            <img src="assets/images/white-logo.webp" alt="" />
-            <p>Koder360 is a creative digital marketing agency which will take your business to newer heights with our result-oriented digital marketing and branding services.</p>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <h4>Services</h4>
-          <ul>
-            <li>
-              <a href="">
-                <i class="fas fa-caret-right"></i>
-                Home
-              </a>
-            </li>
-            <li>
-              <a href="">
-                <i class="fas fa-caret-right"></i>
-                About Us
-              </a>
-            </li>
-            <li>
-              <a href="">
-                <i class="fas fa-caret-right"></i>
-                Contact Us
-              </a>
-            </li>
-            <li>
-              <a href="">
-                <i class="fas fa-caret-right"></i>
-                Website Design
-              </a>
-            </li>
-            <li>
-              <a href="">
-                <i class="fas fa-caret-right"></i>
-                Web Portal
-              </a>
-            </li>
-            <li>
-              <a href="">
-                <i class="fas fa-caret-right"></i>
-                SEO
-              </a>
-            </li>
-            <li>
-              <a href="">
-                <i class="fas fa-caret-right"></i>
-                Video Animation
-              </a>
-            </li>
-            <li>
-              <a href="">
-                <i class="fas fa-caret-right"></i>
-                Mobile Apps
-              </a>
-            </li>
-            <li>
-              <a href="">
-                <i class="fas fa-caret-right"></i>
-                Social Media
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-4 col-sm-6">
-          <h4>Contact Us</h4>
-          <div class="accordion" id="accordionExample">
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  <img src="assets/images/canada.webp" alt="" /> Canada
-                </button>
-              </h2>
-              <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <a href="javascript:;">
-                    <i class="fas fa-map-pin"></i>
-                    Toronto, Ontario M2N 0E9
-                  </a>
-                  <a href="tel:+16478947312">
-                    <i class="fas fa-phone"></i>
-                    +1 (647) 894-7312
-                  </a>
+        <div class="container-md">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="footerLogo">
+                        <img src="/assets/images/white-logo.webp" alt=""/>
+                    </div>
+                    <h4>Contact Us</h4>
+                    <ul class="contact">
+                        <li>
+                            <img src="/assets/images/canada.webp" alt=""/>
+                            <a href="javascript:;">
+                                <i class="fas fa-map-pin"></i>
+                                <?php echo $ADDRESS ?>
+                            </a>
+                            <a href="tel:<?php echo $PHONE_NUMBER_TEL ?>">
+                                <i class="fas fa-phone"></i>
+                                <?php echo $PHONE_NUMBER ?>
+                            </a>
+                        </li>
+                        <li>
+                            <img src="/assets/images/pakistan.svg" alt=""/>
+                            <a href="javascript:;">
+                                <i class="fas fa-map-pin"></i>
+                                <?php echo $ADDRESS_PK ?>
+                            </a>
+                            <a href="tel:<?php echo $PHONE_NUMBER_PK_TEL ?>">
+                                <i class="fas fa-phone"></i>
+                                <?php echo $PHONE_NUMBER_PK ?>
+                            </a>
+                        </li>
+                        <li>
+                            <img src="/assets/images/usa.webp" alt=""/>
+                            <a href="javascript:;">
+                                <i class="fas fa-map-pin"></i>
+                                <?php echo $ADDRESS_USA ?>
+                            </a>
+                            <a href="tel:<?php echo $PHONE_NUMBER_USA_TEL ?>">
+                                <i class="fas fa-phone"></i>
+                                <?php echo $PHONE_NUMBER_USA ?>
+                            </a>
+                        </li>
+                    </ul>
                 </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  <img src="assets/images/pakistan.svg" alt="" /> <span>Pakistan</span>
-                </button>
-              </h2>
-              <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <a href="javascript:;">
-                    <i class="fas fa-map-pin"></i>
-                    Plot # 3/29 Union council Road no 15 Maqboolabad M-C-H-S, Karachi
-                  </a>
-                  <a href="tel:+923212813730">
-                    <i class="fas fa-phone"></i>
-                    +92 (321) 281-3730
-                  </a>
+                <div class="col-md-4">
+                    <h4>Services</h4>
+                    <ul>
+                        <li>
+                            <a href="">
+                                <i class="fas fa-caret-right"></i>
+                                Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <i class="fas fa-caret-right"></i>
+                                About Us
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <i class="fas fa-caret-right"></i>
+                                Contact Us
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <i class="fas fa-caret-right"></i>
+                                Website Design
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <i class="fas fa-caret-right"></i>
+                                Web Portal
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <i class="fas fa-caret-right"></i>
+                                SEO
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <i class="fas fa-caret-right"></i>
+                                Video Animation
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <i class="fas fa-caret-right"></i>
+                                Mobile Apps
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <i class="fas fa-caret-right"></i>
+                                Social Media
+                            </a>
+                        </li>
+                    </ul>
                 </div>
-              </div>
             </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  <img src="assets/images/usa.webp" alt="" /> <span>United States</span>
-                </button>
-              </h2>
-              <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <a href="javascript:;">
-                    <i class="fas fa-map-pin"></i>
-                    Wyoming, 30 N GOULD ST STE R
-                  </a>
-    
-                  <a href="tel:+12062037424">
-                    <i class="fas fa-phone"></i>
-                    +1 (206) 203-7424
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <ul class="contact">
-            <!-- <li>
-              <a href="javascript:;">
-                <i class="fas fa-map-pin"></i>
-                Toronto, Ontario M2N 0E9 <img src="assets/images/canada.webp" alt="" />
-              </a>
-            </li>
-            <li>
-              <a href="javascript:;">
-                <i class="fas fa-map-pin"></i>
-                Plot # 3/29 Union council Road no 15 Maqboolabad M-C-H-S, Karachi <img src="assets/images/pakistan.svg" alt="" />
-              </a>
-            </li>
-            <li>
-              <a href="javascript:;">
-                <i class="fas fa-map-pin"></i>
-                Wyoming, 30 N GOULD ST STE R <img src="assets/images/usa.webp" alt="" />
-              </a>
-            </li>
-            <li>
-              <a href="tel:+16478947312">
-                <i class="fas fa-phone"></i>
-                +1 (647) 894-7312
-              </a>
-            </li>
-            <li>
-              <a href="tel:+923212813730">
-                <i class="fas fa-phone"></i>
-                +92 (321) 281-3730
-              </a>
-            </li>
-            <li>
-              <a href="tel:+12062037424">
-                <i class="fas fa-phone"></i>
-                +1 (206) 203-7424
-              </a>
-            </li> -->
-            <li>
-              <a href="mailto:info@koder360.com">
-                <i class="fas fa-envelope"></i>
-                info@koder360.com
-              </a>
-            </li>
-          </ul>
         </div>
-      </div>
     </div>
-    </div>
-    </footer>
+</footer>
 </div>
 </div>
 <!-- Modal -->

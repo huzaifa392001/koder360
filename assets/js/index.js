@@ -79,26 +79,21 @@ function preloaderRemove() {
 
 function aboutAnim() {
     let mainSec = document.querySelector(".aboutSec");
+    let isMobileScreen = window.innerWidth <= 767;
 
     if (mainSec) {
         let sections = gsap.utils.toArray(".aboutSec .panel");
 
-        // Common timeline for animations
         let aboutIntroTl = gsap.timeline({
             scrollTrigger: {
                 trigger: isMobileScreen ? '.aboutSec .panel:first-child' : mainSec,
                 start: 'top 75%',
                 end: 'bottom bottom',
-                scrub: true
-            }
+                scrub: true,
+            },
         });
 
-        mm.add(isMobileScreen, () => {
-            // Animation for lines
-            aboutIntroTl.to(".linesCont .lineBox", {
-                y: 0,
-                stagger: 0.1
-            });
+        if (isMobileScreen) {
             sections.forEach((section) => {
                 let img = section.querySelector('.content figure');
                 let heading = section.querySelector('.content .title');
@@ -106,29 +101,29 @@ function aboutAnim() {
                     scrollTrigger: {
                         trigger: section,
                         start: "top center",
-                    }
+                    },
                 });
-                // Animation for images and heading
                 tl.to(img, {
                     y: 0,
                     autoAlpha: 1,
                     duration: 0.5,
-                    ease: 'power3.out'
+                    ease: 'power3.out',
                 }).to(heading, {
                     x: 0,
                     autoAlpha: 1,
                     duration: 0.9,
-                    ease: 'power3.out'
+                    ease: 'power3.out',
                 }, '-=0.5');
             });
-        })
+        }
 
-        mm.add(isDesktop, () => {
-
-            // Set sections width to window width
+        if (!isMobileScreen) {
+            aboutIntroTl.to(".linesCont .lineBox", {
+                y: 0,
+                stagger: 0.1,
+            });
             sections.forEach(section => section.style.width = `${window.innerWidth}px`);
 
-            // Horizontal scroll animation
             let horizontalScroll = gsap.to(sections, {
                 xPercent: -100 * (sections.length - 1),
                 ease: "none",
@@ -136,11 +131,10 @@ function aboutAnim() {
                     trigger: mainSec,
                     pin: true,
                     scrub: 1,
-                    end: () => "+=" + mainSec.offsetWidth
+                    end: () => "+=" + mainSec.offsetWidth,
                 },
             });
 
-            // Loop through each section to create individual animations
             sections.forEach((section) => {
                 let img = section.querySelector('.content figure');
                 let heading = section.querySelector('.content .title');
@@ -149,43 +143,41 @@ function aboutAnim() {
                         trigger: section,
                         containerAnimation: horizontalScroll,
                         start: "left center",
-                    }
+                    },
                 });
-                // Animation for images and heading
                 tl.to(img, {
                     y: 0,
                     autoAlpha: 1,
                     duration: 0.5,
-                    ease: 'power3.out'
+                    ease: 'power3.out',
                 }).to(heading, {
                     x: 0,
                     autoAlpha: 1,
                     duration: 0.9,
-                    ease: 'power3.out'
+                    ease: 'power3.out',
                 }, '-=0.5');
             });
 
-            // Infinite slider animations
             gsap.to('.infiniteSlider .slide:first-of-type figure', {
                 duration: 50,
                 ease: "none",
-                y: "-=500", //move each box 500px to right
+                y: "-=500",
                 modifiers: {
-                    y: gsap.utils.unitize(y => parseFloat(y) % 500) //force y value to be between 0 and 500 using modulus
+                    y: gsap.utils.unitize(y => parseFloat(y) % 500),
                 },
-                repeat: -1
+                repeat: -1,
             });
 
             gsap.to('.infiniteSlider .slide:last-of-type figure', {
                 duration: 50,
                 ease: "none",
-                y: "+=500", //move each box 500px to right
+                y: "+=500",
                 modifiers: {
-                    y: gsap.utils.unitize(y => parseFloat(y) % 500) //force y value to be between 0 and 500 using modulus
+                    y: gsap.utils.unitize(y => parseFloat(y) % 500),
                 },
-                repeat: -1
+                repeat: -1,
             });
-        });
+        }
     }
 }
 

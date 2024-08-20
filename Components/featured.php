@@ -1,3 +1,10 @@
+<?php
+$secHeading = isset($secHeading) ? $secHeading : 'Featured Website Redesigns';
+$description = isset($description) ? $description : 'We reimagine digital experiences for brands of all sizes and across industries. Explore our redesign portfolio.';
+$thumbSliderImages = isset($thumbSliderImages) ? $thumbSliderImages : [];
+$beforeAfterSliderImages = isset($beforeAfterSliderImages) ? $beforeAfterSliderImages : [];
+?>
+
 <section class="featuredSec">
     <div class="container-md">
         <div class="row">
@@ -6,131 +13,33 @@
                     BEFORE & AFTER
                 </h3>
                 <h2 class="secHeading">
-                    Featured Website Redesigns
+                    <?php echo $secHeading; ?>
                 </h2>
                 <h5>
-                    We reimagine digital experiences for brands of all sizes and across industries.
-                    <br>
-                    Explore our redesign portfolio.
+                    <?php echo $description; ?>
                 </h5>
             </div>
             <div class="col-12">
                 <div class="swiper thumbSlider">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client1.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client2.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client3.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client4.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client5.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client6.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client7.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client8.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client9.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client10.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/client11.webp" alt="">
-                            </figure>
-                        </div>
+                        <?php foreach ($thumbSliderImages as $image): ?>
+                            <div class="swiper-slide">
+                                <figure>
+                                    <img src="<?php echo $image; ?>" alt="">
+                                </figure>
+                            </div>
+                        <?php endforeach; ?>
                     </div>
                 </div>
                 <div class="swiper beforeAfterSlider">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull1.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull2.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull3.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull4.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull5.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull6.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull7.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull8.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull9.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull10.webp" alt="">
-                            </figure>
-                        </div>
-                        <div class="swiper-slide">
-                            <figure>
-                                <img src="/assets/images/cleintfull11.webp" alt="">
-                            </figure>
-                        </div>
+                        <?php foreach ($beforeAfterSliderImages as $image): ?>
+                            <div class="swiper-slide">
+                                <figure>
+                                    <img src="<?php echo $image; ?>" alt="">
+                                </figure>
+                            </div>
+                        <?php endforeach; ?>
                     </div>
                     <div class="swiper-button-next">
                         <img src="/assets/images/righttarrowberf.webp" alt="">
