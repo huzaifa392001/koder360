@@ -19,7 +19,7 @@
                             Thank You
                         </h1>
                         <p class="w-100">
-                            Thank you for reaching out to us through our contact form! We appreciate you taking the time
+                            Thank you for reaching out to us through our contact form! <br> We appreciate you taking the time
                             to get in touch, and we value your input. A member of our team will review your message and
                             respond as soon as possible. Thank you for your interest and we look forward to assisting
                             you!

@@ -17,13 +17,13 @@ switch ($_POST["mode"]) {
             // $ins = insert_leads($_POST,$db);
             // print_r($ins);
             $message = "<html><body>";
-            $message .= "<h1>" . $left_header . "</h1>";
-            $message .= "<p>Name : " . $name . "</p>";
-            $message .= "<p>Email : " . $email . "</p>";
-            $message .= "<p>Cell Phone: " . $country_phone . "</p>";
-            $message .= "<p>Message: " . $msg . "</p>";
-            $message .= "<p>Ip Address : " . $client_ip . "</p>";
-            $message .= "<p>Lead Page: " . $_SERVER["HTTP_REFERER"] . "</p>";
+            $message .= "<h1>" . $left_header . "</h1> \n ";
+            $message .= "<p>Name : " . $name . "</p> \n ";
+            $message .= "<p>Email : " . $email . "</p> \n ";
+            $message .= "<p>Cell Phone: " . $country_phone . "</p> \n ";
+            $message .= "<p>Message: " . $msg . "</p> \n ";
+            $message .= "<p>Ip Address : " . $client_ip . "</p> \n ";
+            $message .= "<p>Lead Page: " . $_SERVER["HTTP_REFERER"] . "</p> \n ";
             $message .= "</body></html>";
         } catch (PDOException $e) {
             echo "There is some problem in connection: " . $e->getMessage();
@@ -41,13 +41,13 @@ switch ($_POST["mode"]) {
             // $ins = insert_leads($_POST,$db);
             // print_r($ins);
             $message = "<html><body>";
-            $message .= "<h1>" . $left_header . "</h1>";
-            $message .= "<p>Name : " . $name . "</p>";
-            $message .= "<p>Email : " . $email . "</p>";
-            $message .= "<p>Cell Phone: " . $country_phone . "</p>";
-            $message .= "<p>Message: " . $msg . "</p>";
-            $message .= "<p>Ip Address : " . $client_ip . "</p>";
-            $message .= "<p>Lead Page: " . $_SERVER["HTTP_REFERER"] . "</p>";
+            $message .= "<h1>" . $left_header . "</h1> \n ";
+            $message .= "<p>Name : " . $name . "</p> \n ";
+            $message .= "<p>Email : " . $email . "</p> \n ";
+            $message .= "<p>Cell Phone: " . $country_phone . "</p> \n ";
+            $message .= "<p>Message: " . $msg . "</p> \n ";
+            $message .= "<p>Ip Address : " . $client_ip . "</p> \n ";
+            $message .= "<p>Lead Page: " . $_SERVER["HTTP_REFERER"] . "</p> \n ";
             $message .= "</body></html>";
         } catch (PDOException $e) {
             echo "There is some problem in connection: " . $e->getMessage();
@@ -56,7 +56,7 @@ switch ($_POST["mode"]) {
         break;
 }
 
-$sadaKhushbuMail = false;
+$sadaKhushbuMail = true;
 
 if ($sadaKhushbuMail) {
     $headers = "MIME-Version: 1.0" . "\r\n";
