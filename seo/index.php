@@ -161,34 +161,34 @@ $mainHeading = 'Let’s work together to build something great';
 include '../Components/cta.php';
 ?>
 <?php
-$secHeading = "Featured Website Redesigns";
-$description = "We reimagine digital experiences for brands of all sizes and across industries. Explore our redesign portfolio.";
-$thumbSliderImages = [
-    '/assets/images/client1.webp',
-    '/assets/images/client3.webp',
-    '/assets/images/client4.webp',
-    '/assets/images/client5.webp',
-    '/assets/images/client6.webp',
-    '/assets/images/client7.webp',
-    '/assets/images/client8.webp',
-    '/assets/images/client9.webp',
-    '/assets/images/client10.webp',
-    '/assets/images/client11.webp',
-];
-$beforeAfterSliderImages = [
-    '/assets/images/cleintFull1.webp',
-    '/assets/images/cleintFull3.webp',
-    '/assets/images/cleintFull4.webp',
-    '/assets/images/cleintFull5.webp',
-    '/assets/images/cleintFull6.webp',
-    '/assets/images/cleintFull7.webp',
-    '/assets/images/cleintFull8.webp',
-    '/assets/images/cleintFull9.webp',
-    '/assets/images/cleintFull10.webp',
-    '/assets/images/cleintFull11.webp',
-];
-include '../Components/featured.php';
-?>
+//$secHeading = "Featured Website Redesigns";
+//$description = "We reimagine digital experiences for brands of all sizes and across industries. Explore our redesign portfolio.";
+//$thumbSliderImages = [
+//    '/assets/images/client1.webp',
+//    '/assets/images/client3.webp',
+//    '/assets/images/client4.webp',
+//    '/assets/images/client5.webp',
+//    '/assets/images/client6.webp',
+//    '/assets/images/client7.webp',
+//    '/assets/images/client8.webp',
+//    '/assets/images/client9.webp',
+//    '/assets/images/client10.webp',
+//    '/assets/images/client11.webp',
+//];
+//$beforeAfterSliderImages = [
+//    '/assets/images/cleintfull1.webp',
+//    '/assets/images/cleintfull3.webp',
+//    '/assets/images/cleintfull4.webp',
+//    '/assets/images/cleintfull5.webp',
+//    '/assets/images/cleintfull6.webp',
+//    '/assets/images/cleintfull7.webp',
+//    '/assets/images/cleintfull8.webp',
+//    '/assets/images/cleintfull9.webp',
+//    '/assets/images/cleintfull10.webp',
+//    '/assets/images/cleintfull11.webp',
+//];
+//include '../Components/featured.php';
+//?>
 <?php
 $secHeading = "Custom SEO Process";
 $description = "Our step-by-step approach to optimizing your website for search engines, driving organic traffic, and improving your online visibility.";

@@ -429,16 +429,16 @@ $thumbSliderImages = [
     '/assets/images/client11.webp',
 ];
 $beforeAfterSliderImages = [
-    '/assets/images/cleintFull1.webp',
-    '/assets/images/cleintFull3.webp',
-    '/assets/images/cleintFull4.webp',
-    '/assets/images/cleintFull5.webp',
-    '/assets/images/cleintFull6.webp',
-    '/assets/images/cleintFull7.webp',
-    '/assets/images/cleintFull8.webp',
-    '/assets/images/cleintFull9.webp',
-    '/assets/images/cleintFull10.webp',
-    '/assets/images/cleintFull11.webp',
+    '/assets/images/cleintfull1.webp',
+    '/assets/images/cleintfull3.webp',
+    '/assets/images/cleintfull4.webp',
+    '/assets/images/cleintfull5.webp',
+    '/assets/images/cleintfull6.webp',
+    '/assets/images/cleintfull7.webp',
+    '/assets/images/cleintfull8.webp',
+    '/assets/images/cleintfull9.webp',
+    '/assets/images/cleintfull10.webp',
+    '/assets/images/cleintfull11.webp',
 ];
 include '../Components/featured.php';
 ?>
