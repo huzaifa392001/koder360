@@ -201,6 +201,8 @@ $thumbSliderImages = [
     '/assets/images/client9.webp',
     '/assets/images/client10.webp',
     '/assets/images/client11.webp',
+    '/assets/images/client12.webp',
+    '/assets/images/client13.webp',
 ];
 $beforeAfterSliderImages = [
     '/assets/images/cleintfull1.webp',
@@ -213,6 +215,8 @@ $beforeAfterSliderImages = [
     '/assets/images/cleintfull9.webp',
     '/assets/images/cleintfull10.webp',
     '/assets/images/cleintfull11.webp',
+    '/assets/images/cleintfull12.webp',
+    '/assets/images/cleintfull13.webp',
 ];
 include './Components/featured.php';
 ?>

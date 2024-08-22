@@ -566,6 +566,33 @@
     .mainPortfolioSec .tab-content a {
         height: 200px;
     }
+
+    .footerSec ul.contact {
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+        margin: 0;
+    }
+
+    .footerSec ul.contact li + li {
+        border-top: 1px solid #fff;
+        border-left: none;
+        padding: 1.5rem 0;
+    }
+
+    .footerSec ul.contact li {
+        flex-direction: row;
+        align-items: center;
+        width: 100%;
+    }
+
+    .footerSec ul.contact li img {
+        flex: 0 1 40px;
+    }
+
+    .footerSec ul.contact li > * {
+        width: -webkit-fill-available;
+    }
 }
 
 @media (max-width: 400px) {
