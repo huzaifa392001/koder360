@@ -1,4 +1,4 @@
-<header>
+<header class="<?php echo isset($headingClass) ? $headingClass : ''; ?>">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-4">

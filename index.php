@@ -294,6 +294,65 @@ $processSteps = [
 ];
 include './Components/process.php';
 ?>
+    <section class="blogsSec">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="secHeading">
+                        Blogs
+                    </h2>
+                </div>
+                <div class="col-md-4">
+                    <a href="/blogs/demo-blog.php" class="blogCard">
+                        <figure>
+                            <img src="/assets/images/blog1.jpg" alt="">
+                        </figure>
+                        <div class="content">
+                            <h3>
+                                Lorem Ipsum
+                            </h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
+                                libero neque odit qui quidem repudiandae sint, unde.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="/blogs/demo-blog.php" class="blogCard">
+                        <figure>
+                            <img src="/assets/images/blog2.jpg" alt="">
+                        </figure>
+                        <div class="content">
+                            <h3>
+                                Lorem Ipsum
+                            </h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
+                                libero neque odit qui quidem repudiandae sint, unde.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a href="/blogs/demo-blog.php" class="blogCard">
+                        <figure>
+                            <img src="/assets/images/blog1.jpg" alt="">
+                        </figure>
+                        <div class="content">
+                            <h3>
+                                Lorem Ipsum
+                            </h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
+                                libero neque odit qui quidem repudiandae sint, unde.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
 <?php
 $subHeading = 'WORK WITH US';
 $mainHeading = 'Let’s work together to build something great';

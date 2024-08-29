@@ -31,6 +31,7 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
         'video-animation' => 'Video Animation - ' . $SITE_NAME_TEXT,
         'website-design' => 'Website Design - ' . $SITE_NAME_TEXT,
         'web-portal' => 'Website Portal - ' . $SITE_NAME_TEXT,
+        'blogs' => 'Blogs - ' . $SITE_NAME_TEXT,
         'thank-you' => 'Thank You - ' . $SITE_NAME_TEXT,
     ];
 
@@ -57,6 +58,7 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
         'video-animation' => 'Video Animation',
         'website-design' => 'Website Design',
         'web-portal' => 'Website Portal',
+        'blogs' => 'Blogs',
         'thank-you' => 'Thank You'
     ];
 
@@ -131,6 +133,12 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
             <a href="/portfolio/" data-img="portfolio">
                 <span>02</span>
                 Portfolio
+            </a>
+        </div>
+        <div class="icon">
+            <a href="/blogs/" data-img="portfolio">
+                <span>03</span>
+                Blog
             </a>
         </div>
         <div class="icon">
