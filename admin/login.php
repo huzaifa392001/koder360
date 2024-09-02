@@ -1,6 +1,6 @@
 <?php
 session_start();
-include_once '../db_config.php';
+include_once 'db_config.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = $_POST['email'];
@@ -30,9 +30,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
-    <link rel="stylesheet" href="/assets/css/app.css">
-    <link rel="stylesheet" href="/assets/css/custom.min.css">
-    <link rel="stylesheet" href="/assets/css/responsive.css">
+    <link rel="stylesheet" href="/admin/assets/css/plugins.css">
+    <link rel="stylesheet" href="/admin/assets/css/styles.css">
 </head>
 <body>
 <section class="loginSec">
@@ -42,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <div class="blogCard py-5">
                     <form action="login.php" method="post">
                         <div class="form-group">
-                            <input type="email" class="form-control" name="email" placeholder="Email" required value="admin@phantom777club.com">
+                            <input type="email" class="form-control" name="email" placeholder="Email" required value="admin@koder360.com">
                         </div>
                         <div class="form-group mt-2">
                             <input type="password" class="form-control" name="password" placeholder="Password" required>
