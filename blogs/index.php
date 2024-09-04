@@ -32,56 +32,53 @@
     <section class="blogsSec">
         <div class="container">
             <div class="row">
-                
-                
-                
-                
-        <?php
-            // Database connection settings
-            $servername = "localhost"; // Change to your database server
-            $username = "koder360_koder360"; // Change to your database username
-            $password = "o=Q-~m_A^r;y"; // Change to your database password
-            $dbname = "koder360_koder360"; // Change to your database name
 
-            // Create connection
-            $conn = new mysqli($servername, $username, $password, $dbname);
+                <?php
 
-            // Check connection
-            if ($conn->connect_error) {
-                die("Connection failed: " . $conn->connect_error);
-            }
+                $servername = "localhost"; // Change to your database server
+                $username = "koder360_koder360"; // Change to your database username
+                $password = "o=Q-~m_A^r;y"; // Change to your database password
+                $dbname = "koder360_koder360"; // Change to your database name
 
-            // Fetch blog posts
-            $sql = "SELECT id, title, heading, slug, image, content FROM blogs";
-            $result = $conn->query($sql);
+                // Create connection
+                $conn = new mysqli($servername, $username, $password, $dbname);
 
-            if ($result->num_rows > 0) {
-                // Output data of each row
-                while($row = $result->fetch_assoc()) {
-                    echo '<div class="col-md-4">';
-                    echo '    <div class="blogCard">';
-                    echo '        <a href="blogDetail.php?id=' . htmlspecialchars($row['id']) . '">';
-                    echo '            <figure>';
-                    echo '                <img src="../admin/uploads/' . htmlspecialchars($row['image']) . '" alt="' . htmlspecialchars($row['heading']) . '">';
-                    echo '            </figure>';
-                    echo '        </a>';
-                    echo '        <div class="content">';
-                    echo '            <h2>' . htmlspecialchars($row['heading']) . '</h2>';
-                    echo '            <p>' . substr($row['content'], 0, 200);  '...</p>'; // Show a snippet of the content
-                    echo '            <a href="blogDetail.php?id=' . htmlspecialchars($row['id']) . '" class="lineBtn">Read More</a>';
-                    echo '        </div>';
-                    echo '    </div>';
-                    echo '</div>';
+                // Check connection
+                if ($conn->connect_error) {
+                    die("Connection failed: " . $conn->connect_error);
                 }
-            } else {
-                echo '<div class="col-12"><p>No blog posts found.</p></div>';
-            }
 
-            // Close connection
-            $conn->close();
-            ?>
-                
- 
+                // Fetch blog posts
+                $sql = "SELECT id, title, heading, slug, image, content FROM blogs order by id desc";
+                $result = $conn->query($sql);
+
+                if ($result->num_rows > 0) {
+                    // Output data of each row
+                    while ($row = $result->fetch_assoc()) {
+                        echo '<div class="col-md-4">';
+                        echo '    <div class="blogCard">';
+                        echo '        <a href="blogDetail.php?id=' . htmlspecialchars($row['id']) . '">';
+                        echo '            <figure>';
+                        echo '                <img src="../admin/uploads/' . htmlspecialchars($row['image']) . '" alt="' . htmlspecialchars($row['heading']) . '">';
+                        echo '            </figure>';
+                        echo '        </a>';
+                        echo '        <div class="content">';
+                        echo '            <h2>' . htmlspecialchars($row['heading']) . '</h2>';
+                        echo '            <p>' . substr($row['content'], 0, 200) . '</p>';
+                        echo '            <a class="themeBtn" href="blogDetail.php?id=' . htmlspecialchars($row['id']) . '" >Read More <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b></a>';
+                        echo '        </div>';
+                        echo '    </div>';
+                        echo '</div>';
+                    }
+                } else {
+                    echo '<div class="col-12"><p>No blog posts found.</p></div>';
+                }
+
+                // Close connection
+                $conn->close();
+                ?>
+
+
             </div>
         </div>
     </section>

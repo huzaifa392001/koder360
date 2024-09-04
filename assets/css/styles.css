@@ -1543,6 +1543,7 @@ ul.portfoliowrapper li a figure img {
 
 .blogCard .content p {
     font-size: 14px;
+    margin: 0 0 1rem;
 }
 
 .blogCard:hover figure img {
@@ -1557,4 +1558,55 @@ header.black {
     position: static;
     background: var(--black);
     padding: 1rem 4rem;
+}
+
+.blogCard .content h2 {
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.singleBlogSec {
+    padding: 1rem 0 4rem;
+}
+
+.singleBlogSec .blogImg {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.singleBlogSec .blogImg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.blogDetailCard {
+    padding: 3rem 0 0;
+}
+
+.blogDetailCard h2 {
+    font-size: 3rem;
+    margin: 0 0 3rem;
+}
+
+.blogDetailCard h4 {
+    font-size: 1.5rem;
+}
+
+.blogDetailCard h4 + * {
+    margin: 0.5rem 0 0;
+}
+
+.blogDetailCard p + *, .blogDetailCard ol + *, .blogDetailCard ul + * {
+    margin: 1.5rem 0 0;
+}
+
+.blogDetailCard p + p, .blogDetailCard li + li {
+    margin: 1rem 0 0;
+}
+
+.blogDetailCard ul p + p, .blogDetailCard ol p + p {
+    margin: 0;
 }
