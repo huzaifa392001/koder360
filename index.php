@@ -202,18 +202,66 @@ $thumbSliderImages = [
     '/assets/images/client13.webp',
 ];
 $beforeAfterSliderImages = [
-    '/assets/images/cleintfull1.webp',
-    '/assets/images/cleintfull3.webp',
-    '/assets/images/cleintfull4.webp',
-    '/assets/images/cleintfull5.webp',
-    '/assets/images/cleintfull6.webp',
-    '/assets/images/cleintfull7.webp',
-    '/assets/images/cleintfull8.webp',
-    '/assets/images/cleintfull9.webp',
-    '/assets/images/cleintfull10.webp',
-    '/assets/images/cleintfull11.webp',
-    '/assets/images/cleintfull12.webp',
-    '/assets/images/cleintfull13.webp',
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull1.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull3.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull4.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull5.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull6.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull7.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull8.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull9.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull10.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull11.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull12.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull13.webp',
+    ],
 ];
 include './Components/featured.php';
 ?>
@@ -299,57 +347,65 @@ include './Components/process.php';
                         Blogs
                     </h2>
                 </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog2.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
+                <?php
+                $servername = "localhost"; // Change to your database server
+                $username = "koder360_koder360"; // Change to your database username
+                $password = "o=Q-~m_A^r;y"; // Change to your database password
+                $dbname = "koder360_koder360"; // Change to your database name
+
+                // Create connection
+                $conn = new mysqli($servername, $username, $password, $dbname);
+
+                // Check connection
+                if ($conn->connect_error) {
+                    die("Connection failed: " . $conn->connect_error);
+                }
+
+                // Fetch only 3 blog posts
+                $sql = "SELECT id, title, heading, slug, image, content FROM blogs ORDER BY id DESC LIMIT 3";
+                $result = $conn->query($sql);
+
+                if ($result->num_rows > 0) {
+                    // Output data of each row
+                    while ($row = $result->fetch_assoc()) {
+                        echo '<div class="col-md-4">';
+                        echo '    <div class="blogCard">';
+                        echo '        <a href="/blogs/blogDetail.php?id=' . htmlspecialchars($row['id']) . '">';
+                        echo '            <figure>';
+                        echo '                <img src="../admin/uploads/' . htmlspecialchars($row['image']) . '" alt="' . htmlspecialchars($row['heading']) . '">';
+                        echo '            </figure>';
+                        echo '        </a>';
+                        echo '        <div class="content">';
+                        echo '            <h2>' . htmlspecialchars($row['heading']) . '</h2>';
+                        echo '            <a class="themeBtn" href="/blogs/blogDetail.php?id=' . htmlspecialchars($row['id']) . '" >Read More <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b></a>';
+                        echo '        </div>';
+                        echo '    </div>';
+                        echo '</div>';
+                    }
+                } else {
+                    echo '<div class="col-12"><p>No blog posts found.</p></div>';
+                }
+
+                // Close connection
+                $conn->close();
+                ?>
+            </div>
+            <div class='col-12 mt-5 d-flex justify-content-center'>
+                <a class="themeBtn" href="/blogs/">
+                    View All
+                    <span></span><span></span><span></span><span></span>
+                    <b class="blinking-dot"></b>
+                </a>
             </div>
         </div>
     </section>
+
+<?php
+$subHeading = 'WORK WITH US';
+$mainHeading = 'Let’s work together to build something great';
+include './Components/cta.php';
+?>
+<?php include './Components/testimonials.php' ?>
 <?php
 $subHeading = 'WORK WITH US';
 $mainHeading = 'Let’s work together to build something great';

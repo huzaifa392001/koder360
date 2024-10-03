@@ -171,21 +171,71 @@ $thumbSliderImages = [
     '/assets/images/client8.webp',
     '/assets/images/client9.webp',
     '/assets/images/client10.webp',
+    '/assets/images/client11.webp',
     '/assets/images/client12.webp',
     '/assets/images/client13.webp',
 ];
 $beforeAfterSliderImages = [
-    '/assets/images/mobile/mobile1.png',
-    '/assets/images/mobile/mobile3.png',
-    '/assets/images/mobile/mobile4.png',
-    '/assets/images/mobile/mobile5.png',
-    '/assets/images/mobile/mobile6.png',
-    '/assets/images/mobile/mobile7.png',
-    '/assets/images/mobile/mobile8.png',
-    '/assets/images/mobile/mobile9.png',
-    '/assets/images/mobile/mobile10.png',
-    '/assets/images/mobile/mobile12.png',
-    '/assets/images/mobile/mobile13.png',
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/mobile/mobile1.png',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/mobile/mobile3.png',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/mobile/mobile4.png',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/mobile/mobile5.png',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/mobile/mobile6.png',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/mobile/mobile7.png',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/mobile/mobile8.png',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/mobile/mobile9.png',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/mobile/mobile10pngwebp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/mobile/mobile11pngwebp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/mobile/mobile12pngwebp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/mobile/mobile13pngwebp',
+    ],
 ];
 include '../Components/featured.php';
 ?>
