@@ -41,54 +41,31 @@
                     </form>
                 </div>
             </div>
-            <div class="divider"></div>
         </div>
     </div>
     <div class="footerSec">
         <div class="container-md">
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-12">
                     <div class="footerLogo">
                         <img src="/assets/images/white-logo.webp" alt=""/>
+                        <div class="socialList">
+                            <a href="" target="_blank">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a href="" target="_blank">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                            <a href="" target="_blank">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                            <a href="" target="_blank">
+                                <i class="fab fa-linkedin-in"></i>
+                            </a>
+                        </div>
                     </div>
-                    <h4>Contact Us</h4>
-                    <ul class="contact">
-                        <li>
-                            <img src="/assets/images/canada.webp" alt=""/>
-                            <a href="javascript:;">
-                                <i class="fas fa-map-pin"></i>
-                                <?php echo $ADDRESS ?>
-                            </a>
-                            <a href="tel:<?php echo $PHONE_NUMBER_TEL ?>">
-                                <i class="fas fa-phone"></i>
-                                <?php echo $PHONE_NUMBER ?>
-                            </a>
-                        </li>
-                        <li>
-                            <img src="/assets/images/pakistan.svg" alt=""/>
-                            <a href="javascript:;">
-                                <i class="fas fa-map-pin"></i>
-                                <?php echo $ADDRESS_PK ?>
-                            </a>
-                            <a href="tel:<?php echo $PHONE_NUMBER_PK_TEL ?>">
-                                <i class="fas fa-phone"></i>
-                                <?php echo $PHONE_NUMBER_PK ?>
-                            </a>
-                        </li>
-                        <li>
-                            <img src="/assets/images/usa.webp" alt=""/>
-                            <a href="javascript:;">
-                                <i class="fas fa-map-pin"></i>
-                                <?php echo $ADDRESS_USA ?>
-                            </a>
-                            <a href="tel:<?php echo $PHONE_NUMBER_USA_TEL ?>">
-                                <i class="fas fa-phone"></i>
-                                <?php echo $PHONE_NUMBER_USA ?>
-                            </a>
-                        </li>
-                    </ul>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-12">
                     <h4>Services</h4>
                     <ul>
                         <li>
@@ -143,6 +120,44 @@
                             <a href="">
                                 <i class="fas fa-caret-right"></i>
                                 Social Media
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-12">
+                    <h4>Contact Us</h4>
+                    <ul class="contact">
+                        <li>
+                            <img src="/assets/images/canada.webp" alt=""/>
+                            <a href="javascript:;">
+                                <i class="fas fa-map-pin"></i>
+                                <?php echo $ADDRESS ?>
+                            </a>
+                            <a href="tel:<?php echo $PHONE_NUMBER_TEL ?>">
+                                <i class="fas fa-phone"></i>
+                                <?php echo $PHONE_NUMBER ?>
+                            </a>
+                        </li>
+                        <li>
+                            <img src="/assets/images/pakistan.svg" alt=""/>
+                            <a href="javascript:;">
+                                <i class="fas fa-map-pin"></i>
+                                <?php echo $ADDRESS_PK ?>
+                            </a>
+                            <a href="tel:<?php echo $PHONE_NUMBER_PK_TEL ?>">
+                                <i class="fas fa-phone"></i>
+                                <?php echo $PHONE_NUMBER_PK ?>
+                            </a>
+                        </li>
+                        <li>
+                            <img src="/assets/images/usa.webp" alt=""/>
+                            <a href="javascript:;">
+                                <i class="fas fa-map-pin"></i>
+                                <?php echo $ADDRESS_USA ?>
+                            </a>
+                            <a href="tel:<?php echo $PHONE_NUMBER_USA_TEL ?>">
+                                <i class="fas fa-phone"></i>
+                                <?php echo $PHONE_NUMBER_USA ?>
                             </a>
                         </li>
                     </ul>

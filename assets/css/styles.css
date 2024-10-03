@@ -772,8 +772,9 @@ canvas {
 }
 
 .awardsSec .bigLine {
-    top: 0;
+    top: -100px;
     transform: none;
+    margin: 0;
 }
 
 .awardsSlider {
@@ -1059,19 +1060,17 @@ canvas {
 }
 
 footer {
-    background: var(--black);
-    padding: 4rem 0;
     position: relative;
     overflow: hidden;
 }
 
 .inputCont {
-    border: 1px solid var(--white);
+    border: 1px solid var(--black);
 }
 
 .inputCont input,
 .inputCont textarea {
-    color: var(--white);
+    color: var(--black);
     width: 100%;
     min-height: 50px;
     border: none;
@@ -1091,15 +1090,17 @@ footer {
 
 .contentSec h4 {
     font-size: 2rem;
-    color: var(--white);
+    color: var(--theme-color);
     margin-bottom: 0;
     font-family: 'Otterco Regular', serif;
+    font-weight: 700;
 }
 
 .contentSec h2 {
     font-size: 4.5rem;
-    color: var(--white);
+    color: var(--black);
     margin: 0;
+    font-family: 'Otterco Regular', sans-serif;
 }
 
 .divider {
@@ -1124,8 +1125,10 @@ footer .bgImg {
 
 .footerSec .footerLogo {
     display: flex;
-    flex-direction: column;
     justify-content: space-between;
+    border-bottom: 2px solid var(--white);
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
 }
 
 .footerSec .footerLogo img {
@@ -1153,10 +1156,11 @@ footer .bgImg {
 }
 
 .footerSec ul.contact {
-    height: auto;
+    max-height: auto;
     flex-wrap: nowrap;
     align-items: start;
     margin: 0 -1.5rem;
+    display: flex;
 }
 
 .footerSec ul.contact li {
@@ -1180,13 +1184,14 @@ footer .bgImg {
 }
 
 .footerSec ul {
-    display: flex;
+    /* display: flex; */
     flex-wrap: wrap;
-    height: 200px;
+    max-height: 300px;
+    columns: 5;
 }
 
 .footerSec ul li {
-    width: 50%;
+    width: 100%;
 }
 
 .footerSec ul li a:hover {
@@ -1382,7 +1387,7 @@ ul.portfoliowrapper li a figure img {
 
 .beforeAfterSlider .swiper-slide img {
     width: 100%;
-    height: 650px;
+    height: 450px;
     object-fit: contain;
 }
 
@@ -1609,4 +1614,24 @@ header.black {
 
 .blogDetailCard ul p + p, .blogDetailCard ol p + p {
     margin: 0;
+}
+
+.footerSec {
+    background: var(--black);
+    padding: 4rem 0 2rem;
+    margin: 3rem 0 0;
+}
+
+.footerLogo .socialList {
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 0 auto;
+}
+
+p + .themeBtn, ul + .themeBtn {
+    margin-top: 1rem;
+}
+
+.featuredSec .content h3 {
+    font-size: 3.688rem;
 }

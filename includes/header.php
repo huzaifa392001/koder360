@@ -17,7 +17,7 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
           onload="this.onload=null;this.rel='stylesheet'">
     <link rel="stylesheet" href="/assets/css/styles.css" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="stylesheet" href="/assets/css/responsive.css" onload="this.onload=null;this.rel='stylesheet'">
-
+    <meta name='robots' content='noindex'>
     <?php
     // Define the titles for different pages
     $pageTitles = [

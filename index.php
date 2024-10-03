@@ -205,18 +205,66 @@ $thumbSliderImages = [
     '/assets/images/client13.webp',
 ];
 $beforeAfterSliderImages = [
-    '/assets/images/cleintfull1.webp',
-    '/assets/images/cleintfull3.webp',
-    '/assets/images/cleintfull4.webp',
-    '/assets/images/cleintfull5.webp',
-    '/assets/images/cleintfull6.webp',
-    '/assets/images/cleintfull7.webp',
-    '/assets/images/cleintfull8.webp',
-    '/assets/images/cleintfull9.webp',
-    '/assets/images/cleintfull10.webp',
-    '/assets/images/cleintfull11.webp',
-    '/assets/images/cleintfull12.webp',
-    '/assets/images/cleintfull13.webp',
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull1.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull3.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull4.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull5.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull6.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull7.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull8.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull9.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull10.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull11.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull12.webp',
+    ],
+    [
+        "title" => 'Lorem Ipsum',
+        "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
+        "image" => '/assets/images/cleintfull13.webp',
+    ],
 ];
 include './Components/featured.php';
 ?>
@@ -305,9 +353,9 @@ include './Components/process.php';
                 <?php
 
                 $servername = "localhost"; // Change to your database server
-                $username = "koder360_koder360"; // Change to your database username
-                $password = "o=Q-~m_A^r;y"; // Change to your database password
-                $dbname = "koder360_koder360"; // Change to your database name
+                $username = "root"; // Change to your database username
+                $password = ""; // Change to your database password
+                $dbname = "koder360"; // Change to your database name
 
                 // Create connection
                 $conn = new mysqli($servername, $username, $password, $dbname);
