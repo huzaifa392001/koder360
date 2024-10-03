@@ -57,14 +57,15 @@
                     while ($row = $result->fetch_assoc()) {
                         echo '<div class="col-md-4">';
                         echo '    <div class="blogCard">';
-                        echo '        <a href="/blogs/blogDetail.php?id=' . htmlspecialchars($row['id']) . '">';
+                        echo '        <a href="blogDetail.php?id=' . htmlspecialchars($row['id']) . '">';
                         echo '            <figure>';
                         echo '                <img src="../admin/uploads/' . htmlspecialchars($row['image']) . '" alt="' . htmlspecialchars($row['heading']) . '">';
                         echo '            </figure>';
                         echo '        </a>';
                         echo '        <div class="content">';
                         echo '            <h2>' . htmlspecialchars($row['heading']) . '</h2>';
-                        echo '            <a class="themeBtn" href="/blogs/blogDetail.php?id=' . htmlspecialchars($row['id']) . '" >Read More <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b></a>';
+                        echo '            <p>' . substr($row['content'], 0, 200) . '</p>';
+                        echo '            <a class="themeBtn" href="blogDetail.php?id=' . htmlspecialchars($row['id']) . '" >Read More <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b></a>';
                         echo '        </div>';
                         echo '    </div>';
                         echo '</div>';
