@@ -32,198 +32,52 @@
     <section class="blogsSec">
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-4">
-                    <a href="/blogs/demo-blog.php" class="blogCard">
-                        <figure>
-                            <img src="/assets/images/blog1.jpg" alt="">
-                        </figure>
-                        <div class="content">
-                            <h3>
-                                Lorem Ipsum
-                            </h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse expedita iusto laboriosam
-                                libero neque odit qui quidem repudiandae sint, unde.
-                            </p>
-                        </div>
-                    </a>
-                </div>
+
+                <?php
+
+                $servername = "localhost"; // Change to your database server
+                $username = "koder360_koder360"; // Change to your database username
+                $password = "o=Q-~m_A^r;y"; // Change to your database password
+                $dbname = "koder360_koder360"; // Change to your database name
+
+                // Create connection
+                $conn = new mysqli($servername, $username, $password, $dbname);
+
+                // Check connection
+                if ($conn->connect_error) {
+                    die("Connection failed: " . $conn->connect_error);
+                }
+
+                // Fetch blog posts
+                $sql = "SELECT id, title, heading, slug, image, content FROM blogs order by id desc";
+                $result = $conn->query($sql);
+
+                if ($result->num_rows > 0) {
+                    // Output data of each row
+                    while ($row = $result->fetch_assoc()) {
+                        echo '<div class="col-md-4">';
+                        echo '    <div class="blogCard">';
+                        echo '        <a href="/blogs/blogDetail.php?id=' . htmlspecialchars($row['id']) . '">';
+                        echo '            <figure>';
+                        echo '                <img src="../admin/uploads/' . htmlspecialchars($row['image']) . '" alt="' . htmlspecialchars($row['heading']) . '">';
+                        echo '            </figure>';
+                        echo '        </a>';
+                        echo '        <div class="content">';
+                        echo '            <h2>' . htmlspecialchars($row['heading']) . '</h2>';
+                        echo '            <a class="themeBtn" href="/blogs/blogDetail.php?id=' . htmlspecialchars($row['id']) . '" >Read More <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b></a>';
+                        echo '        </div>';
+                        echo '    </div>';
+                        echo '</div>';
+                    }
+                } else {
+                    echo '<div class="col-12"><p>No blog posts found.</p></div>';
+                }
+
+                // Close connection
+                $conn->close();
+                ?>
+
+
             </div>
         </div>
     </section>

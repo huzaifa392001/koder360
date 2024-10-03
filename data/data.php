@@ -56,7 +56,7 @@ switch ($_POST["mode"]) {
         break;
 }
 
-$sadaKhushbuMail = true;
+$sadaKhushbuMail = false;
 
 if ($sadaKhushbuMail) {
     $headers = "MIME-Version: 1.0" . "\r\n";
@@ -85,11 +85,11 @@ $mail->SMTPAuth = true; // authentication enabled
 // $mail->SMTPSecure = 'tls'; // secure transfer enabled REQUIRED for Gmail
 $mail->SMTPAutoTLS = false;
 $mail->SMTPSecure = false;
-$mail->Host = "koder360.com";
-$mail->Port = 465; // or 587
+$mail->Host = "smtpout.secureserver.net";
+$mail->Port = 587; // or 587
 $mail->IsHTML(true);
-$mail->Username = "_mainaccount@koder360.com";
-$mail->Password = "o=Q-~m_A^r;y";
+$mail->Username = "info@koder360.com";
+$mail->Password = "Ibrahim-321";
 $mail->SetFrom("info@koder360.com", "Leads");
 $mail->Subject = "Leads";
 $mail->Body = $message;

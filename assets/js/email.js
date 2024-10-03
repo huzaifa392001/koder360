@@ -66,7 +66,7 @@ $(document).ready(function () {
                 if (result.status == 1) {
                     alertify.success('Message Sent Successfully!')
                     setTimeout(function () {
-                        location.href = '/thank-you/'
+                        // location.href = '/thank-you/'
                     }, 2000)
                 }
             }
@@ -127,7 +127,7 @@ $(document).ready(function () {
                 if (result.status == 1) {
                     alertify.success('Message Sent Successfully!')
                     setTimeout(function () {
-                        location.href = '/thank-you/'
+                        // location.href = '/thank-you/'
                     }, 2000)
                 }
             }

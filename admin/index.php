@@ -1,33 +1,25 @@
 <?php 
 include 'authenticate.php'; 
 include './include/header.php'; 
+include 'connect.php'; 
 
-$servername = "localhost"; // Change to your database server
-$username = "u986322413_phantom"; // Change to your database username
-$password = "U986322413_admin"; // Change to your database password
-$dbname = "u986322413_phantom"; // Change to your database name
 
-// Create connection
-$conn = new mysqli($servername, $username, $password, $dbname);
-
-// Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
 
 // Fetch blogs from the database
 $sql = "SELECT * FROM blogs";
 $result = $conn->query($sql);
 ?>
 
-<section class="blogListSec">
+<section class="inner-banner">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <div class="headingCont">
                     <h2 class="secHeading">Blogs</h2>
                     <div class="btnCont">
-                        <a href="./addBlog.php" class="themeBtn holo">Add Blog</a>
+                        <a class="themeBtn" href="/admin/addBlog.php">
+                            Add Blogs
+                            <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b></a>
                     </div>
                 </div>
             </div>
@@ -40,7 +32,7 @@ $result = $conn->query($sql);
         <div class="row">
             <div class="col-12">
                 <div class="table-responsive">
-                    <table class="table table-bordered">
+                    <table class="table table-bordered table-striped">
                         <thead>
                         <tr>
                             <th>Image</th>
@@ -71,10 +63,15 @@ $result = $conn->query($sql);
                                     </td>
                                     <td>
                                         <div class="btnCont">
-                                            <a href="<?php echo $editLink; ?>" class="btn btn-outline-warning">Edit</a>
+                                            <a class="themeBtn" href="<?php echo $editLink; ?>">
+                                                Edit
+                                                <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b></a>
                                             <form action="deleteBlog.php" method="post" style="display:inline;">
                                                 <input type="hidden" name="id" value="<?php echo $row['id']; ?>">
-                                                <!--<button type="submit" class="btn btn-danger">Delete</button>-->
+                                                <button type="submit" class="themeBtn dltBtn">
+                                                    Delete
+                                                    <span></span><span></span><span></span><span></span>
+                                                </button>
                                             </form>
                                         </div>
                                     </td>

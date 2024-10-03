@@ -551,7 +551,7 @@ canvas {
     top: 30%;
     transform: translateY(-30%);
     color: var(--secondary-color);
-    font-size: 11.938rem;
+    font-size: 11rem;
     opacity: 0.2;
     text-transform: capitalize;
     left: 0;
@@ -772,7 +772,7 @@ canvas {
 }
 
 .awardsSec .bigLine {
-    top: 0;
+    top: -80px;
     transform: none;
 }
 
@@ -1059,19 +1059,17 @@ canvas {
 }
 
 footer {
-    background: var(--black);
-    padding: 4rem 0;
     position: relative;
     overflow: hidden;
 }
 
 .inputCont {
-    border: 1px solid var(--white);
+    border: 1px solid var(--black);
 }
 
 .inputCont input,
 .inputCont textarea {
-    color: var(--white);
+    color: var(--black);
     width: 100%;
     min-height: 50px;
     border: none;
@@ -1082,7 +1080,7 @@ footer {
 
 .inputCont input::placeholder,
 .inputCont textarea::placeholder {
-    color: var(--white);
+    color: var(--black);
 }
 
 .contactForm .row {
@@ -1091,15 +1089,16 @@ footer {
 
 .contentSec h4 {
     font-size: 2rem;
-    color: var(--white);
+    color: var(--theme-color);
     margin-bottom: 0;
-    font-family: 'Otterco Regular', serif;
+    font-family: 'Otterco bold', serif;
 }
 
 .contentSec h2 {
     font-size: 4.5rem;
-    color: var(--white);
+    color: var(--black);
     margin: 0;
+    font-family: 'Otterco Regular', sans-serif;
 }
 
 .divider {
@@ -1124,8 +1123,10 @@ footer .bgImg {
 
 .footerSec .footerLogo {
     display: flex;
-    flex-direction: column;
+    align-items: center;
     justify-content: space-between;
+    padding: 0 0 1rem;
+    border-bottom: 2px solid var(--white);
 }
 
 .footerSec .footerLogo img {
@@ -1157,6 +1158,7 @@ footer .bgImg {
     flex-wrap: nowrap;
     align-items: start;
     margin: 0 -1.5rem;
+    display: flex;
 }
 
 .footerSec ul.contact li {
@@ -1180,13 +1182,12 @@ footer .bgImg {
 }
 
 .footerSec ul {
-    display: flex;
-    flex-wrap: wrap;
-    height: 200px;
+    max-height: 200px;
+    columns: 5;
 }
 
 .footerSec ul li {
-    width: 50%;
+    width: 100%;
 }
 
 .footerSec ul li a:hover {
@@ -1382,7 +1383,7 @@ ul.portfoliowrapper li a figure img {
 
 .beforeAfterSlider .swiper-slide img {
     width: 100%;
-    height: 650px;
+    height: 450px;
     object-fit: contain;
 }
 
@@ -1543,6 +1544,7 @@ ul.portfoliowrapper li a figure img {
 
 .blogCard .content p {
     font-size: 14px;
+    margin: 0 0 1rem;
 }
 
 .blogCard:hover figure img {
@@ -1557,4 +1559,84 @@ header.black {
     position: static;
     background: var(--black);
     padding: 1rem 4rem;
+}
+
+.blogCard .content h2 {
+    font-size: 1.5rem;
+    margin: 0 0 1rem;
+}
+
+.singleBlogSec {
+    padding: 1rem 0 4rem;
+}
+
+.singleBlogSec .blogImg {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.singleBlogSec .blogImg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.blogDetailCard {
+    padding: 3rem 0 0;
+}
+
+.blogDetailCard h2 {
+    font-size: 3rem;
+    margin: 0 0 3rem;
+}
+
+.blogDetailCard h4 {
+    font-size: 1.5rem;
+}
+
+.blogDetailCard h4 + * {
+    margin: 0.5rem 0 0;
+}
+
+.blogDetailCard p + *, .blogDetailCard ol + *, .blogDetailCard ul + * {
+    margin: 1.5rem 0 0;
+}
+
+.blogDetailCard p + p, .blogDetailCard li + li {
+    margin: 1rem 0 0;
+}
+
+.blogDetailCard ul p + p, .blogDetailCard ol p + p {
+    margin: 0;
+}
+
+.featuredSec .content h3 {
+    font-size: 3.688rem;
+    font-weight: 700;
+    color: var(--black);
+    margin: 0;
+}
+
+p + .themeBtn, ul + .themeBtn {
+    margin: 1rem 0 0;
+}
+
+.footerSec {
+    background: var(--black);
+    padding: 4rem 0 2rem;
+}
+
+.footerLogo .socialList {
+    flex-direction: row;
+    margin: 0 0 0 auto;
+}
+
+.footerSec .row {
+    gap: 2rem;
+}
+
+.contentSec {
+    padding: 4rem 0;
 }

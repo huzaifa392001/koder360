@@ -1,18 +1,10 @@
 <?php
-include 'authenticate.php'; 
-include './include/header.php'; 
+include 'authenticate.php';
+include './include/header.php';
+include 'connect.php';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-    $servername = "localhost"; // Change to your database server
-    $username = "u986322413_phantom"; // Change to your database username
-    $password = "U986322413_admin"; // Change to your database password
-    $dbname = "u986322413_phantom"; // Change to your database name
 
-    $conn = new mysqli($servername, $username, $password, $dbname);
-
-    if ($conn->connect_error) {
-        die("Connection failed: " . $conn->connect_error);
-    }
 
     $id = intval($_POST['id']);
     $title = mysqli_real_escape_string($conn, $_POST['title']);
@@ -20,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $slug = mysqli_real_escape_string($conn, $_POST['slug']);
     $meta_tags = mysqli_real_escape_string($conn, $_POST['meta_tags']);
     $content = mysqli_real_escape_string($conn, $_POST['content']);
-    
+
     $target_dir = "uploads/";
     $image = $_FILES['cuctomeimage']['name'];
     $target_file = $target_dir . basename($image);
@@ -88,16 +80,7 @@ $blogId = isset($_GET['id']) ? intval($_GET['id']) : 0;
 $blog = null;
 
 if ($blogId > 0) {
-    $servername = "localhost"; // Change to your database server
-    $username = "u986322413_phantom"; // Change to your database username
-    $password = "U986322413_admin"; // Change to your database password
-    $dbname = "u986322413_phantom"; // Change to your database name
 
-    $conn = new mysqli($servername, $username, $password, $dbname);
-
-    if ($conn->connect_error) {
-        die("Connection failed: " . $conn->connect_error);
-    }
 
     $sql = "SELECT * FROM blogs WHERE id = ?";
     $stmt = $conn->prepare($sql);
@@ -112,12 +95,12 @@ if ($blogId > 0) {
 
 <link rel="stylesheet" href="/assets/css/editor.css">
 
-<section class="blogListSec">
+<section class="inner-banner">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <div class="headingCont">
-                    <h2 class="secHeading">Edit Blog</h2>
+                    <h2 class="secHeading">Add Blogs</h2>
                 </div>
             </div>
         </div>
@@ -143,7 +126,8 @@ if ($blogId > 0) {
                                                     <div class="input-group">
                                                         <input type="text" name="title" class="form-control"
                                                                placeholder="Enter Meta title" id="title"
-                                                               value="<?php echo htmlspecialchars($blog['title']); ?>" required>
+                                                               value="<?php echo htmlspecialchars($blog['title']); ?>"
+                                                               required>
                                                     </div>
                                                 </div>
                                             </div>
@@ -155,7 +139,8 @@ if ($blogId > 0) {
                                                     <div class="input-group">
                                                         <input type="text" name="heading" class="form-control"
                                                                placeholder="Enter heading" id="heading"
-                                                               value="<?php echo htmlspecialchars($blog['heading']); ?>" required>
+                                                               value="<?php echo htmlspecialchars($blog['heading']); ?>"
+                                                               required>
                                                     </div>
                                                 </div>
                                             </div>
@@ -197,20 +182,24 @@ if ($blogId > 0) {
                                                 <h5 class="my-2">Current Image</h5>
                                                 <div class="form-group">
                                                     <?php if ($blog['image']): ?>
-                                                        <img src="uploads/<?php echo htmlspecialchars($blog['image']); ?>" alt="Current Image" width="150">
+                                                        <img src="uploads/<?php echo htmlspecialchars($blog['image']); ?>"
+                                                             alt="Current Image" width="150">
                                                     <?php else: ?>
                                                         <p>No image uploaded</p>
                                                     <?php endif; ?>
                                                 </div>
                                                 <h5 class="my-2">Upload New Image (optional)</h5>
                                                 <div class="form-group">
-                                                    <input type="file" class="form-control" name="cuctomeimage" id="cuctomeimage"/>
+                                                    <input type="file" class="form-control" name="cuctomeimage"
+                                                           id="cuctomeimage"/>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="row mt-4">
                                             <div class="col-md-6">
-                                                <button type="submit" class="btn btn-dark ml-2" onclick="datapass();">Update</button>
+                                                <button type="submit" class="btn btn-dark ml-2" onclick="datapass();">
+                                                    Update
+                                                </button>
                                             </div>
                                         </div>
                                     </div>
@@ -250,10 +239,12 @@ if ($blogId > 0) {
         } else if (content === '' || content === '<p><br></p>') {
             alert('Please mention content');
             return false;
+        } else if (!image) {
+            alert('Please add image first');
+            return false;
         } else {
             $('#editor-content').val(editorContent);
         }
     }
 </script>
-
 <?php include './include/footer.php'; ?>

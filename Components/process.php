@@ -46,6 +46,10 @@ $processSteps = isset($processSteps) ? $processSteps : [];
                                                     </li>
                                                 <?php endforeach; ?>
                                             </ul>
+                                            <a class="themeBtn" href="javascript:;" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                                Get Started
+                                                <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b>
+                                            </a>
                                         </div>
                                     </div>
                                     <div class="col-md-5">

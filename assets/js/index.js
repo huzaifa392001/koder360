@@ -67,7 +67,7 @@ function preloader() {
 function preloaderRemove() {
     let tl = gsap.timeline()
     tl.to(".preloader h2 .word .char", {
-        delay: 3,
+        // delay: 3,
         yPercent: 100,
         duration: 0.7,
         stagger: 0.15

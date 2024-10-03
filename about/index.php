@@ -14,11 +14,7 @@
                             About Us
                         </h1>
                         <p class="w-100">
-                            Exceptional digital experiences, engaging impactful logo designs solutions that inspire,
-                            affect and delight.
-                            <br>
-                            We carefully wrap emotionally rich aesthetics around strategic design concepts to deliver
-                            bulletproof designs that exceeds expectations.
+                           At Koder 360, we turn ideas into Digital Realities. Specializing in Web Design/Development, Mobile App Creation, Social Media Marketing, Paid Campaigns for Google and Meta, SEO, and captivating 2D & 3D Animations
                         </p>
                         <a class="themeBtn" href="javascript:;" data-bs-toggle="modal" data-bs-target="#exampleModal">
                             Request a Quote

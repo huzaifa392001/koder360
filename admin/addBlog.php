@@ -1,6 +1,7 @@
 <?php 
 include 'authenticate.php'; 
 include './include/header.php'; 
+include 'connect.php'; 
 
 // ini_set('display_errors', 1);
 // ini_set('display_startup_errors', 1);
@@ -8,17 +9,7 @@ include './include/header.php';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     
-$servername = "localhost"; // Change to your database server
-$username = "u986322413_phantom"; // Change to your database username
-$password = "U986322413_admin"; // Change to your database password
-$dbname = "u986322413_phantom"; // Change to your database name
 
-
-$conn = new mysqli($servername, $username, $password, $dbname);
-
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
     
 
     $title = mysqli_real_escape_string($conn, $_POST['title']);
@@ -74,17 +65,18 @@ if ($conn->connect_error) {
 
 <link rel="stylesheet" href="/assets/css/editor.css">
 
-<section class="blogListSec">
+<section class="inner-banner">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <div class="headingCont">
-                    <h2 class="secHeading">Add Blog</h2>
+                    <h2 class="secHeading">Add Blogs</h2>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
 
 <section class="addBlogSec">
     <div class="container">

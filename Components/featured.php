@@ -20,6 +20,7 @@ $beforeAfterSliderImages = isset($beforeAfterSliderImages) ? $beforeAfterSliderI
                 </h5>
             </div>
             <div class="col-12">
+                <!-- Thumbnail Slider -->
                 <div class="swiper thumbSlider">
                     <div class="swiper-wrapper">
                         <?php foreach ($thumbSliderImages as $image): ?>
@@ -31,16 +32,40 @@ $beforeAfterSliderImages = isset($beforeAfterSliderImages) ? $beforeAfterSliderI
                         <?php endforeach; ?>
                     </div>
                 </div>
+
+                <!-- Before & After Slider -->
                 <div class="swiper beforeAfterSlider">
                     <div class="swiper-wrapper">
-                        <?php foreach ($beforeAfterSliderImages as $image): ?>
+                        <?php foreach ($beforeAfterSliderImages as $item): ?>
                             <div class="swiper-slide">
-                                <figure>
-                                    <img src="<?php echo $image; ?>" alt="">
-                                </figure>
+                                <div class="container-fluid">
+                                    <div class="row align-items-center">
+                                        <div class="col-md-6">
+                                            <div class="content">
+                                                <h3>
+                                                    <?php echo $item['title']; ?>
+                                                </h3>
+                                                <p>
+                                                    <?php echo $item['itemDesc']; ?>
+                                                </p>
+                                                <a class="themeBtn" href="javascript:;" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                                    Get Started
+                                                    <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <figure>
+                                                <img src="<?php echo $item['image']; ?>" alt="">
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         <?php endforeach; ?>
                     </div>
+
+                    <!-- Slider Navigation -->
                     <div class="swiper-button-next">
                         <img src="/assets/images/righttarrowberf.webp" alt="">
                     </div>

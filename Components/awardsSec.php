@@ -18,6 +18,9 @@
                         experiences, our team continues to set new standards in design excellence, inspiring us to
                         push the boundaries of innovation and redefine visual communication.
                     </p>
+                    <a class="themeBtn" href="javascript:;" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                        Get Started
+                        <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b></a>
                 </div>
             </div>
             <div class="col-md-5">
@@ -95,6 +98,9 @@
                         and future-oriented thinking, have earned us prestigious awards. Experience ROI-centric
                         design excellence with us, where creativity meets strategic impact.
                     </p>
+                    <a class="themeBtn" href="javascript:;" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                        Get Started
+                        <span></span><span></span><span></span><span></span> <b class="blinking-dot"></b></a>
                 </div>
             </div>
             <div class="col-md-5">
