@@ -66,63 +66,443 @@
                     </div>
                 </div>
                 <div class="col-md-12">
-                    <h4>Services</h4>
-                    <ul>
-                        <li>
-                            <a href="">
-                                <i class="fas fa-caret-right"></i>
-                                Home
-                            </a>
-                        </li>
-                        <li>
-                            <a href="">
-                                <i class="fas fa-caret-right"></i>
-                                About Us
-                            </a>
-                        </li>
-                        <li>
-                            <a href="">
-                                <i class="fas fa-caret-right"></i>
-                                Contact Us
-                            </a>
-                        </li>
-                        <li>
-                            <a href="">
-                                <i class="fas fa-caret-right"></i>
-                                Website Design
-                            </a>
-                        </li>
-                        <li>
-                            <a href="">
-                                <i class="fas fa-caret-right"></i>
-                                Web Portal
-                            </a>
-                        </li>
-                        <li>
-                            <a href="">
-                                <i class="fas fa-caret-right"></i>
-                                SEO
-                            </a>
-                        </li>
-                        <li>
-                            <a href="">
-                                <i class="fas fa-caret-right"></i>
-                                Video Animation
-                            </a>
-                        </li>
-                        <li>
-                            <a href="">
-                                <i class="fas fa-caret-right"></i>
-                                Mobile Apps
-                            </a>
-                        </li>
-                        <li>
-                            <a href="">
-                                <i class="fas fa-caret-right"></i>
-                                Social Media
-                            </a>
-                        </li>
-                    </ul>
+                    <div class="links">
+                        <div data-lenis-prevent>
+                            <h4>Services:</h4>
+                            <ul>
+                                <li>
+                                    <a href="/">
+                                        Home
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/about">
+                                        About Us
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/contact">
+                                        Contact Us
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/web-development">
+                                        Website Design
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/web-portal">
+                                        Web Portal
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/seo">
+                                        SEO
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/video-animation">
+                                        Video Animation
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/mobile-apps">
+                                        Mobile Apps
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/social-media">
+                                        Social Media
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div data-lenis-prevent>
+                            <h4>Development:</h4>
+                            <ul>
+                                <li>
+                                    <a href="">
+                                        Enterprise
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        SAS
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Shopify
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        WordPress
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Magento
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Web App
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        CMS
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Custom Web Development
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Webflow
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div data-lenis-prevent>
+                            <h4>Logo:</h4>
+                            <ul>
+                                <li>
+                                    <a href="">
+                                        Emblem Logo
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Mascot
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Abstract
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Wordmark
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Pictorial
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Monograms
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Lettermark
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Dynamic Logo
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Brand Mark
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Animtaed
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        2d
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        3d
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div data-lenis-prevent>
+                            <h4>Digital Marketing:</h4>
+                            <ul>
+                                <li>
+                                    <a href="">
+                                        PPC
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Display
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        YouTube Marketing
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Internet Marketing
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Email
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Shopping Ads
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        PR
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Content Marketing
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Affiliate Marketing
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Billboards
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Viral Marketing
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div data-lenis-prevent>
+                            <h4>Social Media:</h4>
+                            <ul>
+                                <li>
+                                    <a href="">
+                                        Organic Social Media
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Paid Social Media
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Influencer Marketing
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Chatbot
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Copywriting
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Organic Social Media
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Paid Social Media
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Influencer Marketing
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Chatbot
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Copywriting
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div data-lenis-prevent>
+                            <h4>SEO:</h4>
+                            <ul>
+                                <li>
+                                    <a href="">
+                                        Enterprise
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Startup
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        SAAS
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Shopify
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Ecommerce
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        WordPress
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Woocommerce SEO
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Local
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        YouTube
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        GMB
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Fiverr
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Amazon SEO
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Etsy
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Ebay
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Upwork
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Off Page
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Voice
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Image
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div data-lenis-prevent>
+                            <h4>Software:</h4>
+                            <ul>
+                                <li>
+                                    <a href="">
+                                        C#
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        ERP
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        CRM
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Database
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Devops
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        SQA
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        API development
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Embedded systems development
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Security software development
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Custom Software
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="">
+                                        Agile Software Development
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-md-12">
                     <h4>Contact Us</h4>

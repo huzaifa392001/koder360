@@ -953,7 +953,7 @@ canvas {
 .processSlider {
     position: relative;
     margin: 4rem 0;
-    height: 300px;
+    height: 350px;
     width: 100%;
 }
 
@@ -1141,8 +1141,8 @@ footer .bgImg {
 
 .footerSec h4 {
     color: var(--white);
-    font-size: 2rem;
-    margin: 0 0 1rem;
+    font-size: 1.25rem;
+    margin: 0 0 0.25rem;
 }
 
 .footerSec ul li a {
@@ -1150,7 +1150,7 @@ footer .bgImg {
     display: flex;
     align-items: center;
     gap: 1rem;
-    font-size: 1.25rem;
+    font-size: 1rem;
 }
 
 .footerSec ul.contact {
@@ -1181,9 +1181,9 @@ footer .bgImg {
     margin: auto;
 }
 
-.footerSec ul {
-    max-height: 200px;
-    columns: 5;
+.footerSec .links {
+    display: flex;
+    margin: 0 -0.5rem;
 }
 
 .footerSec ul li {
@@ -1639,4 +1639,24 @@ p + .themeBtn, ul + .themeBtn {
 
 .contentSec {
     padding: 4rem 0;
+}
+
+.accordion-item {border: 1px solid #0002;box-shadow: 0 0 15px 5px #0002;}
+
+.accordion-item .accordion-button {
+    background: var(--white);
+    border: none;
+    box-shadow: none;
+    padding: 2rem 3rem;
+    border-bottom: 1px solid #0002;
+}
+
+.faqSec .row {
+    gap: 2rem 0;
+}
+.footerSec .links > div {
+    max-height: 200px;
+    overflow: auto;
+    flex: 0 1 14%;
+    padding: 0 0.5rem;
 }

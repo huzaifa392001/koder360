@@ -1,13 +1,18 @@
 <?php include "./includes/header.php" ?>
+
     <div class="preloader">
         <img src="/assets/images/blub-holo.webp" alt="" class="holo">
         <img src="/assets/images/blub-fill.webp" alt="" class="fill">
         <h2><?php echo $SITE_NAME_TEXT ?></h2>
     </div>
     <div class="page-wrapper">
+
 <?php include './includes/sideMenu.php' ?>
+
     <div class="page-inner">
+
 <?php include './includes/menu.php' ?>
+
     <section class="mainSec">
         <canvas id="fluidCanvas"></canvas>
         <div class="container-fluid">
@@ -28,6 +33,7 @@
             </div>
         </div>
     </section>
+
     <section class="aboutSec">
         <div class="panel first">
             <h3 class="bigLine">
@@ -42,7 +48,9 @@
                         <div class="content">
                             <h2 class="subHeading">About Us</h2>
                             <p>
-                                At Koder 360, we turn ideas into Digital Realities. Specializing in Web Design/Development, Mobile App Creation, Social Media Marketing, Paid Campaigns for Google and Meta, SEO, and captivating 2D & 3D Animations
+                                At Koder 360, we turn ideas into Digital Realities. Specializing in Web
+                                Design/Development, Mobile App Creation, Social Media Marketing, Paid Campaigns for
+                                Google and Meta, SEO, and captivating 2D & 3D Animations
                             </p>
                             <a class="themeBtn" href="javascript:;" data-bs-toggle="modal"
                                data-bs-target="#exampleModal"> Get Started
@@ -173,11 +181,13 @@
             </div>
         </div>
     </section>
+
     <div class="headline">
         <h2>
             We bring brands to life through Identity.
         </h2>
     </div>
+
 <?php include './Components/awardsSec.php' ?>
 <?php
 $subHeading = 'WORK WITH US';
@@ -339,6 +349,7 @@ $processSteps = [
 ];
 include './Components/process.php';
 ?>
+
     <section class="blogsSec">
         <div class="container">
             <div class="row">
@@ -401,9 +412,35 @@ include './Components/process.php';
     </section>
 
 <?php
-$subHeading = 'WORK WITH US';
-$mainHeading = 'Let’s work together to build something great';
-include './Components/cta.php';
+$secHeading = 'Frequently Asked Questions';
+$description = 'Let’s work together to build something great';
+$faqItems = [
+    [
+        'question' => 'What is web design?',
+        'answer' => 'Web design is the process of creating websites that are visually appealing, functional, and user-friendly.'
+    ],
+    [
+        'question' => 'How long does it take to design a website?',
+        'answer' => 'The duration depends on the project scope, but typically, it takes around 4 to 6 weeks for a standard website.'
+    ],
+    [
+        'question' => 'What is responsive design?',
+        'answer' => 'Responsive design ensures that a website looks and functions well across a variety of devices, from mobile phones to desktop computers.'
+    ],
+    [
+        'question' => 'How much does a website cost?',
+        'answer' => 'The cost of a website varies based on its complexity, features, and design requirements. It can range from a few hundred dollars to several thousand.'
+    ],
+    [
+        'question' => 'Do you provide website maintenance?',
+        'answer' => 'Yes, we offer website maintenance services to ensure your site remains secure, up-to-date, and running smoothly.'
+    ],
+    [
+        'question' => 'Can I update the content on my website myself?',
+        'answer' => 'Yes, we build websites with content management systems (CMS) that allow you to easily update text, images, and other content without needing technical knowledge.'
+    ]
+];
+include './Components/faq.php';
 ?>
 <?php include './Components/testimonials.php' ?>
 <?php
@@ -411,5 +448,4 @@ $subHeading = 'WORK WITH US';
 $mainHeading = 'Let’s work together to build something great';
 include './Components/cta.php';
 ?>
-<?php include './Components/testimonials.php' ?>
 <?php include "./includes/footer.php" ?>
