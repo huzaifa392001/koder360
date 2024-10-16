@@ -37,10 +37,10 @@
             </h2>
         </div>
         <div class="serviceRow">
-            <img src="/assets/images/portfolio/mobileapps/slide1.webp" alt="" class="first active">
-            <img src="/assets/images/portfolio/mobileapps/slide2.webp" alt="" class="second">
-            <img src="/assets/images/portfolio/mobileapps/slide3.webp" alt="" class="third">
-            <img src="/assets/images/portfolio/mobileapps/slide4.webp" alt="" class="forth">
+            <img loading="lazy" src="/assets/images/portfolio/mobileapps/slide1.webp" alt="" class="first active">
+            <img loading="lazy" src="/assets/images/portfolio/mobileapps/slide2.webp" alt="" class="second">
+            <img loading="lazy" src="/assets/images/portfolio/mobileapps/slide3.webp" alt="" class="third">
+            <img loading="lazy" src="/assets/images/portfolio/mobileapps/slide4.webp" alt="" class="forth">
             <div class="serviceBox active" data-img="first">
                 <div class="content">
                     <h3>
@@ -108,44 +108,44 @@
         <ul class="portfoliowrapper">
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/mobileapps/port1.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/mobileapps/port1.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/mobileapps/port2.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/mobileapps/port2.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/mobileapps/port3.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/mobileapps/port3.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/mobileapps/port4.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/mobileapps/port4.webp" class="img-fluid" alt="">
                 </figure>
             </li>
         </ul>
         <ul class="portfoliowrapper portfoliowrapper1">
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/mobileapps/port5.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/mobileapps/port5.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/mobileapps/port6.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/mobileapps/port6.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/mobileapps/port7.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/mobileapps/port7.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/mobileapps/port8.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/mobileapps/port8.webp" class="img-fluid" alt="">
                 </figure>
             </li>
         </ul>

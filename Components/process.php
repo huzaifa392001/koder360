@@ -23,7 +23,7 @@ $processSteps = isset($processSteps) ? $processSteps : [];
                         <div class="processThumbBox <?php echo $index === 0 ? 'active' : ''; ?>">
                             <figure>
                                 <figcaption><?php echo $step['title']; ?></figcaption>
-                                <img src="<?php echo $step['thumbImage']; ?>" alt="">
+                                <img loading="lazy" src="<?php echo $step['thumbImage']; ?>" alt="">
                             </figure>
                         </div>
                     <?php endforeach; ?>
@@ -54,7 +54,7 @@ $processSteps = isset($processSteps) ? $processSteps : [];
                                     </div>
                                     <div class="col-md-5">
                                         <figure>
-                                            <img src="<?php echo $step['fullImage']; ?>" alt="">
+                                            <img loading="lazy" src="<?php echo $step['fullImage']; ?>" alt="">
                                         </figure>
                                     </div>
                                 </div>

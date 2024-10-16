@@ -10,13 +10,13 @@
                     </h2>
                     <div class="imgsCont">
                         <figure>
-                            <img src="/assets/images/gooleimg.webp" alt="">
+                            <img loading="lazy" src="/assets/images/gooleimg.webp" alt="">
                         </figure>
                         <figure>
-                            <img src="/assets/images/upcity.webp" alt="">
+                            <img loading="lazy" src="/assets/images/upcity.webp" alt="">
                         </figure>
                         <figure>
-                            <img src="/assets/images/cluch.webp" alt="">
+                            <img loading="lazy" src="/assets/images/cluch.webp" alt="">
                         </figure>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                                     choice for digital solutions.
                                 </p>
                                 <div class="name-details">
-                                    <img src="/assets/images/testimg1.webp">
+                                    <img loading="lazy" src="/assets/images/testimg1.webp">
                                     <h6>Brad Maddison <br> <span>Marketing Director</span></h6>
                                 </div>
                             </div>
@@ -52,7 +52,7 @@
                                     work
                                     with, and we anticipate continued success.</p>
                                 <div class="name-details">
-                                    <img src="/assets/images/testimg2.webp">
+                                    <img loading="lazy" src="/assets/images/testimg2.webp">
                                     <h6>Julia Dunkin<br> <span>Entrepreneur</span></h6>
                                 </div>
                             </div>
@@ -71,7 +71,7 @@
                                     deadlines
                                     set them apart.</p>
                                 <div class="name-details">
-                                    <img src="/assets/images/testimg3.webp">
+                                    <img loading="lazy" src="/assets/images/testimg3.webp">
                                     <h6>Javier Davis <br> <span>Businessman</span></h6>
                                 </div>
                             </div>
@@ -89,7 +89,7 @@
                                     throughout the
                                     project. </p>
                                 <div class="name-details">
-                                    <img src="/assets/images/testimg4.webp">
+                                    <img loading="lazy" src="/assets/images/testimg4.webp">
                                     <h6>Herbert Carson<br> <span>Digital Marketing Manager</span></h6>
                                 </div>
                             </div>
@@ -105,7 +105,7 @@
                                     journey. A
                                     reliable and innovative choice for digital solutions.</p>
                                 <div class="name-details">
-                                    <img src="/assets/images/testimg1.webp">
+                                    <img loading="lazy" src="/assets/images/testimg1.webp">
                                     <h6>Brad Maddison <br> <span>Marketing Director</span></h6>
                                 </div>
                             </div>
@@ -123,7 +123,7 @@
                                     work
                                     with, and we anticipate continued success.</p>
                                 <div class="name-details">
-                                    <img src="/assets/images/testimg2.webp">
+                                    <img loading="lazy" src="/assets/images/testimg2.webp">
                                     <h6>Julia Dunkin<br> <span>Entrepreneur</span></h6>
                                 </div>
                             </div>
@@ -142,7 +142,7 @@
                                     deadlines
                                     set them apart.</p>
                                 <div class="name-details">
-                                    <img src="/assets/images/testimg3.webp">
+                                    <img loading="lazy" src="/assets/images/testimg3.webp">
                                     <h6>Javier Davis <br> <span>Businessman</span></h6>
                                 </div>
                             </div>
@@ -160,17 +160,17 @@
                                     throughout the
                                     project. </p>
                                 <div class="name-details">
-                                    <img src="/assets/images/testimg4.webp">
+                                    <img loading="lazy" src="/assets/images/testimg4.webp">
                                     <h6>Herbert Carson<br> <span>Digital Marketing Manager</span></h6>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-button-next">
-                        <img src="/assets/images/righttarrowberf.webp" alt="">
+                        <img loading="lazy" src="/assets/images/righttarrowberf.webp" alt="">
                     </div>
                     <div class="swiper-button-prev">
-                        <img src="/assets/images/leftarrowberf.webp" alt="">
+                        <img loading="lazy" src="/assets/images/leftarrowberf.webp" alt="">
                     </div>
                 </div>
             </div>

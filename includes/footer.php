@@ -1,5 +1,5 @@
 <footer>
-    <img src="/assets/images/bgblub.webp" alt="" class="bgImg"/>
+    <img loading="lazy" src="/assets/images/bgblub.webp" alt="" class="bgImg"/>
     <div class="contentSec">
         <div class="container-md">
             <div class="row justify-content-between align-items-center">
@@ -48,7 +48,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="footerLogo">
-                        <img src="/assets/images/white-logo.webp" alt=""/>
+                        <img loading="lazy" src="/assets/images/white-logo.webp" alt=""/>
                         <div class="socialList">
                             <a href="" target="_blank">
                                 <i class="fab fa-facebook-f"></i>
@@ -68,7 +68,7 @@
                 <div class="col-md-12">
                     <div class="links">
                         <div data-lenis-prevent>
-                            <h4>Services:</h4>
+                            <h4>Quick Links:</h4>
                             <ul>
                                 <li>
                                     <a href="/">
@@ -118,7 +118,7 @@
                             </ul>
                         </div>
                         <div data-lenis-prevent>
-                            <h4>Development:</h4>
+                            <h4>Website Development:</h4>
                             <ul>
                                 <li>
                                     <a href="">
@@ -443,7 +443,7 @@
                             </ul>
                         </div>
                         <div data-lenis-prevent>
-                            <h4>Software:</h4>
+                            <h4>Software Development:</h4>
                             <ul>
                                 <li>
                                     <a href="">
@@ -508,7 +508,7 @@
                     <h4>Contact Us</h4>
                     <ul class="contact">
                         <li>
-                            <img src="/assets/images/canada.webp" alt=""/>
+                            <img loading="lazy" src="/assets/images/canada.webp" alt=""/>
                             <a href="javascript:;">
                                 <i class="fas fa-map-pin"></i>
                                 <?php echo $ADDRESS ?>
@@ -519,7 +519,7 @@
                             </a>
                         </li>
                         <li>
-                            <img src="/assets/images/pakistan.svg" alt=""/>
+                            <img loading="lazy" src="/assets/images/pakistan.svg" alt=""/>
                             <a href="javascript:;">
                                 <i class="fas fa-map-pin"></i>
                                 <?php echo $ADDRESS_PK ?>
@@ -530,7 +530,7 @@
                             </a>
                         </li>
                         <li>
-                            <img src="/assets/images/usa.webp" alt=""/>
+                            <img loading="lazy" src="/assets/images/usa.webp" alt=""/>
                             <a href="javascript:;">
                                 <i class="fas fa-map-pin"></i>
                                 <?php echo $ADDRESS_USA ?>

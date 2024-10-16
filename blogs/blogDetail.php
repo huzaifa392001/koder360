@@ -68,7 +68,7 @@ include '../includes/menu.php'
                     $row = $result->fetch_assoc();
                     echo '<div class="col-12">';
                     echo '        <figure class="blogImg">';
-                    echo '            <img src="../admin/uploads/' . htmlspecialchars($row['image']) . '" alt="' . htmlspecialchars($row['heading']) . '">';
+                    echo '            <img loading="lazy" src="../admin/uploads/' . htmlspecialchars($row['image']) . '" alt="' . htmlspecialchars($row['heading']) . '">';
                     echo '        </figure>';
                     echo '    <div class="container">';
                     echo '        <div class="blogDetailCard">';

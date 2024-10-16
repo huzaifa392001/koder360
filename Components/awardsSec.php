@@ -1,7 +1,7 @@
 <section class="awardsSec">
-    <h3 class="bigLine">
-        Awards & Recognitions
-    </h3>
+<!--    <h3 class="bigLine">-->
+<!--        Awards & Recognitions-->
+<!--    </h3>-->
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-md-6">
@@ -25,7 +25,7 @@
             </div>
             <div class="col-md-5">
                 <figure class="awardsImg">
-                    <img src="/assets/images/4.4star.webp" alt="">
+                    <img loading="lazy" src="/assets/images/4.4star.webp" alt="">
                 </figure>
             </div>
         </div>
@@ -36,51 +36,51 @@
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award1.webp" alt="">
+                    <img loading="lazy" src="/assets/images/award1.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award2.webp" alt="">
+                    <img loading="lazy" src="/assets/images/award2.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award3.webp" alt="">
+                    <img loading="lazy" src="/assets/images/award3.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award4.webp" alt="">
+                    <img loading="lazy" src="/assets/images/award4.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award5.webp" alt="">
+                    <img loading="lazy" src="/assets/images/award5.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award6.webp" alt="">
+                    <img loading="lazy" src="/assets/images/award6.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award7.webp" alt="">
+                    <img loading="lazy" src="/assets/images/award7.webp" alt="">
                 </figure>
             </div>
             <div class="swiper-slide">
                 <figure>
-                    <img src="/assets/images/award8.webp" alt="">
+                    <img loading="lazy" src="/assets/images/award8.webp" alt="">
                 </figure>
             </div>
         </div>
     </div>
     <div class="swiper-button-next">
-        <img src="/assets/images/righttarrowberf.webp" alt="">
+        <img loading="lazy" src="/assets/images/righttarrowberf.webp" alt="">
     </div>
     <div class="swiper-button-prev">
-        <img src="/assets/images/leftarrowberf.webp" alt="">
+        <img loading="lazy" src="/assets/images/leftarrowberf.webp" alt="">
     </div>
 </div>
 <section class="awardsSec">
@@ -105,7 +105,7 @@
             </div>
             <div class="col-md-5">
                 <figure class="awardsImg">
-                    <img src="/assets/images/crafting-img.webp" alt="">
+                    <img loading="lazy" src="/assets/images/crafting-img.webp" alt="">
                 </figure>
             </div>
         </div>

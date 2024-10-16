@@ -182,7 +182,7 @@ if ($blogId > 0) {
                                                 <h5 class="my-2">Current Image</h5>
                                                 <div class="form-group">
                                                     <?php if ($blog['image']): ?>
-                                                        <img src="uploads/<?php echo htmlspecialchars($blog['image']); ?>"
+                                                        <img loading="lazy" src="uploads/<?php echo htmlspecialchars($blog['image']); ?>"
                                                              alt="Current Image" width="150">
                                                     <?php else: ?>
                                                         <p>No image uploaded</p>

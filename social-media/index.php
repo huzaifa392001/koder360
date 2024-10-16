@@ -40,10 +40,10 @@
             </h2>
         </div>
         <div class="serviceRow">
-            <img src="/assets/images/portfolio/smm/slide1.webp" alt="" class="first active">
-            <img src="/assets/images/portfolio/smm/slide2.webp" alt="" class="second">
-            <img src="/assets/images/portfolio/smm/slide3.webp" alt="" class="third">
-            <img src="/assets/images/portfolio/smm/slide4.webp" alt="" class="forth">
+            <img loading="lazy" src="/assets/images/portfolio/smm/slide1.webp" alt="" class="first active">
+            <img loading="lazy" src="/assets/images/portfolio/smm/slide2.webp" alt="" class="second">
+            <img loading="lazy" src="/assets/images/portfolio/smm/slide3.webp" alt="" class="third">
+            <img loading="lazy" src="/assets/images/portfolio/smm/slide4.webp" alt="" class="forth">
             <div class="serviceBox active" data-img="first">
                 <div class="content">
                     <h3>
@@ -110,44 +110,44 @@
         <ul class="portfoliowrapper">
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port1.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/smm/port1.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port2.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/smm/port2.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port3.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/smm/port3.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port4.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/smm/port4.webp" class="img-fluid" alt="">
                 </figure>
             </li>
         </ul>
         <ul class="portfoliowrapper portfoliowrapper1">
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port5.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/smm/port5.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port6.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/smm/port6.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port7.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/smm/port7.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/smm/port8.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/smm/port8.webp" class="img-fluid" alt="">
                 </figure>
             </li>
         </ul>

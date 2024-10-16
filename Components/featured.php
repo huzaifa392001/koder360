@@ -26,7 +26,7 @@ $beforeAfterSliderImages = isset($beforeAfterSliderImages) ? $beforeAfterSliderI
                         <?php foreach ($thumbSliderImages as $image): ?>
                             <div class="swiper-slide">
                                 <figure>
-                                    <img src="<?php echo $image; ?>" alt="">
+                                    <img loading="lazy" src="<?php echo $image; ?>" alt="">
                                 </figure>
                             </div>
                         <?php endforeach; ?>
@@ -56,7 +56,7 @@ $beforeAfterSliderImages = isset($beforeAfterSliderImages) ? $beforeAfterSliderI
                                         </div>
                                         <div class="col-md-6">
                                             <figure>
-                                                <img src="<?php echo $item['image']; ?>" alt="">
+                                                <img loading="lazy" src="<?php echo $item['image']; ?>" alt="">
                                             </figure>
                                         </div>
                                     </div>
@@ -67,10 +67,10 @@ $beforeAfterSliderImages = isset($beforeAfterSliderImages) ? $beforeAfterSliderI
 
                     <!-- Slider Navigation -->
                     <div class="swiper-button-next">
-                        <img src="/assets/images/righttarrowberf.webp" alt="">
+                        <img loading="lazy" src="/assets/images/righttarrowberf.webp" alt="">
                     </div>
                     <div class="swiper-button-prev">
-                        <img src="/assets/images/leftarrowberf.webp" alt="">
+                        <img loading="lazy" src="/assets/images/leftarrowberf.webp" alt="">
                     </div>
                 </div>
             </div>

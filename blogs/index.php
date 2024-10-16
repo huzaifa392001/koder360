@@ -59,7 +59,7 @@
                         echo '    <div class="blogCard">';
                         echo '        <a href="blogDetail.php?id=' . htmlspecialchars($row['id']) . '">';
                         echo '            <figure>';
-                        echo '                <img src="../admin/uploads/' . htmlspecialchars($row['image']) . '" alt="' . htmlspecialchars($row['heading']) . '">';
+                        echo '                <img loading="lazy" src="../admin/uploads/' . htmlspecialchars($row['image']) . '" alt="' . htmlspecialchars($row['heading']) . '">';
                         echo '            </figure>';
                         echo '        </a>';
                         echo '        <div class="content">';

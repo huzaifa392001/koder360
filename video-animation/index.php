@@ -35,10 +35,10 @@
             </h2>
         </div>
         <div class="serviceRow">
-            <img src="/assets/images/portfolio/videoanimation/slide1.webp" alt="" class="first active">
-            <img src="/assets/images/portfolio/videoanimation/slide2.webp" alt="" class="second">
-            <img src="/assets/images/portfolio/videoanimation/slide3.webp" alt="" class="third">
-            <img src="/assets/images/portfolio/videoanimation/slide4.webp" alt="" class="forth">
+            <img loading="lazy" src="/assets/images/portfolio/videoanimation/slide1.webp" alt="" class="first active">
+            <img loading="lazy" src="/assets/images/portfolio/videoanimation/slide2.webp" alt="" class="second">
+            <img loading="lazy" src="/assets/images/portfolio/videoanimation/slide3.webp" alt="" class="third">
+            <img loading="lazy" src="/assets/images/portfolio/videoanimation/slide4.webp" alt="" class="forth">
             <div class="serviceBox active" data-img="first">
                 <div class="content">
                     <h3>
@@ -118,44 +118,44 @@
         <ul class="portfoliowrapper">
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/videoanimation/port1.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/videoanimation/port1.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/videoanimation/port2.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/videoanimation/port2.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/videoanimation/port3.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/videoanimation/port3.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/videoanimation/port4.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/videoanimation/port4.webp" class="img-fluid" alt="">
                 </figure>
             </li>
         </ul>
         <ul class="portfoliowrapper portfoliowrapper1">
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/videoanimation/port5.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/videoanimation/port5.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/videoanimation/port6.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/videoanimation/port6.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/videoanimation/port7.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/videoanimation/port7.webp" class="img-fluid" alt="">
                 </figure>
             </li>
             <li>
                 <figure>
-                    <img src="/assets/images/portfolio/videoanimation/port8.webp" class="img-fluid" alt="">
+                    <img loading="lazy" src="/assets/images/portfolio/videoanimation/port8.webp" class="img-fluid" alt="">
                 </figure>
             </li>
         </ul>
