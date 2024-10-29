@@ -17,7 +17,9 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
           onload="this.onload=null;this.rel='stylesheet'">
     <link rel="stylesheet" href="/assets/css/styles.css" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="stylesheet" href="/assets/css/responsive.css" onload="this.onload=null;this.rel='stylesheet'">
-    <meta name="robots" content="noindex, nofollow">
+    <meta name="robots" content="index, follow">
+    <meta name="google-site-verification" content="XIjO6R4imxxoN2tKK4pS3HbfXkFmK5KWqsGHNxideTA" />
+
     <?php
     // Define the titles for different pages
     $pageTitles = [
@@ -35,6 +37,22 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
         'thank-you' => 'Thank You - ' . $SITE_NAME_TEXT,
     ];
 
+    // Define the meta descriptions for different pages
+    $pageDescriptions = [
+        '' => 'Discover Koder360 - your one-stop digital agency offering innovative web development, mobile apps, SEO, and much more.',
+        'about' => 'Learn more about Koder360 and how we provide cutting-edge web and mobile app development services.',
+        'contact' => 'Contact Koder360 for professional web design, mobile app development, SEO, and digital marketing services.',
+        'mobile-apps' => 'Koder360 specializes in mobile app development that delivers high performance and user satisfaction.',
+        'portfolio' => 'View the portfolio of Koder360 - showcasing our diverse and successful digital projects.',
+        'seo' => 'Boost your online presence with Koder360’s SEO services tailored for businesses of all sizes.',
+        'social-media' => 'Koder360 offers expert social media management and marketing services to grow your online influence.',
+        'video-animation' => 'Create engaging video animations with Koder360’s top-notch video production services.',
+        'website-design' => 'Transform your online presence with Koder360’s professional website design services.',
+        'web-portal' => 'Explore our web portal development solutions for streamlined and efficient business operations.',
+        'blogs' => 'Read the latest blogs from Koder360 on web development, SEO, and digital marketing trends.',
+        'thank-you' => 'Thank you for visiting Koder360. We look forward to helping you with your digital solutions.'
+    ];
+
     // Get the current page slug from the URL
     $currentSlug = trim(basename($_SERVER['REQUEST_URI'], ".php"), '/');
 
@@ -46,6 +64,13 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
         $title = 'Home Page - ' . $SITE_NAME_TEXT;
     }
 
+    // Determine description
+    if (array_key_exists($currentSlug, $pageDescriptions)) {
+        $description = $pageDescriptions[$currentSlug];
+    } else {
+        // Default to home page description if slug not found
+        $description = 'Welcome to Koder360 - your one-stop digital solution for web development, mobile apps, SEO, and more.';
+    }
 
     // Define the canonical URLs for different pages
     $canonicalUrls = [
@@ -77,15 +102,37 @@ if (file_exists(dirname(__FILE__) . '/../includes/config.php')) {
         // Fallback or error handling
         $canonicalUrl = BASE_URL;
     }
-
-    // Output the canonical link
-    echo '<link rel="canonical" href="' . htmlspecialchars($canonicalUrl, ENT_QUOTES, 'UTF-8') . '">';
-
     ?>
     <title><?php echo htmlspecialchars($title, ENT_QUOTES, 'UTF-8'); ?></title>
+    <meta name="description" content="<?php echo htmlspecialchars($description, ENT_QUOTES, 'UTF-8') ?>">
+    <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl, ENT_QUOTES, 'UTF-8') ?>">
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N9TJQ5RM');</script>
+    <!-- End Google Tag Manager -->
 </head>
 
 <body>
+
+<?php include './schema/home.php' ?>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N9TJQ5RM"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
 <div class="fullMenu">
     <div class="bgImg about"></div>
     <div class="bgImg portfolio"></div>

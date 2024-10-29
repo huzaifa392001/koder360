@@ -12,4 +12,4 @@ $ADDRESS_PK = 'Plot # 3/29 Union council Road  no 15 Maqboolabad M-C-H-S, Karach
 $ADDRESS_USA = 'Wyoming, 30 N GOULD ST STE R';
 
 $EMAIL = 'info@koder360.com';
-define('BASE_URL', 'https://koder360.com/');
+define('BASE_URL', 'https://www.koder360.com/');

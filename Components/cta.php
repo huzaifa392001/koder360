@@ -1,7 +1,7 @@
 <div class="ctaBanner">
     <div class="container">
         <div class="row align-items-center justify-content-center">
-            <div class="col-xl-7 col-md-10">
+            <div class="col-xl-8 col-md-10">
                 <h3 class="subHeading">
                     <?php echo isset($subHeading) ? $subHeading : 'WORK WITH US'; ?>
                 </h3>

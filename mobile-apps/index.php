@@ -11,9 +11,9 @@
                 <div class="row">
                     <div class="col-md-7">
                         <h1>
-                            Mobile Apps That Offer
+                            A Trusted Mobile App Development Services
                             <br>
-                            Incredible User Experience
+                            Company With a Global Presence
                         </h1>
                         <ul>
                             <li>
@@ -35,6 +35,9 @@
                 <br>
                 Development Services
             </h2>
+            <p>
+                How Can Our App Programming Company Help Your Business Grow?
+            </p>
         </div>
         <div class="serviceRow">
             <img loading="lazy" src="/assets/images/portfolio/mobileapps/slide1.webp" alt="" class="first active">
@@ -45,12 +48,10 @@
                 <div class="content">
                     <h3>
                         <span>01</span>
-                        iOS App Development
+                        iOS Platforms
                     </h3>
                     <p>
-                        We pride ourselves on being experts in iOS app development and we believe in helping your
-                        business thrive by having a great mobile app for your products and services. We have dedicated
-                        app developers you can trust.
+                        We provide professional iOS mobile app development services, from concept to product launch. Our team focuses on delivering visually appealing and profitable applications, as well as programming languages, to enhance productivity for your products and services, with a deep passion for unmatched user experience.
                     </p>
                 </div>
             </div>
@@ -61,8 +62,7 @@
                         Android App Development
                     </h3>
                     <p>
-                        We provide custom Android apps for small and large businesses. With industry-specific expertise,
-                        our developers understand industry requirements and add value to mobile app services.
+                        Our mobile app development services offer custom Android app development solutions for businesses of all sizes, helping them achieve their goals. With our in-depth industry knowledge, our developers understand the constantly evolving requirements while adding value to your mobile app solutions.
                     </p>
                 </div>
             </div>
@@ -73,8 +73,7 @@
                         Ecommerce App
                     </h3>
                     <p>
-                        We specialize in crafting Ecommerce apps that empower your business with a seamless mobile
-                        shopping experience, fostering growth in the digital marketplace.
+                        Our eCommerce mobile app development services in the USA are focused on providing companies with flawless mobile shopping experiences, ensuring that app development is targeted to the current market, driving success and increasing consumer interaction, supporting digital marketplace growth.
                     </p>
                 </div>
             </div>
@@ -82,11 +81,10 @@
                 <div class="content">
                     <h3>
                         <span>04</span>
-                        Hybird Apps
+                        Hybrid Apps
                     </h3>
                     <p>
-                        Hybrid apps are web apps that have a look and feel similar to native apps. We design and develop
-                        Hybrid Apps in such a way that they can be downloaded and operated on all operating systems.
+                        Hybrid apps are online applications that seem and operate similarly to native applications. As part of our mobile app development services, we design and construct hybrid apps that can be downloaded and used smoothly across all operating systems, offering organizations a flexible and efficient solution.
                     </p>
                 </div>
             </div>
@@ -179,7 +177,7 @@ $beforeAfterSliderImages = [
     [
         "title" => 'Lorem Ipsum',
         "itemDesc" => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum, veniam, vero. Commodi dolorum et facilis hic officia sit voluptatum? Amet aspernatur at deleniti explicabo, mollitia nemo nulla omnis perferendis quia quod. Ad corporis doloribus, ea earum eius exercitationem ipsam magnam molestias numquam quas quia repudiandae sunt suscipit totam ut voluptatibus?",
-        "image" => '/assets/images/mobile/mobile1.png',
+        "image" => '/assets/images/mobile/mobile1.webp',
     ],
     [
         "title" => 'Lorem Ipsum',
@@ -319,36 +317,36 @@ include '../Components/process.php';
 ?>
 <?php
 $subHeading = 'WORK WITH US';
-$mainHeading = 'Let’s work together to build something great';
+$mainHeading = 'Your Vision, Our Mobile App Development Services';
 include '../Components/cta.php';
 ?>
 <?php
 $secHeading = 'Frequently Asked Questions';
-$description = 'Let’s work together to build something great';
+$description = 'Smart Solutions from a Leading Mobile App Development Company';
 $faqItems = [
     [
-        'question' => 'What is web design?',
-        'answer' => 'Web design is the process of creating websites that are visually appealing, functional, and user-friendly.'
+        'question' => 'What are mobile app development services?',
+        'answer' => 'Mobile app development services create user-friendly applications for mobile devices, personalized according to specific business needs.'
     ],
     [
-        'question' => 'How long does it take to design a website?',
-        'answer' => 'The duration depends on the project scope, but typically, it takes around 4 to 6 weeks for a standard website.'
+        'question' => 'Why choose a mobile app development company?',
+        'answer' => 'A good company brings expertise and quality assurance, helping you create a successful app.'
     ],
     [
-        'question' => 'What is responsive design?',
-        'answer' => 'Responsive design ensures that a website looks and functions well across a variety of devices, from mobile phones to desktop computers.'
+        'question' => 'What should I consider when developing a mobile app?',
+        'answer' => 'Consider your target audience, the platform (iOS or Android), and user experience.'
     ],
     [
-        'question' => 'How much does a website cost?',
-        'answer' => 'The cost of a website varies based on its complexity, features, and design requirements. It can range from a few hundred dollars to several thousand.'
+        'question' => 'How does app programming help in development?',
+        'answer' => 'App programming builds your apps functionality, enabling features like user interaction and data storage.'
     ],
     [
-        'question' => 'Do you provide website maintenance?',
-        'answer' => 'Yes, we offer website maintenance services to ensure your site remains secure, up-to-date, and running smoothly.'
+        'question' => 'What platforms can mobile apps be developed for?',
+        'answer' => 'Mobile apps are primarily developed for iOS and Android, ensuring wide accessibility.'
     ],
     [
-        'question' => 'Can I update the content on my website myself?',
-        'answer' => 'Yes, we build websites with content management systems (CMS) that allow you to easily update text, images, and other content without needing technical knowledge.'
+        'question' => 'Does Koder 360 handle app maintenance?',
+        'answer' => 'Yes, Koder 360 provides ongoing maintenance to keep your app secure and updated with new features.'
     ]
 ];
 include '../Components/faq.php';

@@ -244,6 +244,10 @@ section {
     font-family: 'Otterco Regular', serif;
 }
 
+.secHeading.smallHeading {
+    font-size: 3rem;
+}
+
 .subHeading {
     font-size: 1.5rem;
     text-transform: capitalize;
@@ -1647,7 +1651,9 @@ p + .themeBtn, ul + .themeBtn {
     background: var(--white);
     border: none;
     box-shadow: none;
-    padding: 2rem 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-right: 3rem;
     border-bottom: 1px solid #0002;
 }
 

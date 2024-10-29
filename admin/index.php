@@ -53,7 +53,7 @@ $result = $conn->query($sql);
                                 ?>
                                 <tr>
                                     <td>
-                                        <img loading="lazy" src="<?php echo $imagePath; ?>" alt="" style="width: 100px; height: auto;">
+                                        <img src="<?php echo $imagePath; ?>" alt="" style="width: 100px; height: auto;">
                                     </td>
                                     <td><?php echo $heading; ?></td>
                                     <td>
